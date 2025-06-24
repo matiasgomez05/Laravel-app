@@ -9,7 +9,6 @@ classDiagram
     %% Entidades principales
 
     class Persona {
-        <<abstract>> Persona
         #nombre: String
         #apellido: String 
         #direccion: String 
@@ -69,7 +68,6 @@ classDiagram
     }
 
     class Producto {
-        <<abstract>> Producto
         #idProducto: Integer
         #nombre: String
         #descripcion: String
@@ -127,7 +125,6 @@ classDiagram
     
     
     class Garantia {
-        <<interface>> Garantia
         +verificarVigencia()
     }
     
@@ -147,15 +144,19 @@ classDiagram
         #costoAdicional: Double 
         +verificarVigencia()
     }
+    %% Anotaciones    
+    <<abstract>> Persona
+    <<abstract>> Producto
+    <<interface>> Garantia
     
     %% Herencias
-    Producto <|-- Sofa
-    Producto <|-- Sillon
-    Producto <|-- Almohadon
-    Producto <|-- Respaldo
-    Persona <|-- Cliente
-    Persona <|-- Usuario
-    Persona <|-- Proveedor
+    Producto <|-- Sofa : Es un
+    Producto <|-- Sillon : Es un
+    Producto <|-- Almohadon : Es un
+    Producto <|-- Respaldo : Es un
+    Persona <|-- Cliente : Es una
+    Persona <|-- Usuario : Es una
+    Persona <|-- Proveedor : Es una
     Garantia <|.. GarantiaBasica
     Garantia <|.. GarantiaExtendida
     
