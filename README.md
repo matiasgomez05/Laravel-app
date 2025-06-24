@@ -7,7 +7,9 @@ Los siguientes diagramas muestran las relaciones entre las entidades del sistema
 ```mermaid
 classDiagram
     %% Entidades principales
-    abstract class Persona {
+
+    class Persona {
+        <<abstract>> Persona
         #nombre: String
         #apellido: String 
         #direccion: String 
@@ -66,7 +68,8 @@ classDiagram
         +calcularSubtotal()
     }
 
-    abstract class Producto {
+    class Producto {
+        <<abstract>> Producto
         #idProducto: Integer
         #nombre: String
         #descripcion: String
@@ -123,7 +126,8 @@ classDiagram
     }
     
     
-    interface class Garantia {
+    class Garantia {
+        <<interface>> Garantia
         +verificarVigencia()
     }
     
