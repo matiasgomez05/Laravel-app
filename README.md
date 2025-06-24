@@ -1,134 +1,169 @@
-# Diagrama UML - Sueños en Telas
+# Diagramas - Sueños en Telas
 
 Los siguientes diagramas muestran las relaciones entre las entidades del sistema "Sueños en telas" y se actualizarán a medida que avance el desarrollo del mismo.
 
-## Diagrama de Clases
+## Diagrama de Clases UML
 
 ```mermaid
 classDiagram
     %% Entidades principales
-    class Producto {
-        +String nombre
-        +String descripcion
-        +Double precio
-        +String categoria
-        +obtenerPrecio()
-        +actualizarStock()
+    abstract class Persona {
+        #nombre: String
+        #apellido: String 
+        #direccion: String 
+        #telefono: String 
+        #email: String 
+        #fechaRegistro: Date
+        #ultimaActualizacion: Date
+        +obtenerNombreCompleto(): String
+        +actualizarContacto(nombre: String, apellido: String, direccion: String, telefono: String, email: String): Void
     }
-    
-    class Sofa {
-        +String tipo
-        +Integer capacidad
-        +String material
-        +obtenerCapacidad()
-    }
-    
-    class Sillon {
-        +String estilo
-        +Boolean reclinable
-        +obtenerEstilo()
-    }
-    
-    class Persona {
-        +String nombre
-        +String apellido
-        +String email
-        +String telefono
-        +obtenerNombreCompleto()
-        +actualizarContacto()
-    }
-    
+
     class Cliente {
-        +String numeroCliente
-        +String direccion
-        +Date fechaRegistro
+        #idCliente: Integer 
         +obtenerHistorialCompras()
     }
-    
+
     class Usuario {
-        +String username
-        +String password
-        +String rol
-        +Boolean activo
-        +autenticar()
+        #idUsuario: Integer 
+        #username: String 
+        #password: String 
+        #activo: Boolean 
+        #esAdmin: Boolean
+        +login()
         +cambiarPassword()
     }
     
     class Proveedor {
-        +String codigoProveedor
-        +String empresa
-        +String direccion
+        #idProveedor: Integer 
+        +empresa: String 
         +obtenerCatalogo()
     }
-    
+
     class Venta {
-        +String numeroVenta
-        +Date fecha
-        +Double total
-        +String estado
-        +calcularTotal()
+        #idVenta: Integer
+        #idCliente: Integer
+        #idUsuario: Integer
+        #fechaVenta: Date
+        #fechaEntrega: Date
+        #tiempoFabricacion: Integer
+        #estado: Enum [En proceso, Entregado, Cancelado]
+        #total: Double
+        +calcularTotal(): Double
+        +agregarProducto(producto: Producto, cantidad: Integer): Void
         +procesarPago()
     }
-    
+
     class VentaDetalle {
-        +Integer cantidad
-        +Double precioUnitario
-        +Double subtotal
+        #idVentaDetalle: Integer
+        #idVenta: Integer
+        #idProducto: Integer
+        #cantidad: Integer
+        #precioUnitario: Double
+        #subtotal: Double
+        #tipoDescuento: Enum [Fijo, Porcentaje, Promocion, Cliente Especial]
+        #observaciones: String
         +calcularSubtotal()
     }
+
+    abstract class Producto {
+        #idProducto: Integer
+        #nombre: String
+        #descripcion: String
+        #precio: Double
+        #imagen: String
+        #dimensiones: String
+        #stockMinimo: Integer
+        #stockTotal: Integer
+        #tipo: Enum [Sillon, Respaldo, Otros]
+        #estilo: String
+        #costoFabricacion: Double
+        #tiempoFabricacion: Integer
+        +obtenerPrecio()
+        +actualizarStock() 
+    }
     
+    class Sofa {
+        #numeroCuerpos: Integer
+        +obtenerCapacidad()
+    }
+    
+    class Sillon {
+        #reclinable: Boolean
+        +obtenerEstilo()
+    }
+    
+    class Almohadon{
+         #relleno: Enum [Vellon, Algodon, Otro]
+    }
+
+    class Respaldo {
+        #diseño: Enum [Marco, Bastones, Geometrico, Otro]
+    }
+
+    class ProductoMaterial {
+        #idProductoMaterial: Integer
+        #idProducto: Integer
+        #idMaterial: Integer
+        #cantidadUtilizada: Integer
+        +obtenerCantidad()
+    }
+     
     class Material {
-        +String nombre
-        +String descripcion
-        +Double precio
-        +Integer stock
+        #idMaterial: Integer
+        #idProveedor: Integer
+        #nombre: String
+        #descripcion: String
+        #precio: Double
+        #imagen: String
+        #dimensiones: String
+        #stockMinimo: Integer
+        #stockTotal: Integer
         +actualizarStock()
     }
     
-    class ProductoMaterial {
-        +Integer cantidad
-        +obtenerCantidad()
-    }
     
-    class Garantia {
-        +Date fechaInicio
-        +Date fechaFin
-        +String tipo
-        +Boolean activa
+    interface class Garantia {
         +verificarVigencia()
     }
     
     class GarantiaBasica {
-        +Integer mesesDuracion
-        +String cobertura
-        +obtenerCobertura()
+        #idGarantia: Integer
+        #idProducto: Integer
+        #fechaInicio: Date
+        #fechaFin: Date
+        +verificarVigencia()
     }
     
     class GarantiaExtendida {
-        +Integer mesesAdicionales
-        +Double costoAdicional
-        +String coberturaExtendida
-        +calcularCosto()
+        #idGarantia: Integer
+        #idProducto: Integer
+        #fechaInicio: Date
+        #fechaFin: Date
+        #costoAdicional: Double 
+        +verificarVigencia()
     }
     
     %% Herencias
     Producto <|-- Sofa
     Producto <|-- Sillon
+    Producto <|-- Almohadon
+    Producto <|-- Respaldo
     Persona <|-- Cliente
     Persona <|-- Usuario
     Persona <|-- Proveedor
-    Garantia <|-- GarantiaBasica
-    Garantia <|-- GarantiaExtendida
+    Garantia <|.. GarantiaBasica
+    Garantia <|.. GarantiaExtendida
     
     %% Relaciones
-    Cliente "1" --> "*" Venta : realiza
-    Usuario "1" --> "*" Venta : procesa
-    Venta "1" --> "*" VentaDetalle : contiene
-    VentaDetalle "*" --> "1" Producto : incluye
-    Producto "1" --> "*" ProductoMaterial : requiere
-    ProductoMaterial "*" --> "1" Material : usa
-    Proveedor "1" --> "*" Material : suministra
-    Producto "1" --> "0..1" Garantia : tiene
+    Cliente "1" --> "*" Venta : Realiza
+    Usuario "1" --> "*" Venta : Gestiona
+    Venta "1" --> "*" VentaDetalle : Contiene
+    VentaDetalle "*" --> "1" Producto : Incluye
+    Producto "1" --> "*" ProductoMaterial : Contiene
+    ProductoMaterial "*" --> "1" Material : Utiliza
+    Proveedor "1" --> "*" Material : Provisto por 
+    Producto "1" --> "0..1" Garantia : Tiene
 ```
 
 ## Diagrama de Entidad-Relación
