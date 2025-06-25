@@ -47,7 +47,6 @@ classDiagram
         #idUsuario: Integer
         #fechaVenta: Date
         #fechaEntrega: Date
-        #tiempoFabricacion: Integer
         #estado: Enum [En proceso, Entregado, Cancelado]
         #total: Double
         +calcularTotal(): Double
@@ -62,26 +61,46 @@ classDiagram
         #cantidad: Integer
         #precioUnitario: Double
         #subtotal: Double
+        #descuento: Double
         #tipoDescuento: Enum [Fijo, Porcentaje, Promocion, Cliente Especial]
         #observaciones: String
         +calcularSubtotal()
     }
 
-    class Producto {
-        #idProducto: Integer
+    class Inventario {
         #nombre: String
         #descripcion: String
         #precio: Double
         #imagen: String
         #dimensiones: String
+        #color: String
         #stockMinimo: Integer
+        #stockDisponible: Integer
+        #stockReservado: Integer
         #stockTotal: Integer
-        #tipo: Enum [Sillon, Respaldo, Otros]
+        #medida: Enum [Centimetros, Gramos, Unidades]
+        +actualizarStock() 
+        +verificarStock()
+    }
+
+    class ManoDeObra {
+        #idManoDeObra: Integer
+        #idProducto: Integer
+        #idUsuario: Integer
+        #fechaHora: Datetime
+        #horasTrabajadas: Double
+        #costoHora: Double
+        #costoTotal: Double
+        #observaciones: String
+    }
+
+    class Producto {
+        #idProducto: Integer
+        #tipo: Enum [Sofa, Sillon, Almohadon, Respaldo, Otros]
         #estilo: String
         #costoFabricacion: Double
         #tiempoFabricacion: Integer
-        +obtenerPrecio()
-        +actualizarStock() 
+        #medidaFabricacion: Enum [Hora, Dia, Mes]
     }
     
     class Sofa {
@@ -107,22 +126,27 @@ classDiagram
         #idProducto: Integer
         #idMaterial: Integer
         #cantidadUtilizada: Integer
+        #medidaUtilizada: Enum [Centimetros, Gramos, Unidades]
         +obtenerCantidad()
+    }
+
+    class MovimientoMaterial {
+        #idMovimientoMaterial: Integer
+        #idUsuario: Integer
+        #idMaterial: Integer
+        #tipo: Enum [Compra, Reserva, Consumo, Ajuste]
+        #fechaHora: Datetime
+        #cantidad: Integer
+        #medida: Enum [Centimetros, Gramos, Unidades]
+        #stockAnterior: Integer
+        #stockNuevo: Integer
+        #observacion: String
     }
      
     class Material {
         #idMaterial: Integer
         #idProveedor: Integer
-        #nombre: String
-        #descripcion: String
-        #precio: Double
-        #imagen: String
-        #dimensiones: String
-        #stockMinimo: Integer
-        #stockTotal: Integer
-        +actualizarStock()
     }
-    
     
     class Garantia {
         +verificarVigencia()
@@ -144,12 +168,16 @@ classDiagram
         #costoAdicional: Double 
         +verificarVigencia()
     }
+
     %% Anotaciones    
     <<abstract>> Persona
     <<abstract>> Producto
+    <<abstract>> Inventario
     <<interface>> Garantia
     
     %% Herencias
+    Inventario <|-- Material : Es parte de
+    Inventario <|-- Producto : Es parte de
     Producto <|-- Sofa : Es un
     Producto <|-- Sillon : Es un
     Producto <|-- Almohadon : Es un
@@ -157,16 +185,18 @@ classDiagram
     Persona <|-- Cliente : Es una
     Persona <|-- Usuario : Es una
     Persona <|-- Proveedor : Es una
-    Garantia <|.. GarantiaBasica
+    Garantia <|.. GarantiaBasica 
     Garantia <|.. GarantiaExtendida
     
     %% Relaciones
     Cliente "1" --> "*" Venta : Realiza
     Usuario "1" --> "*" Venta : Gestiona
+    Usuario "1" --> "*" MovimientoMaterial : Gestiona
     Venta "1" --> "*" VentaDetalle : Contiene
     VentaDetalle "*" --> "1" Producto : Incluye
     Producto "1" --> "*" ProductoMaterial : Contiene
     ProductoMaterial "*" --> "1" Material : Utiliza
+    MovimientoMaterial "*" --> "1" Material : Utiliza
     Proveedor "1" --> "*" Material : Provisto por 
     Producto "1" --> "0..1" Garantia : Tiene
 ```
