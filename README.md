@@ -1,19 +1,112 @@
-# Diagramas - Sueños en Telas
+# Sueños en Telas
+El siguiente proyecto fue gestionado como parte de la tesis para la carrera Analista en Sistemas y engloba la logica de negocio que utilizará <b>Sueños en Telas</b>, entidad que se dedica a la fabricación, restauración y tapicería de distintos tipos de muebles de interior y dándoles un estilo único e innovador. El servicio buscará cubrir las necesidades basicas de la empresa e incrementará segun las necesidades de la misma, pasando por la carga de ventas, la gestion de las garantias, el control de stock de sus materiales, la posibilidad de gestionar usuarios y clientes, entre otros apartados. 
+A continuacion se detallan los pasos de instalacion de la aplicacion (a partir de ahora llamado <b>SET</b>) y las principales caracteristicas que posee:
+
+## Instalacion
+SET utiliza <b>>Laravel Framework</b> y está pensado para utilizar una base de datos <b>MySql</b> para su funcionamiento, pero siempre se puede modificar la base de datos desde las variables de entorno.
+Es necesario tener instalado en el sistema PHP >= 8.2, Composer y Laravel 12. Luego de tener dichos requerimientos, los pasos a seguir son:
+
+- Clonar este repositorio
+
+``` 
+git clone  https://github.com/matiasgomez05/ 
+cd
+```
+
+- Instalar las dependencias de PHP y Laravel
+
+```
+composer install
+```
+
+- Copiar y actualizar el archivo `.env` con los datos de conexion a la base de datos
+
+```
+cp .env.example .env
+```
+
+```
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=nombre_de_tu_base_de_datos
+DB_USERNAME=tu_usuario
+DB_PASSWORD=tu_contraseña
+```
+
+- Generar la clave única para el funcionamiento de la aplicacion
+
+```
+php artisan key:generate
+```
+
+- Ejecutar las migraciones. Esto creará las tablas necesarias para que el sistema funcione correctamente
+
+```
+php artisan migrate
+```
+
+- Poblar la base de datos con los registros iniciales: provincias y localidades argentinas, usuario administrador, entre otros.
+
+```
+php artisan db:seed
+```
+
+- Ejecutar el servidor e ingresar al link de localhost para utilizar el programa
+
+```
+php artisan serve
+``` 
+
+
+## Diagramas
 
 Los siguientes diagramas muestran las relaciones entre las entidades del sistema "Sueños en telas" y se actualizarán a medida que avance el desarrollo del mismo.
 
-## Diagrama de Clases UML
+### Diagrama de Clases UML
 
 ```mermaid
 classDiagram
     %% Entidades principales
 
+    class Pais {
+        #idPais: Integer
+        #nombre: String
+    }
+
+    class Provincia {
+        #idProvincia: Integer
+        #idPais: Integer
+        #nombre: String
+    }
+    
+    class Partido {
+        #idPartido: Integer
+        #idProvincia: Integer
+        #nombre: String
+    }
+
+    class Localidad {
+        #idLocalidad: Integer
+        #idPartido: Integer
+        #nombre: String
+    }
+
+    class Direccion {
+        #idDireccion: Integer
+        #idLocalidad: Integer
+        #calle: String
+        #numero: Integer
+        #piso: Integer
+        #codigoPostal: Integer
+    }
+
     class Persona {
         #nombre: String
         #apellido: String 
-        #direccion: String 
         #telefono: String 
         #email: String 
+        #idDireccion: Integer
         #fechaRegistro: Date
         #ultimaActualizacion: Date
         +obtenerNombreCompleto(): String
@@ -176,8 +269,8 @@ classDiagram
     <<interface>> Garantia
     
     %% Herencias
-    Inventario <|-- Material : Es parte de
-    Inventario <|-- Producto : Es parte de
+    Inventario <|-- Material : Parte del
+    Inventario <|-- Producto : Parte del
     Producto <|-- Sofa : Es un
     Producto <|-- Sillon : Es un
     Producto <|-- Almohadon : Es un
@@ -189,16 +282,22 @@ classDiagram
     Garantia <|.. GarantiaExtendida
     
     %% Relaciones
+    Pais "1" --> "*" Provincia : Tiene
+    Provincia "1" --> "*" Localidad: Tiene
+    Localidad "1" --> "*" Direccion: Tiene
+    Direccion "1" --> "*" Persona: Tiene
     Cliente "1" --> "*" Venta : Realiza
     Usuario "1" --> "*" Venta : Gestiona
     Usuario "1" --> "*" MovimientoMaterial : Gestiona
+    Usuario "1" --> "*" ManoDeObra : Gestiona
     Venta "1" --> "*" VentaDetalle : Contiene
     VentaDetalle "*" --> "1" Producto : Incluye
     Producto "1" --> "*" ProductoMaterial : Contiene
-    ProductoMaterial "*" --> "1" Material : Utiliza
-    MovimientoMaterial "*" --> "1" Material : Utiliza
-    Proveedor "1" --> "*" Material : Provisto por 
     Producto "1" --> "0..1" Garantia : Tiene
+    Producto "1" --> "1" ManoDeObra : Tiene
+    ProductoMaterial "*" --> "1" Material : Utiliza
+    MovimientoMaterial "*" --> "1" Material : Registra
+    Proveedor "1" --> "*" Material : Provisto por 
 ```
 
 ## Diagrama de Entidad-Relación

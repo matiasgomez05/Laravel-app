@@ -1,0 +1,18 @@
+[
+    {
+        "id_pais": 1,
+        "nombre": "Argentina",
+        "codigo": "AR",
+        "capital": "Buenos Aires",
+        "moneda": "ARS",
+        "numero_de_telefono": "54"
+    },
+    {
+        "id_pais": 2,
+        "nombre": "Brasil",
+        "codigo": "BR",
+        "capital": "Brasilia",
+        "moneda": "BRL",
+        "numero_de_telefono": "55"
+    }
+]

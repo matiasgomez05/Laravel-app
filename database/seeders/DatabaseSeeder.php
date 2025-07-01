@@ -19,5 +19,21 @@ class DatabaseSeeder extends Seeder
             'name' => 'Test User',
             'email' => 'test@example.com',
         ]);
+        // Paises
+        $paises = json_decode(file_get_contents(database_path('data/paises.json')), true);
+        DB::table('paises')->insert($paises);
+
+        // Provincias
+        $provincias = json_decode(file_get_contents(database_path('data/provincias.json')), true);
+        DB::table('provincias')->insert($provincias);
+
+        // Partidos
+        $partidos = json_decode(file_get_contents(database_path('data/partidos.json')), true);
+        DB::table('partidos')->insert($partidos);
+
+        // Localidades
+        $localidades = json_decode(file_get_contents(database_path('data/localidades.json')), true);
+        DB::table('localidades')->insert($localidades);
+
     }
 }
