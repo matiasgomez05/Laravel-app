@@ -55,7 +55,7 @@ php artisan db:seed
 - Ejecutar el servidor e ingresar al link de localhost para utilizar el programa
 
 ```
-php artisan serve
+composer run dev
 ``` 
 
 

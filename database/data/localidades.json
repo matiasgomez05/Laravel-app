@@ -1,0 +1,11902 @@
+[
+ {
+  "id_localidad": 1,
+  "id_partido": 1,
+  "nombre": "25 DE MAYO"
+ },
+ {
+  "id_localidad": 2,
+  "id_partido": 1,
+  "nombre": "AGUSTIN MOSCONI"
+ },
+ {
+  "id_localidad": 3,
+  "id_partido": 1,
+  "nombre": "ANDERSON"
+ },
+ {
+  "id_localidad": 4,
+  "id_partido": 1,
+  "nombre": "ARAUJO"
+ },
+ {
+  "id_localidad": 5,
+  "id_partido": 1,
+  "nombre": "BAUDRIX"
+ },
+ {
+  "id_localidad": 6,
+  "id_partido": 1,
+  "nombre": "DEL VALLE"
+ },
+ {
+  "id_localidad": 7,
+  "id_partido": 1,
+  "nombre": "EL CHIMBORAZO"
+ },
+ {
+  "id_localidad": 8,
+  "id_partido": 1,
+  "nombre": "EL CLAVO"
+ },
+ {
+  "id_localidad": 9,
+  "id_partido": 1,
+  "nombre": "EL MATE"
+ },
+ {
+  "id_localidad": 10,
+  "id_partido": 1,
+  "nombre": "EL SOSIEGO"
+ },
+ {
+  "id_localidad": 11,
+  "id_partido": 1,
+  "nombre": "ERNESTINA"
+ },
+ {
+  "id_localidad": 12,
+  "id_partido": 1,
+  "nombre": "FORTIN MULITAS"
+ },
+ {
+  "id_localidad": 13,
+  "id_partido": 1,
+  "nombre": "GOBERNADOR UGARTE"
+ },
+ {
+  "id_localidad": 14,
+  "id_partido": 1,
+  "nombre": "HUETEL"
+ },
+ {
+  "id_localidad": 15,
+  "id_partido": 1,
+  "nombre": "ISLAS"
+ },
+ {
+  "id_localidad": 16,
+  "id_partido": 1,
+  "nombre": "LA CANTORA"
+ },
+ {
+  "id_localidad": 17,
+  "id_partido": 1,
+  "nombre": "LA LLOSA Y EL MATE"
+ },
+ {
+  "id_localidad": 18,
+  "id_partido": 1,
+  "nombre": "LA PALMA"
+ },
+ {
+  "id_localidad": 19,
+  "id_partido": 1,
+  "nombre": "LA TRIBU CHICA"
+ },
+ {
+  "id_localidad": 20,
+  "id_partido": 1,
+  "nombre": "LAS MERCEDES"
+ },
+ {
+  "id_localidad": 21,
+  "id_partido": 1,
+  "nombre": "LUCAS MONTEVERDE"
+ },
+ {
+  "id_localidad": 22,
+  "id_partido": 1,
+  "nombre": "MAMAGUITA"
+ },
+ {
+  "id_localidad": 23,
+  "id_partido": 1,
+  "nombre": "MARTIN BERRAONDO"
+ },
+ {
+  "id_localidad": 24,
+  "id_partido": 1,
+  "nombre": "NORBERTO DE LA RIESTRA"
+ },
+ {
+  "id_localidad": 25,
+  "id_partido": 1,
+  "nombre": "PANELO"
+ },
+ {
+  "id_localidad": 26,
+  "id_partido": 1,
+  "nombre": "PEDERNALES"
+ },
+ {
+  "id_localidad": 27,
+  "id_partido": 1,
+  "nombre": "PUEBLITOS"
+ },
+ {
+  "id_localidad": 28,
+  "id_partido": 1,
+  "nombre": "PUESTO COLORADO"
+ },
+ {
+  "id_localidad": 29,
+  "id_partido": 1,
+  "nombre": "SAN ENRIQUE"
+ },
+ {
+  "id_localidad": 30,
+  "id_partido": 1,
+  "nombre": "SAN MARCELO"
+ },
+ {
+  "id_localidad": 31,
+  "id_partido": 1,
+  "nombre": "SAN RAMON"
+ },
+ {
+  "id_localidad": 32,
+  "id_partido": 1,
+  "nombre": "SANTIAGO GARBARINI"
+ },
+ {
+  "id_localidad": 33,
+  "id_partido": 1,
+  "nombre": "SOLACHE"
+ },
+ {
+  "id_localidad": 34,
+  "id_partido": 1,
+  "nombre": "VALDES"
+ },
+ {
+  "id_localidad": 35,
+  "id_partido": 1,
+  "nombre": "VILLA MARTA"
+ },
+ {
+  "id_localidad": 36,
+  "id_partido": 2,
+  "nombre": "12 DE OCTUBRE"
+ },
+ {
+  "id_localidad": 37,
+  "id_partido": 2,
+  "nombre": "9 DE JULIO"
+ },
+ {
+  "id_localidad": 38,
+  "id_partido": 2,
+  "nombre": "ALFREDO DEMARCHI"
+ },
+ {
+  "id_localidad": 39,
+  "id_partido": 2,
+  "nombre": "BACACAY"
+ },
+ {
+  "id_localidad": 40,
+  "id_partido": 2,
+  "nombre": "CAMBACERES"
+ },
+ {
+  "id_localidad": 41,
+  "id_partido": 2,
+  "nombre": "CAMPO LISAZO"
+ },
+ {
+  "id_localidad": 42,
+  "id_partido": 2,
+  "nombre": "CARLOS MARIA NAON"
+ },
+ {
+  "id_localidad": 43,
+  "id_partido": 2,
+  "nombre": "COLONIA LA RURAL"
+ },
+ {
+  "id_localidad": 44,
+  "id_partido": 2,
+  "nombre": "CORBETT"
+ },
+ {
+  "id_localidad": 45,
+  "id_partido": 2,
+  "nombre": "DUDIGNAC"
+ },
+ {
+  "id_localidad": 46,
+  "id_partido": 2,
+  "nombre": "EL CHAJA"
+ },
+ {
+  "id_localidad": 47,
+  "id_partido": 2,
+  "nombre": "EL ESPARTILLAR"
+ },
+ {
+  "id_localidad": 48,
+  "id_partido": 2,
+  "nombre": "EL FAISAN"
+ },
+ {
+  "id_localidad": 49,
+  "id_partido": 2,
+  "nombre": "EL HINOJO"
+ },
+ {
+  "id_localidad": 50,
+  "id_partido": 2,
+  "nombre": "EL JABALI"
+ },
+ {
+  "id_localidad": 51,
+  "id_partido": 2,
+  "nombre": "EL SOCAVON"
+ },
+ {
+  "id_localidad": 52,
+  "id_partido": 2,
+  "nombre": "EL TEJAR"
+ },
+ {
+  "id_localidad": 53,
+  "id_partido": 2,
+  "nombre": "FAUZON"
+ },
+ {
+  "id_localidad": 54,
+  "id_partido": 2,
+  "nombre": "GALO LLORENTE"
+ },
+ {
+  "id_localidad": 55,
+  "id_partido": 2,
+  "nombre": "GERENTE CILLEY"
+ },
+ {
+  "id_localidad": 56,
+  "id_partido": 2,
+  "nombre": "KILOMETRO 234"
+ },
+ {
+  "id_localidad": 57,
+  "id_partido": 2,
+  "nombre": "LA AMALIA"
+ },
+ {
+  "id_localidad": 58,
+  "id_partido": 2,
+  "nombre": "LA AURORA"
+ },
+ {
+  "id_localidad": 59,
+  "id_partido": 2,
+  "nombre": "LA BLANQUEADA"
+ },
+ {
+  "id_localidad": 60,
+  "id_partido": 2,
+  "nombre": "LA CENTRAL"
+ },
+ {
+  "id_localidad": 61,
+  "id_partido": 2,
+  "nombre": "LA CORONA"
+ },
+ {
+  "id_localidad": 62,
+  "id_partido": 2,
+  "nombre": "LAS PIEDRAS"
+ },
+ {
+  "id_localidad": 63,
+  "id_partido": 2,
+  "nombre": "LOS PARAISOS"
+ },
+ {
+  "id_localidad": 64,
+  "id_partido": 2,
+  "nombre": "MANUEL B. GONNET"
+ },
+ {
+  "id_localidad": 65,
+  "id_partido": 2,
+  "nombre": "MARCELINO UGARTE"
+ },
+ {
+  "id_localidad": 66,
+  "id_partido": 2,
+  "nombre": "MOREA"
+ },
+ {
+  "id_localidad": 67,
+  "id_partido": 2,
+  "nombre": "MULCAHY"
+ },
+ {
+  "id_localidad": 68,
+  "id_partido": 2,
+  "nombre": "NORUMBEGA"
+ },
+ {
+  "id_localidad": 69,
+  "id_partido": 2,
+  "nombre": "PATRICIOS"
+ },
+ {
+  "id_localidad": 70,
+  "id_partido": 2,
+  "nombre": "SAN JUAN"
+ },
+ {
+  "id_localidad": 71,
+  "id_partido": 2,
+  "nombre": "SANTOS UNZUE"
+ },
+ {
+  "id_localidad": 72,
+  "id_partido": 2,
+  "nombre": "VILLA GENERAL FOURNIER"
+ },
+ {
+  "id_localidad": 73,
+  "id_partido": 3,
+  "nombre": "ARANO"
+ },
+ {
+  "id_localidad": 74,
+  "id_partido": 3,
+  "nombre": "ARTURO VATTEONE"
+ },
+ {
+  "id_localidad": 75,
+  "id_partido": 3,
+  "nombre": "AVESTRUZ"
+ },
+ {
+  "id_localidad": 76,
+  "id_partido": 3,
+  "nombre": "CANONIGO GORRITI"
+ },
+ {
+  "id_localidad": 77,
+  "id_partido": 3,
+  "nombre": "CARHUE"
+ },
+ {
+  "id_localidad": 78,
+  "id_partido": 3,
+  "nombre": "COLONIA LAPIN"
+ },
+ {
+  "id_localidad": 79,
+  "id_partido": 3,
+  "nombre": "COLONIA LEVEN"
+ },
+ {
+  "id_localidad": 80,
+  "id_partido": 3,
+  "nombre": "COLONIA SAN MIGUEL ARCANGEL"
+ },
+ {
+  "id_localidad": 81,
+  "id_partido": 3,
+  "nombre": "DELFIN HUERGO"
+ },
+ {
+  "id_localidad": 82,
+  "id_partido": 3,
+  "nombre": "ESPARTILLAR"
+ },
+ {
+  "id_localidad": 83,
+  "id_partido": 3,
+  "nombre": "ESTACION LA CONCEPCION"
+ },
+ {
+  "id_localidad": 84,
+  "id_partido": 3,
+  "nombre": "ESTEBAN AGUSTIN GASCON"
+ },
+ {
+  "id_localidad": 85,
+  "id_partido": 3,
+  "nombre": "LA CONQUISTA"
+ },
+ {
+  "id_localidad": 86,
+  "id_partido": 3,
+  "nombre": "LA PALA"
+ },
+ {
+  "id_localidad": 87,
+  "id_partido": 3,
+  "nombre": "LA POROTA"
+ },
+ {
+  "id_localidad": 88,
+  "id_partido": 3,
+  "nombre": "LA SAL"
+ },
+ {
+  "id_localidad": 89,
+  "id_partido": 3,
+  "nombre": "LAGO EPECUEN"
+ },
+ {
+  "id_localidad": 90,
+  "id_partido": 3,
+  "nombre": "LEUBUCO"
+ },
+ {
+  "id_localidad": 91,
+  "id_partido": 3,
+  "nombre": "MASALLE"
+ },
+ {
+  "id_localidad": 92,
+  "id_partido": 3,
+  "nombre": "MAZA"
+ },
+ {
+  "id_localidad": 93,
+  "id_partido": 3,
+  "nombre": "RIVERA"
+ },
+ {
+  "id_localidad": 94,
+  "id_partido": 3,
+  "nombre": "SAN MARCOS"
+ },
+ {
+  "id_localidad": 95,
+  "id_partido": 3,
+  "nombre": "SANTA ANITA"
+ },
+ {
+  "id_localidad": 96,
+  "id_partido": 3,
+  "nombre": "THAMES"
+ },
+ {
+  "id_localidad": 97,
+  "id_partido": 3,
+  "nombre": "TRES LAGUNAS"
+ },
+ {
+  "id_localidad": 98,
+  "id_partido": 3,
+  "nombre": "VILLA MARGARITA"
+ },
+ {
+  "id_localidad": 99,
+  "id_partido": 3,
+  "nombre": "YUTUYACO"
+ },
+ {
+  "id_localidad": 100,
+  "id_partido": 4,
+  "nombre": "ADOLFO GONZALES CHAVES"
+ },
+ {
+  "id_localidad": 101,
+  "id_partido": 4,
+  "nombre": "ALZAGA"
+ },
+ {
+  "id_localidad": 102,
+  "id_partido": 4,
+  "nombre": "CHAPAR"
+ },
+ {
+  "id_localidad": 103,
+  "id_partido": 4,
+  "nombre": "DE LA GARMA"
+ },
+ {
+  "id_localidad": 104,
+  "id_partido": 4,
+  "nombre": "EL LUCERO"
+ },
+ {
+  "id_localidad": 105,
+  "id_partido": 4,
+  "nombre": "EL POLEO"
+ },
+ {
+  "id_localidad": 106,
+  "id_partido": 4,
+  "nombre": "JUAN E. BARRA"
+ },
+ {
+  "id_localidad": 107,
+  "id_partido": 4,
+  "nombre": "LA EMMA"
+ },
+ {
+  "id_localidad": 108,
+  "id_partido": 4,
+  "nombre": "LA HISPANO ARGENTINA"
+ },
+ {
+  "id_localidad": 109,
+  "id_partido": 4,
+  "nombre": "LA SORTIJA"
+ },
+ {
+  "id_localidad": 110,
+  "id_partido": 4,
+  "nombre": "LOS FACHINALES"
+ },
+ {
+  "id_localidad": 111,
+  "id_partido": 4,
+  "nombre": "MAULEON"
+ },
+ {
+  "id_localidad": 112,
+  "id_partido": 4,
+  "nombre": "SAN FRANCISCO"
+ },
+ {
+  "id_localidad": 113,
+  "id_partido": 4,
+  "nombre": "SANTA CLARA"
+ },
+ {
+  "id_localidad": 114,
+  "id_partido": 4,
+  "nombre": "SANTA MARIA"
+ },
+ {
+  "id_localidad": 115,
+  "id_partido": 4,
+  "nombre": "VASQUEZ"
+ },
+ {
+  "id_localidad": 116,
+  "id_partido": 5,
+  "nombre": "ALBERTI"
+ },
+ {
+  "id_localidad": 117,
+  "id_partido": 5,
+  "nombre": "BAUDRIX"
+ },
+ {
+  "id_localidad": 118,
+  "id_partido": 5,
+  "nombre": "CORONEL SEGUI"
+ },
+ {
+  "id_localidad": 119,
+  "id_partido": 5,
+  "nombre": "CUARTEL V"
+ },
+ {
+  "id_localidad": 120,
+  "id_partido": 5,
+  "nombre": "CUARTEL VI"
+ },
+ {
+  "id_localidad": 121,
+  "id_partido": 5,
+  "nombre": "EL RECUERDO"
+ },
+ {
+  "id_localidad": 122,
+  "id_partido": 5,
+  "nombre": "LARREA"
+ },
+ {
+  "id_localidad": 123,
+  "id_partido": 5,
+  "nombre": "MECHITA"
+ },
+ {
+  "id_localidad": 124,
+  "id_partido": 5,
+  "nombre": "PLA"
+ },
+ {
+  "id_localidad": 125,
+  "id_partido": 5,
+  "nombre": "PRESIDENTE QUINTANA"
+ },
+ {
+  "id_localidad": 126,
+  "id_partido": 5,
+  "nombre": "VILLA GRISOLIA"
+ },
+ {
+  "id_localidad": 127,
+  "id_partido": 5,
+  "nombre": "VILLA MARIA"
+ },
+ {
+  "id_localidad": 128,
+  "id_partido": 5,
+  "nombre": "VILLA ORTIZ"
+ },
+ {
+  "id_localidad": 129,
+  "id_partido": 6,
+  "nombre": "ADROGUE"
+ },
+ {
+  "id_localidad": 130,
+  "id_partido": 6,
+  "nombre": "BURZACO"
+ },
+ {
+  "id_localidad": 131,
+  "id_partido": 6,
+  "nombre": "CLAYPOLE"
+ },
+ {
+  "id_localidad": 132,
+  "id_partido": 6,
+  "nombre": "DON ORIONE"
+ },
+ {
+  "id_localidad": 133,
+  "id_partido": 6,
+  "nombre": "GLEW"
+ },
+ {
+  "id_localidad": 134,
+  "id_partido": 6,
+  "nombre": "JOSE MARMOL"
+ },
+ {
+  "id_localidad": 135,
+  "id_partido": 6,
+  "nombre": "LONGCHAMPS"
+ },
+ {
+  "id_localidad": 136,
+  "id_partido": 6,
+  "nombre": "MALVINAS ARGENTINAS"
+ },
+ {
+  "id_localidad": 137,
+  "id_partido": 6,
+  "nombre": "MINISTRO RIVADAVIA"
+ },
+ {
+  "id_localidad": 138,
+  "id_partido": 6,
+  "nombre": "RAFAEL CALZADA"
+ },
+ {
+  "id_localidad": 139,
+  "id_partido": 6,
+  "nombre": "SAN FRANCISCO SOLANO"
+ },
+ {
+  "id_localidad": 140,
+  "id_partido": 6,
+  "nombre": "SAN JOSE"
+ },
+ {
+  "id_localidad": 141,
+  "id_partido": 7,
+  "nombre": "ARRECIFES"
+ },
+ {
+  "id_localidad": 142,
+  "id_partido": 7,
+  "nombre": "ARROYO BURGOS"
+ },
+ {
+  "id_localidad": 143,
+  "id_partido": 7,
+  "nombre": "BRISAS ALEGRES"
+ },
+ {
+  "id_localidad": 144,
+  "id_partido": 7,
+  "nombre": "EL AMANECER"
+ },
+ {
+  "id_localidad": 145,
+  "id_partido": 7,
+  "nombre": "EL CONTADOR"
+ },
+ {
+  "id_localidad": 146,
+  "id_partido": 7,
+  "nombre": "EL NACIONAL"
+ },
+ {
+  "id_localidad": 147,
+  "id_partido": 7,
+  "nombre": "LA BRANQUEADA"
+ },
+ {
+  "id_localidad": 148,
+  "id_partido": 7,
+  "nombre": "LA DELIA"
+ },
+ {
+  "id_localidad": 149,
+  "id_partido": 7,
+  "nombre": "LA LUISA"
+ },
+ {
+  "id_localidad": 150,
+  "id_partido": 7,
+  "nombre": "LA NELIDA"
+ },
+ {
+  "id_localidad": 151,
+  "id_partido": 7,
+  "nombre": "LAS SARITAS"
+ },
+ {
+  "id_localidad": 152,
+  "id_partido": 7,
+  "nombre": "MONTE LAVALLE"
+ },
+ {
+  "id_localidad": 153,
+  "id_partido": 7,
+  "nombre": "SAN FRANCISCO"
+ },
+ {
+  "id_localidad": 154,
+  "id_partido": 7,
+  "nombre": "TODD"
+ },
+ {
+  "id_localidad": 155,
+  "id_partido": 7,
+  "nombre": "VIÑA"
+ },
+ {
+  "id_localidad": 156,
+  "id_partido": 8,
+  "nombre": "AREA CINTURON ECOLOGICO"
+ },
+ {
+  "id_localidad": 157,
+  "id_partido": 8,
+  "nombre": "AVELLANEDA"
+ },
+ {
+  "id_localidad": 158,
+  "id_partido": 8,
+  "nombre": "CRUCESITA"
+ },
+ {
+  "id_localidad": 159,
+  "id_partido": 8,
+  "nombre": "DOCK SUD"
+ },
+ {
+  "id_localidad": 160,
+  "id_partido": 8,
+  "nombre": "GERLI"
+ },
+ {
+  "id_localidad": 161,
+  "id_partido": 8,
+  "nombre": "PIÑEYRO"
+ },
+ {
+  "id_localidad": 162,
+  "id_partido": 8,
+  "nombre": "SARANDI"
+ },
+ {
+  "id_localidad": 163,
+  "id_partido": 8,
+  "nombre": "VILLA DOMINICO"
+ },
+ {
+  "id_localidad": 164,
+  "id_partido": 8,
+  "nombre": "WILDE"
+ },
+ {
+  "id_localidad": 165,
+  "id_partido": 9,
+  "nombre": "AYACUCHO"
+ },
+ {
+  "id_localidad": 166,
+  "id_partido": 9,
+  "nombre": "CANGALLO"
+ },
+ {
+  "id_localidad": 167,
+  "id_partido": 9,
+  "nombre": "CHACRAS DE BALESTRA"
+ },
+ {
+  "id_localidad": 168,
+  "id_partido": 9,
+  "nombre": "CUARTEL II"
+ },
+ {
+  "id_localidad": 169,
+  "id_partido": 9,
+  "nombre": "EL BOQUERON"
+ },
+ {
+  "id_localidad": 170,
+  "id_partido": 9,
+  "nombre": "EL CARMEN"
+ },
+ {
+  "id_localidad": 171,
+  "id_partido": 9,
+  "nombre": "EL CHEFORO"
+ },
+ {
+  "id_localidad": 172,
+  "id_partido": 9,
+  "nombre": "EL HINOJAL"
+ },
+ {
+  "id_localidad": 173,
+  "id_partido": 9,
+  "nombre": "EL PORVENIR"
+ },
+ {
+  "id_localidad": 174,
+  "id_partido": 9,
+  "nombre": "ESQUINA LARUMBE"
+ },
+ {
+  "id_localidad": 175,
+  "id_partido": 9,
+  "nombre": "ESTACION JUNCALITO"
+ },
+ {
+  "id_localidad": 176,
+  "id_partido": 9,
+  "nombre": "ESTACION NAVAS"
+ },
+ {
+  "id_localidad": 177,
+  "id_partido": 9,
+  "nombre": "ESTANCIA LANGUEYU"
+ },
+ {
+  "id_localidad": 178,
+  "id_partido": 9,
+  "nombre": "FAIR"
+ },
+ {
+  "id_localidad": 179,
+  "id_partido": 9,
+  "nombre": "JUAN BAUTISTA"
+ },
+ {
+  "id_localidad": 180,
+  "id_partido": 9,
+  "nombre": "LA BELGICA"
+ },
+ {
+  "id_localidad": 181,
+  "id_partido": 9,
+  "nombre": "LA BLANQUEADA"
+ },
+ {
+  "id_localidad": 182,
+  "id_partido": 9,
+  "nombre": "LA CONSTANCIA"
+ },
+ {
+  "id_localidad": 183,
+  "id_partido": 9,
+  "nombre": "LA FLORIDA"
+ },
+ {
+  "id_localidad": 184,
+  "id_partido": 9,
+  "nombre": "LA GARITA"
+ },
+ {
+  "id_localidad": 185,
+  "id_partido": 9,
+  "nombre": "LA LIMPIA"
+ },
+ {
+  "id_localidad": 186,
+  "id_partido": 9,
+  "nombre": "LA LLEGADA"
+ },
+ {
+  "id_localidad": 187,
+  "id_partido": 9,
+  "nombre": "LA POSTA"
+ },
+ {
+  "id_localidad": 188,
+  "id_partido": 9,
+  "nombre": "LA PROTEGIDA"
+ },
+ {
+  "id_localidad": 189,
+  "id_partido": 9,
+  "nombre": "LA SULTANA"
+ },
+ {
+  "id_localidad": 190,
+  "id_partido": 9,
+  "nombre": "LANGUEYU"
+ },
+ {
+  "id_localidad": 191,
+  "id_partido": 9,
+  "nombre": "LAS ARMAS"
+ },
+ {
+  "id_localidad": 192,
+  "id_partido": 9,
+  "nombre": "LAS CHILCAS"
+ },
+ {
+  "id_localidad": 193,
+  "id_partido": 9,
+  "nombre": "LAS LAGUNAS"
+ },
+ {
+  "id_localidad": 194,
+  "id_partido": 9,
+  "nombre": "LAS PAJAS"
+ },
+ {
+  "id_localidad": 195,
+  "id_partido": 9,
+  "nombre": "LAS PIEDRAS"
+ },
+ {
+  "id_localidad": 196,
+  "id_partido": 9,
+  "nombre": "LOMA DE SANDERS"
+ },
+ {
+  "id_localidad": 197,
+  "id_partido": 9,
+  "nombre": "OTEGUI"
+ },
+ {
+  "id_localidad": 198,
+  "id_partido": 9,
+  "nombre": "POZO DEL FUEGO"
+ },
+ {
+  "id_localidad": 199,
+  "id_partido": 9,
+  "nombre": "SAN IGNACIO"
+ },
+ {
+  "id_localidad": 200,
+  "id_partido": 9,
+  "nombre": "SAN JOSE"
+ },
+ {
+  "id_localidad": 201,
+  "id_partido": 9,
+  "nombre": "SAN JUSTO"
+ },
+ {
+  "id_localidad": 202,
+  "id_partido": 9,
+  "nombre": "SAN LAUREANO"
+ },
+ {
+  "id_localidad": 203,
+  "id_partido": 9,
+  "nombre": "SAN PASTOR"
+ },
+ {
+  "id_localidad": 204,
+  "id_partido": 9,
+  "nombre": "SOLANET"
+ },
+ {
+  "id_localidad": 205,
+  "id_partido": 9,
+  "nombre": "UDAQUIOLA"
+ },
+ {
+  "id_localidad": 206,
+  "id_partido": 10,
+  "nombre": "16 DE JULIO"
+ },
+ {
+  "id_localidad": 207,
+  "id_partido": 10,
+  "nombre": "ARIEL"
+ },
+ {
+  "id_localidad": 208,
+  "id_partido": 10,
+  "nombre": "ARROYO DE LOS HUESOS"
+ },
+ {
+  "id_localidad": 209,
+  "id_partido": 10,
+  "nombre": "ATALAYA"
+ },
+ {
+  "id_localidad": 210,
+  "id_partido": 10,
+  "nombre": "AZUL"
+ },
+ {
+  "id_localidad": 211,
+  "id_partido": 10,
+  "nombre": "CACHARI"
+ },
+ {
+  "id_localidad": 212,
+  "id_partido": 10,
+  "nombre": "CAMPO MIREZTKY"
+ },
+ {
+  "id_localidad": 213,
+  "id_partido": 10,
+  "nombre": "CAMPOMAR"
+ },
+ {
+  "id_localidad": 214,
+  "id_partido": 10,
+  "nombre": "CHILLAR"
+ },
+ {
+  "id_localidad": 215,
+  "id_partido": 10,
+  "nombre": "EL DESTIERRO"
+ },
+ {
+  "id_localidad": 216,
+  "id_partido": 10,
+  "nombre": "LA ANGELITA"
+ },
+ {
+  "id_localidad": 217,
+  "id_partido": 10,
+  "nombre": "LA CHUMBEADA"
+ },
+ {
+  "id_localidad": 218,
+  "id_partido": 10,
+  "nombre": "LA COLORADA"
+ },
+ {
+  "id_localidad": 219,
+  "id_partido": 10,
+  "nombre": "LA ISABELITA"
+ },
+ {
+  "id_localidad": 220,
+  "id_partido": 10,
+  "nombre": "LA JUANITA"
+ },
+ {
+  "id_localidad": 221,
+  "id_partido": 10,
+  "nombre": "LA MANTEQUERIA"
+ },
+ {
+  "id_localidad": 222,
+  "id_partido": 10,
+  "nombre": "LA MATILDE"
+ },
+ {
+  "id_localidad": 223,
+  "id_partido": 10,
+  "nombre": "LA PEQUEÑA"
+ },
+ {
+  "id_localidad": 224,
+  "id_partido": 10,
+  "nombre": "LA PRIMAVERA"
+ },
+ {
+  "id_localidad": 225,
+  "id_partido": 10,
+  "nombre": "LA PROTEGIDA"
+ },
+ {
+  "id_localidad": 226,
+  "id_partido": 10,
+  "nombre": "LA SOFIA"
+ },
+ {
+  "id_localidad": 227,
+  "id_partido": 10,
+  "nombre": "LA VERDE"
+ },
+ {
+  "id_localidad": 228,
+  "id_partido": 10,
+  "nombre": "LAS CORTADERAS"
+ },
+ {
+  "id_localidad": 229,
+  "id_partido": 10,
+  "nombre": "LAS ROSAS"
+ },
+ {
+  "id_localidad": 230,
+  "id_partido": 10,
+  "nombre": "LOS 4 CAMINOS"
+ },
+ {
+  "id_localidad": 231,
+  "id_partido": 10,
+  "nombre": "LOS ANGELES"
+ },
+ {
+  "id_localidad": 232,
+  "id_partido": 10,
+  "nombre": "MANANTIALES DE PEREDA"
+ },
+ {
+  "id_localidad": 233,
+  "id_partido": 10,
+  "nombre": "MARTIN FIERRO"
+ },
+ {
+  "id_localidad": 234,
+  "id_partido": 10,
+  "nombre": "MATADEROS"
+ },
+ {
+  "id_localidad": 235,
+  "id_partido": 10,
+  "nombre": "MIRAMONTE"
+ },
+ {
+  "id_localidad": 236,
+  "id_partido": 10,
+  "nombre": "NIEVES"
+ },
+ {
+  "id_localidad": 237,
+  "id_partido": 10,
+  "nombre": "PABLO ACOSTA"
+ },
+ {
+  "id_localidad": 238,
+  "id_partido": 10,
+  "nombre": "PARISH"
+ },
+ {
+  "id_localidad": 239,
+  "id_partido": 10,
+  "nombre": "SAN JOSE"
+ },
+ {
+  "id_localidad": 240,
+  "id_partido": 10,
+  "nombre": "SAN PEDRO"
+ },
+ {
+  "id_localidad": 241,
+  "id_partido": 10,
+  "nombre": "SANTA CLARA"
+ },
+ {
+  "id_localidad": 242,
+  "id_partido": 10,
+  "nombre": "SHAW"
+ },
+ {
+  "id_localidad": 243,
+  "id_partido": 10,
+  "nombre": "SIEMPRE AMIGOS"
+ },
+ {
+  "id_localidad": 244,
+  "id_partido": 10,
+  "nombre": "VICENTE PEREDA"
+ },
+ {
+  "id_localidad": 245,
+  "id_partido": 10,
+  "nombre": "VILLA LAZA"
+ },
+ {
+  "id_localidad": 246,
+  "id_partido": 11,
+  "nombre": "ALDEA ROMANA"
+ },
+ {
+  "id_localidad": 247,
+  "id_partido": 11,
+  "nombre": "ALFEREZ SAN MARTIN"
+ },
+ {
+  "id_localidad": 248,
+  "id_partido": 11,
+  "nombre": "BAHIA BLANCA"
+ },
+ {
+  "id_localidad": 249,
+  "id_partido": 11,
+  "nombre": "CABILDO"
+ },
+ {
+  "id_localidad": 250,
+  "id_partido": 11,
+  "nombre": "COCHRANE"
+ },
+ {
+  "id_localidad": 251,
+  "id_partido": 11,
+  "nombre": "GENERAL DANIEL CERRI"
+ },
+ {
+  "id_localidad": 252,
+  "id_partido": 11,
+  "nombre": "GRÑNBEIN"
+ },
+ {
+  "id_localidad": 253,
+  "id_partido": 11,
+  "nombre": "INGENIERO WHITE"
+ },
+ {
+  "id_localidad": 254,
+  "id_partido": 11,
+  "nombre": "LA CARRINDANGA"
+ },
+ {
+  "id_localidad": 255,
+  "id_partido": 11,
+  "nombre": "LA HORMIGA"
+ },
+ {
+  "id_localidad": 256,
+  "id_partido": 11,
+  "nombre": "LOS MIRASOLES"
+ },
+ {
+  "id_localidad": 257,
+  "id_partido": 11,
+  "nombre": "POSTA ROLANDO"
+ },
+ {
+  "id_localidad": 258,
+  "id_partido": 11,
+  "nombre": "PUERTO GALVAN"
+ },
+ {
+  "id_localidad": 259,
+  "id_partido": 11,
+  "nombre": "SAN JOSE"
+ },
+ {
+  "id_localidad": 260,
+  "id_partido": 11,
+  "nombre": "VILLA BORDEAU"
+ },
+ {
+  "id_localidad": 261,
+  "id_partido": 11,
+  "nombre": "VILLA ELISA"
+ },
+ {
+  "id_localidad": 262,
+  "id_partido": 11,
+  "nombre": "VILLA ESPORA"
+ },
+ {
+  "id_localidad": 263,
+  "id_partido": 11,
+  "nombre": "VILLA OLGA"
+ },
+ {
+  "id_localidad": 264,
+  "id_partido": 12,
+  "nombre": "ALELUYA"
+ },
+ {
+  "id_localidad": 265,
+  "id_partido": 12,
+  "nombre": "BALCARCE"
+ },
+ {
+  "id_localidad": 266,
+  "id_partido": 12,
+  "nombre": "BELLA VISTA"
+ },
+ {
+  "id_localidad": 267,
+  "id_partido": 12,
+  "nombre": "BOSCH"
+ },
+ {
+  "id_localidad": 268,
+  "id_partido": 12,
+  "nombre": "CABAÑA SAN JUAN"
+ },
+ {
+  "id_localidad": 269,
+  "id_partido": 12,
+  "nombre": "CINCO CERROS"
+ },
+ {
+  "id_localidad": 270,
+  "id_partido": 12,
+  "nombre": "COLONIA BALCARCE"
+ },
+ {
+  "id_localidad": 271,
+  "id_partido": 12,
+  "nombre": "CUARTEL III"
+ },
+ {
+  "id_localidad": 272,
+  "id_partido": 12,
+  "nombre": "EL CAPRICHO"
+ },
+ {
+  "id_localidad": 273,
+  "id_partido": 12,
+  "nombre": "EL CERRO"
+ },
+ {
+  "id_localidad": 274,
+  "id_partido": 12,
+  "nombre": "EL GLIPTODONTE"
+ },
+ {
+  "id_localidad": 275,
+  "id_partido": 12,
+  "nombre": "EL PANTANOSO"
+ },
+ {
+  "id_localidad": 276,
+  "id_partido": 12,
+  "nombre": "EL PARQUE"
+ },
+ {
+  "id_localidad": 277,
+  "id_partido": 12,
+  "nombre": "EL VERANO"
+ },
+ {
+  "id_localidad": 278,
+  "id_partido": 12,
+  "nombre": "EL VIGILANTE"
+ },
+ {
+  "id_localidad": 279,
+  "id_partido": 12,
+  "nombre": "EL VOLCAN"
+ },
+ {
+  "id_localidad": 280,
+  "id_partido": 12,
+  "nombre": "ESQ DE LAHITTE"
+ },
+ {
+  "id_localidad": 281,
+  "id_partido": 12,
+  "nombre": "ESTACION LA ALBORADA"
+ },
+ {
+  "id_localidad": 282,
+  "id_partido": 12,
+  "nombre": "JUAN VICENTY"
+ },
+ {
+  "id_localidad": 283,
+  "id_partido": 12,
+  "nombre": "LA ADELA"
+ },
+ {
+  "id_localidad": 284,
+  "id_partido": 12,
+  "nombre": "LA DELIA"
+ },
+ {
+  "id_localidad": 285,
+  "id_partido": 12,
+  "nombre": "LA ESPERANZA"
+ },
+ {
+  "id_localidad": 286,
+  "id_partido": 12,
+  "nombre": "LA PALOMA"
+ },
+ {
+  "id_localidad": 287,
+  "id_partido": 12,
+  "nombre": "LA SARA"
+ },
+ {
+  "id_localidad": 288,
+  "id_partido": 12,
+  "nombre": "LLANOS"
+ },
+ {
+  "id_localidad": 289,
+  "id_partido": 12,
+  "nombre": "LOS CARDOS"
+ },
+ {
+  "id_localidad": 290,
+  "id_partido": 12,
+  "nombre": "LOS PINOS"
+ },
+ {
+  "id_localidad": 291,
+  "id_partido": 12,
+  "nombre": "NAPALEOFU"
+ },
+ {
+  "id_localidad": 292,
+  "id_partido": 12,
+  "nombre": "PUERTA DEL ABRA"
+ },
+ {
+  "id_localidad": 293,
+  "id_partido": 12,
+  "nombre": "RAMOS OTERO"
+ },
+ {
+  "id_localidad": 294,
+  "id_partido": 12,
+  "nombre": "SAN AGUSTIN"
+ },
+ {
+  "id_localidad": 295,
+  "id_partido": 12,
+  "nombre": "SAN ALBERTO"
+ },
+ {
+  "id_localidad": 296,
+  "id_partido": 12,
+  "nombre": "SAN SILVERIO"
+ },
+ {
+  "id_localidad": 297,
+  "id_partido": 12,
+  "nombre": "SAN SIMON"
+ },
+ {
+  "id_localidad": 298,
+  "id_partido": 12,
+  "nombre": "TRES ESQUINAS"
+ },
+ {
+  "id_localidad": 299,
+  "id_partido": 12,
+  "nombre": "TRES LOMAS"
+ },
+ {
+  "id_localidad": 300,
+  "id_partido": 12,
+  "nombre": "VILLA LAGUNA LA BRAVA"
+ },
+ {
+  "id_localidad": 301,
+  "id_partido": 13,
+  "nombre": "BARADERO"
+ },
+ {
+  "id_localidad": 302,
+  "id_partido": 13,
+  "nombre": "CAMINO A VILLA ALSINA"
+ },
+ {
+  "id_localidad": 303,
+  "id_partido": 13,
+  "nombre": "CAÑADA DE LOS TOROS"
+ },
+ {
+  "id_localidad": 304,
+  "id_partido": 13,
+  "nombre": "CAÑADA GRANDE"
+ },
+ {
+  "id_localidad": 305,
+  "id_partido": 13,
+  "nombre": "COLONIA SUIZA"
+ },
+ {
+  "id_localidad": 306,
+  "id_partido": 13,
+  "nombre": "EL CABALLITO"
+ },
+ {
+  "id_localidad": 307,
+  "id_partido": 13,
+  "nombre": "EL CABALLITO CHICO"
+ },
+ {
+  "id_localidad": 308,
+  "id_partido": 13,
+  "nombre": "EL MARTILLO"
+ },
+ {
+  "id_localidad": 309,
+  "id_partido": 13,
+  "nombre": "EL TRIANGULO"
+ },
+ {
+  "id_localidad": 310,
+  "id_partido": 13,
+  "nombre": "IRINEO PORTELA"
+ },
+ {
+  "id_localidad": 311,
+  "id_partido": 13,
+  "nombre": "ISLA LOS LAURELES"
+ },
+ {
+  "id_localidad": 312,
+  "id_partido": 13,
+  "nombre": "LA BELLACA"
+ },
+ {
+  "id_localidad": 313,
+  "id_partido": 13,
+  "nombre": "LA PALOMA"
+ },
+ {
+  "id_localidad": 314,
+  "id_partido": 13,
+  "nombre": "LA TORTUGA"
+ },
+ {
+  "id_localidad": 315,
+  "id_partido": 13,
+  "nombre": "SAENZ VALIENTE"
+ },
+ {
+  "id_localidad": 316,
+  "id_partido": 13,
+  "nombre": "SANTA COLOMA"
+ },
+ {
+  "id_localidad": 317,
+  "id_partido": 13,
+  "nombre": "VILLA ALSINA"
+ },
+ {
+  "id_localidad": 318,
+  "id_partido": 13,
+  "nombre": "VUELTA DE LOS PASTOS"
+ },
+ {
+  "id_localidad": 319,
+  "id_partido": 14,
+  "nombre": "BARKER"
+ },
+ {
+  "id_localidad": 320,
+  "id_partido": 14,
+  "nombre": "BENITO JUAREZ"
+ },
+ {
+  "id_localidad": 321,
+  "id_partido": 14,
+  "nombre": "CORONEL RODOLFO BUNGE"
+ },
+ {
+  "id_localidad": 322,
+  "id_partido": 14,
+  "nombre": "EL LUCHADOR"
+ },
+ {
+  "id_localidad": 323,
+  "id_partido": 14,
+  "nombre": "EL SAUCE"
+ },
+ {
+  "id_localidad": 324,
+  "id_partido": 14,
+  "nombre": "KILOMETRO 404"
+ },
+ {
+  "id_localidad": 325,
+  "id_partido": 14,
+  "nombre": "LA TINTA"
+ },
+ {
+  "id_localidad": 326,
+  "id_partido": 14,
+  "nombre": "LOPEZ"
+ },
+ {
+  "id_localidad": 327,
+  "id_partido": 14,
+  "nombre": "SAN ANTONIO"
+ },
+ {
+  "id_localidad": 328,
+  "id_partido": 14,
+  "nombre": "TEDIN URIBURU"
+ },
+ {
+  "id_localidad": 329,
+  "id_partido": 14,
+  "nombre": "VILLA CACIQUE"
+ },
+ {
+  "id_localidad": 330,
+  "id_partido": 15,
+  "nombre": "BERAZATEGUI"
+ },
+ {
+  "id_localidad": 331,
+  "id_partido": 15,
+  "nombre": "BERAZATEGUI OESTE"
+ },
+ {
+  "id_localidad": 332,
+  "id_partido": 15,
+  "nombre": "CARLOS TOMAS SOURIGUES"
+ },
+ {
+  "id_localidad": 333,
+  "id_partido": 15,
+  "nombre": "EL PATO"
+ },
+ {
+  "id_localidad": 334,
+  "id_partido": 15,
+  "nombre": "ESTACION PEREYRA"
+ },
+ {
+  "id_localidad": 335,
+  "id_partido": 15,
+  "nombre": "GUILLERMO ENRIQUE HUDSON"
+ },
+ {
+  "id_localidad": 336,
+  "id_partido": 15,
+  "nombre": "JUAN MARIA GUTIERREZ"
+ },
+ {
+  "id_localidad": 337,
+  "id_partido": 15,
+  "nombre": "PEREYRA"
+ },
+ {
+  "id_localidad": 338,
+  "id_partido": 15,
+  "nombre": "PLATANOS"
+ },
+ {
+  "id_localidad": 339,
+  "id_partido": 15,
+  "nombre": "RANELAGH"
+ },
+ {
+  "id_localidad": 340,
+  "id_partido": 15,
+  "nombre": "VILLA ESPAÑA"
+ },
+ {
+  "id_localidad": 341,
+  "id_partido": 16,
+  "nombre": "BARRIO BANCO PROVINCIA"
+ },
+ {
+  "id_localidad": 342,
+  "id_partido": 16,
+  "nombre": "BARRIO EL CARMEN (ESTE)"
+ },
+ {
+  "id_localidad": 343,
+  "id_partido": 16,
+  "nombre": "BARRIO UNIVERSITARIO"
+ },
+ {
+  "id_localidad": 344,
+  "id_partido": 16,
+  "nombre": "BERISSO"
+ },
+ {
+  "id_localidad": 345,
+  "id_partido": 16,
+  "nombre": "ISLA PAULINO"
+ },
+ {
+  "id_localidad": 346,
+  "id_partido": 16,
+  "nombre": "LA HERMOSURA"
+ },
+ {
+  "id_localidad": 347,
+  "id_partido": 16,
+  "nombre": "LOS TALAS"
+ },
+ {
+  "id_localidad": 348,
+  "id_partido": 16,
+  "nombre": "VILLA ARGÑELLO"
+ },
+ {
+  "id_localidad": 349,
+  "id_partido": 16,
+  "nombre": "VILLA DOLORES"
+ },
+ {
+  "id_localidad": 350,
+  "id_partido": 16,
+  "nombre": "VILLA INDEPENDENCIA"
+ },
+ {
+  "id_localidad": 351,
+  "id_partido": 16,
+  "nombre": "VILLA NUEVA"
+ },
+ {
+  "id_localidad": 352,
+  "id_partido": 16,
+  "nombre": "VILLA PORTEÑA"
+ },
+ {
+  "id_localidad": 353,
+  "id_partido": 16,
+  "nombre": "VILLA PROGRESO"
+ },
+ {
+  "id_localidad": 354,
+  "id_partido": 16,
+  "nombre": "VILLA SAN CARLOS"
+ },
+ {
+  "id_localidad": 355,
+  "id_partido": 16,
+  "nombre": "VILLA ZULA"
+ },
+ {
+  "id_localidad": 356,
+  "id_partido": 17,
+  "nombre": "30 DE DICIEMBRE"
+ },
+ {
+  "id_localidad": 357,
+  "id_partido": 17,
+  "nombre": "AVELLANEDA"
+ },
+ {
+  "id_localidad": 358,
+  "id_partido": 17,
+  "nombre": "BOSCABEL"
+ },
+ {
+  "id_localidad": 359,
+  "id_partido": 17,
+  "nombre": "CAMPO CAPECCE"
+ },
+ {
+  "id_localidad": 360,
+  "id_partido": 17,
+  "nombre": "CAMPO CREADO"
+ },
+ {
+  "id_localidad": 361,
+  "id_partido": 17,
+  "nombre": "CAMPO LANDO"
+ },
+ {
+  "id_localidad": 362,
+  "id_partido": 17,
+  "nombre": "EL 43"
+ },
+ {
+  "id_localidad": 363,
+  "id_partido": 17,
+  "nombre": "EL CABILDO"
+ },
+ {
+  "id_localidad": 364,
+  "id_partido": 17,
+  "nombre": "EL PORVENIR"
+ },
+ {
+  "id_localidad": 365,
+  "id_partido": 17,
+  "nombre": "EL SOMBRERITO"
+ },
+ {
+  "id_localidad": 366,
+  "id_partido": 17,
+  "nombre": "HALE"
+ },
+ {
+  "id_localidad": 367,
+  "id_partido": 17,
+  "nombre": "JUAN F. IBARRA"
+ },
+ {
+  "id_localidad": 368,
+  "id_partido": 17,
+  "nombre": "LA CAROLINA"
+ },
+ {
+  "id_localidad": 369,
+  "id_partido": 17,
+  "nombre": "LA MATILDE"
+ },
+ {
+  "id_localidad": 370,
+  "id_partido": 17,
+  "nombre": "LA MERCED"
+ },
+ {
+  "id_localidad": 371,
+  "id_partido": 17,
+  "nombre": "LA PROTECTORA"
+ },
+ {
+  "id_localidad": 372,
+  "id_partido": 17,
+  "nombre": "LA VIZCAINA"
+ },
+ {
+  "id_localidad": 373,
+  "id_partido": 17,
+  "nombre": "LOS 4 VIENTOS"
+ },
+ {
+  "id_localidad": 374,
+  "id_partido": 17,
+  "nombre": "MARIANO UNZUE"
+ },
+ {
+  "id_localidad": 375,
+  "id_partido": 17,
+  "nombre": "MARSIGLIO"
+ },
+ {
+  "id_localidad": 376,
+  "id_partido": 17,
+  "nombre": "MIRAMAR"
+ },
+ {
+  "id_localidad": 377,
+  "id_partido": 17,
+  "nombre": "PAULA"
+ },
+ {
+  "id_localidad": 378,
+  "id_partido": 17,
+  "nombre": "PIROVANO"
+ },
+ {
+  "id_localidad": 379,
+  "id_partido": 17,
+  "nombre": "SAN ANDRES"
+ },
+ {
+  "id_localidad": 380,
+  "id_partido": 17,
+  "nombre": "SAN CARLOS DE BOLIVAR"
+ },
+ {
+  "id_localidad": 381,
+  "id_partido": 17,
+  "nombre": "SAN EMILIO"
+ },
+ {
+  "id_localidad": 382,
+  "id_partido": 17,
+  "nombre": "SAN LUIS"
+ },
+ {
+  "id_localidad": 383,
+  "id_partido": 17,
+  "nombre": "SANTA MARIA"
+ },
+ {
+  "id_localidad": 384,
+  "id_partido": 17,
+  "nombre": "UNIDAD PENAL DE URDAMPILLETA"
+ },
+ {
+  "id_localidad": 385,
+  "id_partido": 17,
+  "nombre": "URDAMPILLETA"
+ },
+ {
+  "id_localidad": 386,
+  "id_partido": 17,
+  "nombre": "VALLIMANCA"
+ },
+ {
+  "id_localidad": 387,
+  "id_partido": 17,
+  "nombre": "VILLA LYNCH PUEYRREDON"
+ },
+ {
+  "id_localidad": 388,
+  "id_partido": 17,
+  "nombre": "VILLA SANZ"
+ },
+ {
+  "id_localidad": 389,
+  "id_partido": 18,
+  "nombre": "ASAMBLEA"
+ },
+ {
+  "id_localidad": 390,
+  "id_partido": 18,
+  "nombre": "BRAGADO"
+ },
+ {
+  "id_localidad": 391,
+  "id_partido": 18,
+  "nombre": "CAMPO DE RIANO"
+ },
+ {
+  "id_localidad": 392,
+  "id_partido": 18,
+  "nombre": "COMODORO PY"
+ },
+ {
+  "id_localidad": 393,
+  "id_partido": 18,
+  "nombre": "CUARTEL II"
+ },
+ {
+  "id_localidad": 394,
+  "id_partido": 18,
+  "nombre": "EL MATACO"
+ },
+ {
+  "id_localidad": 395,
+  "id_partido": 18,
+  "nombre": "GENERAL O'BRIEN"
+ },
+ {
+  "id_localidad": 396,
+  "id_partido": 18,
+  "nombre": "IRALA"
+ },
+ {
+  "id_localidad": 397,
+  "id_partido": 18,
+  "nombre": "LA BLANQUEDA"
+ },
+ {
+  "id_localidad": 398,
+  "id_partido": 18,
+  "nombre": "LA CRIOLLA"
+ },
+ {
+  "id_localidad": 399,
+  "id_partido": 18,
+  "nombre": "LA LIMPIA"
+ },
+ {
+  "id_localidad": 400,
+  "id_partido": 18,
+  "nombre": "LA MARIA"
+ },
+ {
+  "id_localidad": 401,
+  "id_partido": 18,
+  "nombre": "MAXIMO FERNANDEZ"
+ },
+ {
+  "id_localidad": 402,
+  "id_partido": 18,
+  "nombre": "MECHITA"
+ },
+ {
+  "id_localidad": 403,
+  "id_partido": 18,
+  "nombre": "OLASCOAGA"
+ },
+ {
+  "id_localidad": 404,
+  "id_partido": 18,
+  "nombre": "RAUCH NUEVO"
+ },
+ {
+  "id_localidad": 405,
+  "id_partido": 18,
+  "nombre": "RAUCH VIEJO"
+ },
+ {
+  "id_localidad": 406,
+  "id_partido": 18,
+  "nombre": "SANTA ROSA"
+ },
+ {
+  "id_localidad": 407,
+  "id_partido": 18,
+  "nombre": "SANTO DOMINGO"
+ },
+ {
+  "id_localidad": 408,
+  "id_partido": 18,
+  "nombre": "WARNES"
+ },
+ {
+  "id_localidad": 409,
+  "id_partido": 19,
+  "nombre": "ALTAMIRANO"
+ },
+ {
+  "id_localidad": 410,
+  "id_partido": 19,
+  "nombre": "BARRIO EL MIRADOR"
+ },
+ {
+  "id_localidad": 411,
+  "id_partido": 19,
+  "nombre": "BARRIO LAS GOLONDRINAS"
+ },
+ {
+  "id_localidad": 412,
+  "id_partido": 19,
+  "nombre": "BARRIO LOS BOSQUECITOS"
+ },
+ {
+  "id_localidad": 413,
+  "id_partido": 19,
+  "nombre": "BARRIO PARQUE LAS ACACIAS"
+ },
+ {
+  "id_localidad": 414,
+  "id_partido": 19,
+  "nombre": "BUCHANAN"
+ },
+ {
+  "id_localidad": 415,
+  "id_partido": 19,
+  "nombre": "CAMPO PORTU"
+ },
+ {
+  "id_localidad": 416,
+  "id_partido": 19,
+  "nombre": "CAMPOS DE ROCA"
+ },
+ {
+  "id_localidad": 417,
+  "id_partido": 19,
+  "nombre": "CLUB DE CAMPO LAS MALVINAS"
+ },
+ {
+  "id_localidad": 418,
+  "id_partido": 19,
+  "nombre": "CORONEL BRANDSEN"
+ },
+ {
+  "id_localidad": 419,
+  "id_partido": 19,
+  "nombre": "CUARTEL II"
+ },
+ {
+  "id_localidad": 420,
+  "id_partido": 19,
+  "nombre": "EL CHAJA"
+ },
+ {
+  "id_localidad": 421,
+  "id_partido": 19,
+  "nombre": "GOBERNADOR OBLIGADO"
+ },
+ {
+  "id_localidad": 422,
+  "id_partido": 19,
+  "nombre": "GOMEZ"
+ },
+ {
+  "id_localidad": 423,
+  "id_partido": 19,
+  "nombre": "JEPPENER"
+ },
+ {
+  "id_localidad": 424,
+  "id_partido": 19,
+  "nombre": "LA PARADA"
+ },
+ {
+  "id_localidad": 425,
+  "id_partido": 19,
+  "nombre": "LA PEPITA"
+ },
+ {
+  "id_localidad": 426,
+  "id_partido": 19,
+  "nombre": "LA POSADA"
+ },
+ {
+  "id_localidad": 427,
+  "id_partido": 19,
+  "nombre": "OLIDEN"
+ },
+ {
+  "id_localidad": 428,
+  "id_partido": 19,
+  "nombre": "POSADA DE LOS LAGOS"
+ },
+ {
+  "id_localidad": 429,
+  "id_partido": 19,
+  "nombre": "RUTA 29 KM 2"
+ },
+ {
+  "id_localidad": 430,
+  "id_partido": 19,
+  "nombre": "SAMBOROMBON"
+ },
+ {
+  "id_localidad": 431,
+  "id_partido": 20,
+  "nombre": "ALTO LOS CARDALES"
+ },
+ {
+  "id_localidad": 432,
+  "id_partido": 20,
+  "nombre": "BARRIO LOS PIONEROS"
+ },
+ {
+  "id_localidad": 433,
+  "id_partido": 20,
+  "nombre": "BLONDEAU"
+ },
+ {
+  "id_localidad": 434,
+  "id_partido": 20,
+  "nombre": "CAMPANA"
+ },
+ {
+  "id_localidad": 435,
+  "id_partido": 20,
+  "nombre": "CHACRAS DEL RIO LUJAN"
+ },
+ {
+  "id_localidad": 436,
+  "id_partido": 20,
+  "nombre": "EL MOREJON"
+ },
+ {
+  "id_localidad": 437,
+  "id_partido": 20,
+  "nombre": "ESTACION ESPERIMENTAL DELTA DEL PARANA"
+ },
+ {
+  "id_localidad": 438,
+  "id_partido": 20,
+  "nombre": "ISLA TALAVERA"
+ },
+ {
+  "id_localidad": 439,
+  "id_partido": 20,
+  "nombre": "LA GRANJA"
+ },
+ {
+  "id_localidad": 440,
+  "id_partido": 20,
+  "nombre": "LOMAS DEL RIO LUJAN"
+ },
+ {
+  "id_localidad": 441,
+  "id_partido": 21,
+  "nombre": "ALEJANDRO PETION"
+ },
+ {
+  "id_localidad": 442,
+  "id_partido": 21,
+  "nombre": "BARRIO BELGRANO"
+ },
+ {
+  "id_localidad": 443,
+  "id_partido": 21,
+  "nombre": "BARRIO EL TALADRO"
+ },
+ {
+  "id_localidad": 444,
+  "id_partido": 21,
+  "nombre": "CAÑUELAS"
+ },
+ {
+  "id_localidad": 445,
+  "id_partido": 21,
+  "nombre": "CUARTEL XV"
+ },
+ {
+  "id_localidad": 446,
+  "id_partido": 21,
+  "nombre": "EL DESLINDE"
+ },
+ {
+  "id_localidad": 447,
+  "id_partido": 21,
+  "nombre": "ESTANCIA LA PRIMAVERA"
+ },
+ {
+  "id_localidad": 448,
+  "id_partido": 21,
+  "nombre": "GOBERNADOR UDAONDO"
+ },
+ {
+  "id_localidad": 449,
+  "id_partido": 21,
+  "nombre": "LA LEONOR"
+ },
+ {
+  "id_localidad": 450,
+  "id_partido": 21,
+  "nombre": "LA NORIA"
+ },
+ {
+  "id_localidad": 451,
+  "id_partido": 21,
+  "nombre": "LA TAPIE"
+ },
+ {
+  "id_localidad": 452,
+  "id_partido": 21,
+  "nombre": "LAS PALMITAS"
+ },
+ {
+  "id_localidad": 453,
+  "id_partido": 21,
+  "nombre": "LOS ALAMOS"
+ },
+ {
+  "id_localidad": 454,
+  "id_partido": 21,
+  "nombre": "MAXIMO PAZ"
+ },
+ {
+  "id_localidad": 455,
+  "id_partido": 21,
+  "nombre": "SAN ANTONIO"
+ },
+ {
+  "id_localidad": 456,
+  "id_partido": 21,
+  "nombre": "SANTA ROSA"
+ },
+ {
+  "id_localidad": 457,
+  "id_partido": 21,
+  "nombre": "URIBELARREA"
+ },
+ {
+  "id_localidad": 458,
+  "id_partido": 21,
+  "nombre": "VICENTE CASARES"
+ },
+ {
+  "id_localidad": 459,
+  "id_partido": 21,
+  "nombre": "VILLA VISSIR"
+ },
+ {
+  "id_localidad": 460,
+  "id_partido": 22,
+  "nombre": "ARROYO DE LUNA"
+ },
+ {
+  "id_localidad": 461,
+  "id_partido": 22,
+  "nombre": "CAPITAN SARMIENTO"
+ },
+ {
+  "id_localidad": 462,
+  "id_partido": 22,
+  "nombre": "EL DESCANSO"
+ },
+ {
+  "id_localidad": 463,
+  "id_partido": 22,
+  "nombre": "LA COLORADA"
+ },
+ {
+  "id_localidad": 464,
+  "id_partido": 22,
+  "nombre": "LA LUISA"
+ },
+ {
+  "id_localidad": 465,
+  "id_partido": 23,
+  "nombre": "BELLOCQ"
+ },
+ {
+  "id_localidad": 466,
+  "id_partido": 23,
+  "nombre": "CADRET"
+ },
+ {
+  "id_localidad": 467,
+  "id_partido": 23,
+  "nombre": "CARLOS CASARES"
+ },
+ {
+  "id_localidad": 468,
+  "id_partido": 23,
+  "nombre": "CENTENARIO"
+ },
+ {
+  "id_localidad": 469,
+  "id_partido": 23,
+  "nombre": "COLONIA LA PIEDRA"
+ },
+ {
+  "id_localidad": 470,
+  "id_partido": 23,
+  "nombre": "COLONIA MAURICIO"
+ },
+ {
+  "id_localidad": 471,
+  "id_partido": 23,
+  "nombre": "COLONIA SANTA MARIA"
+ },
+ {
+  "id_localidad": 472,
+  "id_partido": 23,
+  "nombre": "EL BILLAR"
+ },
+ {
+  "id_localidad": 473,
+  "id_partido": 23,
+  "nombre": "EL SEPTIMO"
+ },
+ {
+  "id_localidad": 474,
+  "id_partido": 23,
+  "nombre": "GOBERNADOR ARIAS"
+ },
+ {
+  "id_localidad": 475,
+  "id_partido": 23,
+  "nombre": "HORTENSIA"
+ },
+ {
+  "id_localidad": 476,
+  "id_partido": 23,
+  "nombre": "LA DORITA"
+ },
+ {
+  "id_localidad": 477,
+  "id_partido": 23,
+  "nombre": "LA SOFIA"
+ },
+ {
+  "id_localidad": 478,
+  "id_partido": 23,
+  "nombre": "LAS CHACRAS"
+ },
+ {
+  "id_localidad": 479,
+  "id_partido": 23,
+  "nombre": "MAURICIO HIRSCH"
+ },
+ {
+  "id_localidad": 480,
+  "id_partido": 23,
+  "nombre": "MOCTEZUMA"
+ },
+ {
+  "id_localidad": 481,
+  "id_partido": 23,
+  "nombre": "ORDOQUI"
+ },
+ {
+  "id_localidad": 482,
+  "id_partido": 23,
+  "nombre": "SANTO TOMAS"
+ },
+ {
+  "id_localidad": 483,
+  "id_partido": 23,
+  "nombre": "SMITH"
+ },
+ {
+  "id_localidad": 484,
+  "id_partido": 24,
+  "nombre": "BELLA VISTA"
+ },
+ {
+  "id_localidad": 485,
+  "id_partido": 24,
+  "nombre": "CAMPO MERLO"
+ },
+ {
+  "id_localidad": 486,
+  "id_partido": 24,
+  "nombre": "CARLOS TEJEDOR"
+ },
+ {
+  "id_localidad": 487,
+  "id_partido": 24,
+  "nombre": "COLONIA SERE"
+ },
+ {
+  "id_localidad": 488,
+  "id_partido": 24,
+  "nombre": "CURARU"
+ },
+ {
+  "id_localidad": 489,
+  "id_partido": 24,
+  "nombre": "DRYSDALE"
+ },
+ {
+  "id_localidad": 490,
+  "id_partido": 24,
+  "nombre": "EL RETIRO"
+ },
+ {
+  "id_localidad": 491,
+  "id_partido": 24,
+  "nombre": "EL TORO"
+ },
+ {
+  "id_localidad": 492,
+  "id_partido": 24,
+  "nombre": "ENCINA"
+ },
+ {
+  "id_localidad": 493,
+  "id_partido": 24,
+  "nombre": "ESTEBAN DE LUCA"
+ },
+ {
+  "id_localidad": 494,
+  "id_partido": 24,
+  "nombre": "HEREFORD"
+ },
+ {
+  "id_localidad": 495,
+  "id_partido": 24,
+  "nombre": "HUSARES"
+ },
+ {
+  "id_localidad": 496,
+  "id_partido": 24,
+  "nombre": "JUSTET"
+ },
+ {
+  "id_localidad": 497,
+  "id_partido": 24,
+  "nombre": "LA ARGENTINA"
+ },
+ {
+  "id_localidad": 498,
+  "id_partido": 24,
+  "nombre": "LA DIANA"
+ },
+ {
+  "id_localidad": 499,
+  "id_partido": 24,
+  "nombre": "LA MANUELA"
+ },
+ {
+  "id_localidad": 500,
+  "id_partido": 24,
+  "nombre": "LA TROCHA"
+ },
+ {
+  "id_localidad": 501,
+  "id_partido": 24,
+  "nombre": "LOS ALAMOS"
+ },
+ {
+  "id_localidad": 502,
+  "id_partido": 24,
+  "nombre": "SAN MARTIN"
+ },
+ {
+  "id_localidad": 503,
+  "id_partido": 24,
+  "nombre": "SANTA INES"
+ },
+ {
+  "id_localidad": 504,
+  "id_partido": 24,
+  "nombre": "TIMOTE"
+ },
+ {
+  "id_localidad": 505,
+  "id_partido": 24,
+  "nombre": "TIMOTE CHICO"
+ },
+ {
+  "id_localidad": 506,
+  "id_partido": 24,
+  "nombre": "TRES ALGARROBOS"
+ },
+ {
+  "id_localidad": 507,
+  "id_partido": 25,
+  "nombre": "CARMEN DE ARECO"
+ },
+ {
+  "id_localidad": 508,
+  "id_partido": 25,
+  "nombre": "CUARTEL I"
+ },
+ {
+  "id_localidad": 509,
+  "id_partido": 25,
+  "nombre": "CUARTEL VI"
+ },
+ {
+  "id_localidad": 510,
+  "id_partido": 25,
+  "nombre": "CUARTEL VII"
+ },
+ {
+  "id_localidad": 511,
+  "id_partido": 25,
+  "nombre": "ESCOBEDO"
+ },
+ {
+  "id_localidad": 512,
+  "id_partido": 25,
+  "nombre": "EX-SANTAMARINA"
+ },
+ {
+  "id_localidad": 513,
+  "id_partido": 25,
+  "nombre": "KENNY"
+ },
+ {
+  "id_localidad": 514,
+  "id_partido": 25,
+  "nombre": "LA CENTRAL"
+ },
+ {
+  "id_localidad": 515,
+  "id_partido": 25,
+  "nombre": "LA CRIOLLA"
+ },
+ {
+  "id_localidad": 516,
+  "id_partido": 25,
+  "nombre": "PUEBLO GOUIN"
+ },
+ {
+  "id_localidad": 517,
+  "id_partido": 25,
+  "nombre": "TATAY"
+ },
+ {
+  "id_localidad": 518,
+  "id_partido": 25,
+  "nombre": "TRES SARGENTOS"
+ },
+ {
+  "id_localidad": 519,
+  "id_partido": 26,
+  "nombre": "ABETHUR"
+ },
+ {
+  "id_localidad": 520,
+  "id_partido": 26,
+  "nombre": "ALMACEN AROSA"
+ },
+ {
+  "id_localidad": 521,
+  "id_partido": 26,
+  "nombre": "CASTELLI"
+ },
+ {
+  "id_localidad": 522,
+  "id_partido": 26,
+  "nombre": "CENTRO GUERRERO"
+ },
+ {
+  "id_localidad": 523,
+  "id_partido": 26,
+  "nombre": "CERRO DE LA GLORIA (CANAL 15)"
+ },
+ {
+  "id_localidad": 524,
+  "id_partido": 26,
+  "nombre": "EL ARAZA"
+ },
+ {
+  "id_localidad": 525,
+  "id_partido": 26,
+  "nombre": "EL CALLEJON"
+ },
+ {
+  "id_localidad": 526,
+  "id_partido": 26,
+  "nombre": "EL MANANTIAL"
+ },
+ {
+  "id_localidad": 527,
+  "id_partido": 26,
+  "nombre": "EL TRIANGULO"
+ },
+ {
+  "id_localidad": 528,
+  "id_partido": 26,
+  "nombre": "LA CALIFORNIA"
+ },
+ {
+  "id_localidad": 529,
+  "id_partido": 26,
+  "nombre": "LA CORINA"
+ },
+ {
+  "id_localidad": 530,
+  "id_partido": 26,
+  "nombre": "LA INDIA MUERTA"
+ },
+ {
+  "id_localidad": 531,
+  "id_partido": 26,
+  "nombre": "LA REDUCCION"
+ },
+ {
+  "id_localidad": 532,
+  "id_partido": 26,
+  "nombre": "LA SALADA"
+ },
+ {
+  "id_localidad": 533,
+  "id_partido": 26,
+  "nombre": "LAS TORTUGAS"
+ },
+ {
+  "id_localidad": 534,
+  "id_partido": 26,
+  "nombre": "LOS ALTOS VERDES"
+ },
+ {
+  "id_localidad": 535,
+  "id_partido": 26,
+  "nombre": "LOS MOLLES"
+ },
+ {
+  "id_localidad": 536,
+  "id_partido": 27,
+  "nombre": "CASTILLA"
+ },
+ {
+  "id_localidad": 537,
+  "id_partido": 27,
+  "nombre": "CHACABUCO"
+ },
+ {
+  "id_localidad": 538,
+  "id_partido": 27,
+  "nombre": "CIRCUNSCRIPCION I SERIE H"
+ },
+ {
+  "id_localidad": 539,
+  "id_partido": 27,
+  "nombre": "COLIQUEO"
+ },
+ {
+  "id_localidad": 540,
+  "id_partido": 27,
+  "nombre": "CUARTEL I"
+ },
+ {
+  "id_localidad": 541,
+  "id_partido": 27,
+  "nombre": "CUARTEL IV"
+ },
+ {
+  "id_localidad": 542,
+  "id_partido": 27,
+  "nombre": "CUCHA CUCHA"
+ },
+ {
+  "id_localidad": 543,
+  "id_partido": 27,
+  "nombre": "EL TEJADO"
+ },
+ {
+  "id_localidad": 544,
+  "id_partido": 27,
+  "nombre": "INGENIERO SILVEYRA"
+ },
+ {
+  "id_localidad": 545,
+  "id_partido": 27,
+  "nombre": "LA DELIA"
+ },
+ {
+  "id_localidad": 546,
+  "id_partido": 27,
+  "nombre": "LA TABLADA"
+ },
+ {
+  "id_localidad": 547,
+  "id_partido": 27,
+  "nombre": "LA VERDE"
+ },
+ {
+  "id_localidad": 548,
+  "id_partido": 27,
+  "nombre": "LA VICTORIA"
+ },
+ {
+  "id_localidad": 549,
+  "id_partido": 27,
+  "nombre": "LAS CAÑAS"
+ },
+ {
+  "id_localidad": 550,
+  "id_partido": 27,
+  "nombre": "LOS ANGELES"
+ },
+ {
+  "id_localidad": 551,
+  "id_partido": 27,
+  "nombre": "MEDANOS BLANCOS"
+ },
+ {
+  "id_localidad": 552,
+  "id_partido": 27,
+  "nombre": "MEMBRILLAR"
+ },
+ {
+  "id_localidad": 553,
+  "id_partido": 27,
+  "nombre": "O'HIGGINS"
+ },
+ {
+  "id_localidad": 554,
+  "id_partido": 27,
+  "nombre": "RAWSON"
+ },
+ {
+  "id_localidad": 555,
+  "id_partido": 27,
+  "nombre": "RUTA NACIONAL 7 KM 205"
+ },
+ {
+  "id_localidad": 556,
+  "id_partido": 27,
+  "nombre": "SAN PATRICIO"
+ },
+ {
+  "id_localidad": 557,
+  "id_partido": 27,
+  "nombre": "SAN VICENTE"
+ },
+ {
+  "id_localidad": 558,
+  "id_partido": 27,
+  "nombre": "SAUCE VERDE"
+ },
+ {
+  "id_localidad": 559,
+  "id_partido": 28,
+  "nombre": "9 DE JULIO"
+ },
+ {
+  "id_localidad": 560,
+  "id_partido": 28,
+  "nombre": "ADELA"
+ },
+ {
+  "id_localidad": 561,
+  "id_partido": 28,
+  "nombre": "BARRIO LOMAS ALTAS"
+ },
+ {
+  "id_localidad": 562,
+  "id_partido": 28,
+  "nombre": "BARRIO SAN CAYETANO"
+ },
+ {
+  "id_localidad": 563,
+  "id_partido": 28,
+  "nombre": "CHASCOMUS"
+ },
+ {
+  "id_localidad": 564,
+  "id_partido": 28,
+  "nombre": "COMANDANTE GIRIBONE"
+ },
+ {
+  "id_localidad": 565,
+  "id_partido": 28,
+  "nombre": "CUATRO DE FEBRERO"
+ },
+ {
+  "id_localidad": 566,
+  "id_partido": 28,
+  "nombre": "DON CIPRIANO"
+ },
+ {
+  "id_localidad": 567,
+  "id_partido": 28,
+  "nombre": "EL BOTE"
+ },
+ {
+  "id_localidad": 568,
+  "id_partido": 28,
+  "nombre": "EL RECREO"
+ },
+ {
+  "id_localidad": 569,
+  "id_partido": 28,
+  "nombre": "EL SOLITO"
+ },
+ {
+  "id_localidad": 570,
+  "id_partido": 28,
+  "nombre": "ESTANCIA EL COATI"
+ },
+ {
+  "id_localidad": 571,
+  "id_partido": 28,
+  "nombre": "ESTANCIA SAN CEFERINO"
+ },
+ {
+  "id_localidad": 572,
+  "id_partido": 28,
+  "nombre": "GANDARA"
+ },
+ {
+  "id_localidad": 573,
+  "id_partido": 28,
+  "nombre": "JUANCHO"
+ },
+ {
+  "id_localidad": 574,
+  "id_partido": 28,
+  "nombre": "LA CORONA"
+ },
+ {
+  "id_localidad": 575,
+  "id_partido": 28,
+  "nombre": "LA GRANJA"
+ },
+ {
+  "id_localidad": 576,
+  "id_partido": 28,
+  "nombre": "LA HORQUETA"
+ },
+ {
+  "id_localidad": 577,
+  "id_partido": 28,
+  "nombre": "LA JUANITA"
+ },
+ {
+  "id_localidad": 578,
+  "id_partido": 28,
+  "nombre": "LAGUNA VITEL"
+ },
+ {
+  "id_localidad": 579,
+  "id_partido": 28,
+  "nombre": "LIBRES DEL SUD"
+ },
+ {
+  "id_localidad": 580,
+  "id_partido": 28,
+  "nombre": "LOS CERRILLOS"
+ },
+ {
+  "id_localidad": 581,
+  "id_partido": 28,
+  "nombre": "LOS JAGÑELES"
+ },
+ {
+  "id_localidad": 582,
+  "id_partido": 28,
+  "nombre": "MANANTIALES"
+ },
+ {
+  "id_localidad": 583,
+  "id_partido": 28,
+  "nombre": "PUERTA DEL DIABLO"
+ },
+ {
+  "id_localidad": 584,
+  "id_partido": 28,
+  "nombre": "SAN GREGORIO"
+ },
+ {
+  "id_localidad": 585,
+  "id_partido": 28,
+  "nombre": "SAN NICANOR"
+ },
+ {
+  "id_localidad": 586,
+  "id_partido": 28,
+  "nombre": "VALLE SANTA ANTA"
+ },
+ {
+  "id_localidad": 587,
+  "id_partido": 28,
+  "nombre": "VILLA PARQUE GIRADO"
+ },
+ {
+  "id_localidad": 588,
+  "id_partido": 28,
+  "nombre": "VIVERO NACIONAL"
+ },
+ {
+  "id_localidad": 589,
+  "id_partido": 29,
+  "nombre": "BENITEZ"
+ },
+ {
+  "id_localidad": 590,
+  "id_partido": 29,
+  "nombre": "CAMPO DE BARDENGO"
+ },
+ {
+  "id_localidad": 591,
+  "id_partido": 29,
+  "nombre": "CAMPO ZACARDI"
+ },
+ {
+  "id_localidad": 592,
+  "id_partido": 29,
+  "nombre": "CHIVILCOY"
+ },
+ {
+  "id_localidad": 593,
+  "id_partido": 29,
+  "nombre": "CUARTEL III"
+ },
+ {
+  "id_localidad": 594,
+  "id_partido": 29,
+  "nombre": "CUARTEL VI"
+ },
+ {
+  "id_localidad": 595,
+  "id_partido": 29,
+  "nombre": "CUARTEL VIII"
+ },
+ {
+  "id_localidad": 596,
+  "id_partido": 29,
+  "nombre": "DE LUCA"
+ },
+ {
+  "id_localidad": 597,
+  "id_partido": 29,
+  "nombre": "EL PORVENIR"
+ },
+ {
+  "id_localidad": 598,
+  "id_partido": 29,
+  "nombre": "EMILIO AYARZA"
+ },
+ {
+  "id_localidad": 599,
+  "id_partido": 29,
+  "nombre": "GOROSTIAGA"
+ },
+ {
+  "id_localidad": 600,
+  "id_partido": 29,
+  "nombre": "HENRY BELL"
+ },
+ {
+  "id_localidad": 601,
+  "id_partido": 29,
+  "nombre": "INDACOCHEA"
+ },
+ {
+  "id_localidad": 602,
+  "id_partido": 29,
+  "nombre": "LA ARMONIA"
+ },
+ {
+  "id_localidad": 603,
+  "id_partido": 29,
+  "nombre": "LA CARLOTA"
+ },
+ {
+  "id_localidad": 604,
+  "id_partido": 29,
+  "nombre": "LA COLORADA"
+ },
+ {
+  "id_localidad": 605,
+  "id_partido": 29,
+  "nombre": "LA RICA"
+ },
+ {
+  "id_localidad": 606,
+  "id_partido": 29,
+  "nombre": "LA UNION"
+ },
+ {
+  "id_localidad": 607,
+  "id_partido": 29,
+  "nombre": "LOS COPETES"
+ },
+ {
+  "id_localidad": 608,
+  "id_partido": 29,
+  "nombre": "MOQUEHUA"
+ },
+ {
+  "id_localidad": 609,
+  "id_partido": 29,
+  "nombre": "PALEMON HUERGO"
+ },
+ {
+  "id_localidad": 610,
+  "id_partido": 29,
+  "nombre": "PASAJE EL PALOMAR"
+ },
+ {
+  "id_localidad": 611,
+  "id_partido": 29,
+  "nombre": "PICHEUTA"
+ },
+ {
+  "id_localidad": 612,
+  "id_partido": 29,
+  "nombre": "PUENTE LAGO"
+ },
+ {
+  "id_localidad": 613,
+  "id_partido": 29,
+  "nombre": "RAMON BIAUS"
+ },
+ {
+  "id_localidad": 614,
+  "id_partido": 29,
+  "nombre": "SAN CARLOS"
+ },
+ {
+  "id_localidad": 615,
+  "id_partido": 29,
+  "nombre": "SAN SEBASTIAN"
+ },
+ {
+  "id_localidad": 616,
+  "id_partido": 29,
+  "nombre": "SANTA ISABEL"
+ },
+ {
+  "id_localidad": 617,
+  "id_partido": 29,
+  "nombre": "SECCION PRIMERA QUINTAS"
+ },
+ {
+  "id_localidad": 618,
+  "id_partido": 29,
+  "nombre": "WITTE"
+ },
+ {
+  "id_localidad": 619,
+  "id_partido": 30,
+  "nombre": "COLON"
+ },
+ {
+  "id_localidad": 620,
+  "id_partido": 30,
+  "nombre": "COLONIA LA PERLA"
+ },
+ {
+  "id_localidad": 621,
+  "id_partido": 30,
+  "nombre": "EL ARBOLITO"
+ },
+ {
+  "id_localidad": 622,
+  "id_partido": 30,
+  "nombre": "LOS BARRILES"
+ },
+ {
+  "id_localidad": 623,
+  "id_partido": 30,
+  "nombre": "PEARSON"
+ },
+ {
+  "id_localidad": 624,
+  "id_partido": 30,
+  "nombre": "SARASA"
+ },
+ {
+  "id_localidad": 625,
+  "id_partido": 31,
+  "nombre": "B.N.I.M BATERIAS"
+ },
+ {
+  "id_localidad": 626,
+  "id_partido": 31,
+  "nombre": "BAJO HONDO"
+ },
+ {
+  "id_localidad": 627,
+  "id_partido": 31,
+  "nombre": "BALNEARIO PEHUEN CO"
+ },
+ {
+  "id_localidad": 628,
+  "id_partido": 31,
+  "nombre": "CALDERON"
+ },
+ {
+  "id_localidad": 629,
+  "id_partido": 31,
+  "nombre": "CAMPO ESCUDERO"
+ },
+ {
+  "id_localidad": 630,
+  "id_partido": 31,
+  "nombre": "CAMPO SAN VICENTE"
+ },
+ {
+  "id_localidad": 631,
+  "id_partido": 31,
+  "nombre": "CORONEL ROSALES"
+ },
+ {
+  "id_localidad": 632,
+  "id_partido": 31,
+  "nombre": "LAS OSCURAS"
+ },
+ {
+  "id_localidad": 633,
+  "id_partido": 31,
+  "nombre": "PAGO CHICO"
+ },
+ {
+  "id_localidad": 634,
+  "id_partido": 31,
+  "nombre": "PUNTA ALTA"
+ },
+ {
+  "id_localidad": 635,
+  "id_partido": 31,
+  "nombre": "VILLA DEL MAR"
+ },
+ {
+  "id_localidad": 636,
+  "id_partido": 31,
+  "nombre": "VILLA GENERAL ARIAS"
+ },
+ {
+  "id_localidad": 637,
+  "id_partido": 32,
+  "nombre": "APARICIO"
+ },
+ {
+  "id_localidad": 638,
+  "id_partido": 32,
+  "nombre": "BALNEARIO MARISOL"
+ },
+ {
+  "id_localidad": 639,
+  "id_partido": 32,
+  "nombre": "CALVO"
+ },
+ {
+  "id_localidad": 640,
+  "id_partido": 32,
+  "nombre": "CENTRO URQUIZA"
+ },
+ {
+  "id_localidad": 641,
+  "id_partido": 32,
+  "nombre": "CORONEL DORREGO"
+ },
+ {
+  "id_localidad": 642,
+  "id_partido": 32,
+  "nombre": "CUARTEL II"
+ },
+ {
+  "id_localidad": 643,
+  "id_partido": 32,
+  "nombre": "EL CALFIAO"
+ },
+ {
+  "id_localidad": 644,
+  "id_partido": 32,
+  "nombre": "EL LUCERO"
+ },
+ {
+  "id_localidad": 645,
+  "id_partido": 32,
+  "nombre": "EL PERDIDO"
+ },
+ {
+  "id_localidad": 646,
+  "id_partido": 32,
+  "nombre": "EL ZORRO"
+ },
+ {
+  "id_localidad": 647,
+  "id_partido": 32,
+  "nombre": "FARO"
+ },
+ {
+  "id_localidad": 648,
+  "id_partido": 32,
+  "nombre": "GIL"
+ },
+ {
+  "id_localidad": 649,
+  "id_partido": 32,
+  "nombre": "IRENE"
+ },
+ {
+  "id_localidad": 650,
+  "id_partido": 32,
+  "nombre": "LA AURORA"
+ },
+ {
+  "id_localidad": 651,
+  "id_partido": 32,
+  "nombre": "LA GLORIA"
+ },
+ {
+  "id_localidad": 652,
+  "id_partido": 32,
+  "nombre": "LA LUNA"
+ },
+ {
+  "id_localidad": 653,
+  "id_partido": 32,
+  "nombre": "LA RUTA"
+ },
+ {
+  "id_localidad": 654,
+  "id_partido": 32,
+  "nombre": "LAS CORTADERAS"
+ },
+ {
+  "id_localidad": 655,
+  "id_partido": 32,
+  "nombre": "LOMA CHATA"
+ },
+ {
+  "id_localidad": 656,
+  "id_partido": 32,
+  "nombre": "LOS JUNCOS"
+ },
+ {
+  "id_localidad": 657,
+  "id_partido": 32,
+  "nombre": "NICOLAS DESCALZI"
+ },
+ {
+  "id_localidad": 658,
+  "id_partido": 32,
+  "nombre": "ORIENTE"
+ },
+ {
+  "id_localidad": 659,
+  "id_partido": 32,
+  "nombre": "SAN ROMAN"
+ },
+ {
+  "id_localidad": 660,
+  "id_partido": 32,
+  "nombre": "ZUBIARRE"
+ },
+ {
+  "id_localidad": 661,
+  "id_partido": 33,
+  "nombre": "CHELFORO"
+ },
+ {
+  "id_localidad": 662,
+  "id_partido": 33,
+  "nombre": "CORONEL FALCON"
+ },
+ {
+  "id_localidad": 663,
+  "id_partido": 33,
+  "nombre": "CORONEL PRINGLES"
+ },
+ {
+  "id_localidad": 664,
+  "id_partido": 33,
+  "nombre": "DON ALFREDO"
+ },
+ {
+  "id_localidad": 665,
+  "id_partido": 33,
+  "nombre": "EL DIVISORIO"
+ },
+ {
+  "id_localidad": 666,
+  "id_partido": 33,
+  "nombre": "EL GAVILAN"
+ },
+ {
+  "id_localidad": 667,
+  "id_partido": 33,
+  "nombre": "EL PENSAMIENTO"
+ },
+ {
+  "id_localidad": 668,
+  "id_partido": 33,
+  "nombre": "ESTACION LAS LOMAS"
+ },
+ {
+  "id_localidad": 669,
+  "id_partido": 33,
+  "nombre": "INDIO RICO"
+ },
+ {
+  "id_localidad": 670,
+  "id_partido": 33,
+  "nombre": "KRABBE"
+ },
+ {
+  "id_localidad": 671,
+  "id_partido": 33,
+  "nombre": "LA ALFALFA"
+ },
+ {
+  "id_localidad": 672,
+  "id_partido": 33,
+  "nombre": "LA AMALIA"
+ },
+ {
+  "id_localidad": 673,
+  "id_partido": 33,
+  "nombre": "LA FORTUNA"
+ },
+ {
+  "id_localidad": 674,
+  "id_partido": 33,
+  "nombre": "LA LEGUA"
+ },
+ {
+  "id_localidad": 675,
+  "id_partido": 33,
+  "nombre": "LA NORIA"
+ },
+ {
+  "id_localidad": 676,
+  "id_partido": 33,
+  "nombre": "LA PALOMA"
+ },
+ {
+  "id_localidad": 677,
+  "id_partido": 33,
+  "nombre": "LA VIRGINIA"
+ },
+ {
+  "id_localidad": 678,
+  "id_partido": 33,
+  "nombre": "LAGUNA DEL MOLLE"
+ },
+ {
+  "id_localidad": 679,
+  "id_partido": 33,
+  "nombre": "LARTIGAU"
+ },
+ {
+  "id_localidad": 680,
+  "id_partido": 33,
+  "nombre": "LAS MOSTAZAS"
+ },
+ {
+  "id_localidad": 681,
+  "id_partido": 33,
+  "nombre": "OJO DE AGUA"
+ },
+ {
+  "id_localidad": 682,
+  "id_partido": 33,
+  "nombre": "PILLAHUINCO"
+ },
+ {
+  "id_localidad": 683,
+  "id_partido": 33,
+  "nombre": "RESERVA"
+ },
+ {
+  "id_localidad": 684,
+  "id_partido": 33,
+  "nombre": "SAN FELIPE"
+ },
+ {
+  "id_localidad": 685,
+  "id_partido": 33,
+  "nombre": "SAN MANUEL"
+ },
+ {
+  "id_localidad": 686,
+  "id_partido": 33,
+  "nombre": "STEGMANN"
+ },
+ {
+  "id_localidad": 687,
+  "id_partido": 34,
+  "nombre": "CASCADAS"
+ },
+ {
+  "id_localidad": 688,
+  "id_partido": 34,
+  "nombre": "CORONEL SUAREZ"
+ },
+ {
+  "id_localidad": 689,
+  "id_partido": 34,
+  "nombre": "CUARTEL VII"
+ },
+ {
+  "id_localidad": 690,
+  "id_partido": 34,
+  "nombre": "CURA MALAL"
+ },
+ {
+  "id_localidad": 691,
+  "id_partido": 34,
+  "nombre": "D'ORBIGNY"
+ },
+ {
+  "id_localidad": 692,
+  "id_partido": 34,
+  "nombre": "EL 27"
+ },
+ {
+  "id_localidad": 693,
+  "id_partido": 34,
+  "nombre": "EL RELINCHO"
+ },
+ {
+  "id_localidad": 694,
+  "id_partido": 34,
+  "nombre": "EL TRIUNFO"
+ },
+ {
+  "id_localidad": 695,
+  "id_partido": 34,
+  "nombre": "ESTANCIA LOLEN"
+ },
+ {
+  "id_localidad": 696,
+  "id_partido": 34,
+  "nombre": "HUANGUELEN"
+ },
+ {
+  "id_localidad": 697,
+  "id_partido": 34,
+  "nombre": "LA PRIMAVERA"
+ },
+ {
+  "id_localidad": 698,
+  "id_partido": 34,
+  "nombre": "LA REMONTA"
+ },
+ {
+  "id_localidad": 699,
+  "id_partido": 34,
+  "nombre": "LA URUGUAYA"
+ },
+ {
+  "id_localidad": 700,
+  "id_partido": 34,
+  "nombre": "LA VENTURA"
+ },
+ {
+  "id_localidad": 701,
+  "id_partido": 34,
+  "nombre": "LAS GOLONDRINAS"
+ },
+ {
+  "id_localidad": 702,
+  "id_partido": 34,
+  "nombre": "OMBU"
+ },
+ {
+  "id_localidad": 703,
+  "id_partido": 34,
+  "nombre": "PASMAN"
+ },
+ {
+  "id_localidad": 704,
+  "id_partido": 34,
+  "nombre": "PASO DE LOS CHILENOS"
+ },
+ {
+  "id_localidad": 705,
+  "id_partido": 34,
+  "nombre": "PERALTA"
+ },
+ {
+  "id_localidad": 706,
+  "id_partido": 34,
+  "nombre": "SAN ANSELMO"
+ },
+ {
+  "id_localidad": 707,
+  "id_partido": 34,
+  "nombre": "SAN CARLOS"
+ },
+ {
+  "id_localidad": 708,
+  "id_partido": 34,
+  "nombre": "SAN JOSE"
+ },
+ {
+  "id_localidad": 709,
+  "id_partido": 34,
+  "nombre": "SANTA ANA"
+ },
+ {
+  "id_localidad": 710,
+  "id_partido": 34,
+  "nombre": "SANTA MARIA"
+ },
+ {
+  "id_localidad": 711,
+  "id_partido": 34,
+  "nombre": "SANTA TRINIDAD"
+ },
+ {
+  "id_localidad": 712,
+  "id_partido": 34,
+  "nombre": "VILLA LA ARCADIA"
+ },
+ {
+  "id_localidad": 713,
+  "id_partido": 34,
+  "nombre": "ZENTENA"
+ },
+ {
+  "id_localidad": 714,
+  "id_partido": 35,
+  "nombre": "ANDANT"
+ },
+ {
+  "id_localidad": 715,
+  "id_partido": 35,
+  "nombre": "ARBOLEDAS"
+ },
+ {
+  "id_localidad": 716,
+  "id_partido": 35,
+  "nombre": "ARBOLITO"
+ },
+ {
+  "id_localidad": 717,
+  "id_partido": 35,
+  "nombre": "COLONIA LAS MARGARITAS"
+ },
+ {
+  "id_localidad": 718,
+  "id_partido": 35,
+  "nombre": "CORONEL MARCELINO FREYRE"
+ },
+ {
+  "id_localidad": 719,
+  "id_partido": 35,
+  "nombre": "DAIREAUX"
+ },
+ {
+  "id_localidad": 720,
+  "id_partido": 35,
+  "nombre": "ENRIQUE LAVALLE"
+ },
+ {
+  "id_localidad": 721,
+  "id_partido": 35,
+  "nombre": "LA ARMONIA"
+ },
+ {
+  "id_localidad": 722,
+  "id_partido": 35,
+  "nombre": "LA COPETA"
+ },
+ {
+  "id_localidad": 723,
+  "id_partido": 35,
+  "nombre": "LA LARGA"
+ },
+ {
+  "id_localidad": 724,
+  "id_partido": 35,
+  "nombre": "LA LARGA"
+ },
+ {
+  "id_localidad": 725,
+  "id_partido": 35,
+  "nombre": "LA LINDA"
+ },
+ {
+  "id_localidad": 726,
+  "id_partido": 35,
+  "nombre": "LA MANUELA"
+ },
+ {
+  "id_localidad": 727,
+  "id_partido": 35,
+  "nombre": "LA PROSPERIDAD"
+ },
+ {
+  "id_localidad": 728,
+  "id_partido": 35,
+  "nombre": "LOUGE"
+ },
+ {
+  "id_localidad": 729,
+  "id_partido": 35,
+  "nombre": "LURO"
+ },
+ {
+  "id_localidad": 730,
+  "id_partido": 35,
+  "nombre": "MASUREL"
+ },
+ {
+  "id_localidad": 731,
+  "id_partido": 35,
+  "nombre": "MOURAS"
+ },
+ {
+  "id_localidad": 732,
+  "id_partido": 35,
+  "nombre": "SALAZAR"
+ },
+ {
+  "id_localidad": 733,
+  "id_partido": 35,
+  "nombre": "SAN ALFREDO"
+ },
+ {
+  "id_localidad": 734,
+  "id_partido": 35,
+  "nombre": "SANTA CLARA"
+ },
+ {
+  "id_localidad": 735,
+  "id_partido": 35,
+  "nombre": "SANTA RITA"
+ },
+ {
+  "id_localidad": 736,
+  "id_partido": 36,
+  "nombre": "AL VER VERAS"
+ },
+ {
+  "id_localidad": 737,
+  "id_partido": 36,
+  "nombre": "DOLORES"
+ },
+ {
+  "id_localidad": 738,
+  "id_partido": 36,
+  "nombre": "DOS TALAS"
+ },
+ {
+  "id_localidad": 739,
+  "id_partido": 36,
+  "nombre": "EST. PANELO"
+ },
+ {
+  "id_localidad": 740,
+  "id_partido": 36,
+  "nombre": "LA SELVA"
+ },
+ {
+  "id_localidad": 741,
+  "id_partido": 36,
+  "nombre": "LA VASCA"
+ },
+ {
+  "id_localidad": 742,
+  "id_partido": 36,
+  "nombre": "LAS MARGARITAS"
+ },
+ {
+  "id_localidad": 743,
+  "id_partido": 36,
+  "nombre": "LOMA DE ROLDAN"
+ },
+ {
+  "id_localidad": 744,
+  "id_partido": 36,
+  "nombre": "LOMAS DE SALOMON"
+ },
+ {
+  "id_localidad": 745,
+  "id_partido": 36,
+  "nombre": "LOS SAUQUITOS"
+ },
+ {
+  "id_localidad": 746,
+  "id_partido": 36,
+  "nombre": "MONTE DEL TORDILLO"
+ },
+ {
+  "id_localidad": 747,
+  "id_partido": 36,
+  "nombre": "SEVIGNE"
+ },
+ {
+  "id_localidad": 748,
+  "id_partido": 36,
+  "nombre": "SOL DE MAYO"
+ },
+ {
+  "id_localidad": 749,
+  "id_partido": 37,
+  "nombre": "DIQUE N° 1"
+ },
+ {
+  "id_localidad": 750,
+  "id_partido": 37,
+  "nombre": "ENSENADA"
+ },
+ {
+  "id_localidad": 751,
+  "id_partido": 37,
+  "nombre": "ISLA SANTIAGO (OESTE)"
+ },
+ {
+  "id_localidad": 752,
+  "id_partido": 37,
+  "nombre": "PUNTA LARA"
+ },
+ {
+  "id_localidad": 753,
+  "id_partido": 37,
+  "nombre": "VILLA CATELA"
+ },
+ {
+  "id_localidad": 754,
+  "id_partido": 38,
+  "nombre": "BELEN DE ESCOBAR"
+ },
+ {
+  "id_localidad": 755,
+  "id_partido": 38,
+  "nombre": "EL CAZADOR"
+ },
+ {
+  "id_localidad": 756,
+  "id_partido": 38,
+  "nombre": "GARIN"
+ },
+ {
+  "id_localidad": 757,
+  "id_partido": 38,
+  "nombre": "INGENIERO MASCHWITZ"
+ },
+ {
+  "id_localidad": 758,
+  "id_partido": 38,
+  "nombre": "LOMA VERDE"
+ },
+ {
+  "id_localidad": 759,
+  "id_partido": 38,
+  "nombre": "MAQUINISTA F. SAVIO ESTE"
+ },
+ {
+  "id_localidad": 760,
+  "id_partido": 38,
+  "nombre": "MATHEU"
+ },
+ {
+  "id_localidad": 761,
+  "id_partido": 38,
+  "nombre": "SECCION ISLAS"
+ },
+ {
+  "id_localidad": 762,
+  "id_partido": 39,
+  "nombre": "9 DE ABRIL"
+ },
+ {
+  "id_localidad": 763,
+  "id_partido": 39,
+  "nombre": "CANNING"
+ },
+ {
+  "id_localidad": 764,
+  "id_partido": 39,
+  "nombre": "EL JAGUEL"
+ },
+ {
+  "id_localidad": 765,
+  "id_partido": 39,
+  "nombre": "LUIS GUILLON"
+ },
+ {
+  "id_localidad": 766,
+  "id_partido": 39,
+  "nombre": "MONTE GRANDE"
+ },
+ {
+  "id_localidad": 767,
+  "id_partido": 40,
+  "nombre": "ACCESO A GOBERNADOR ANDONAEGUI"
+ },
+ {
+  "id_localidad": 768,
+  "id_partido": 40,
+  "nombre": "ARROYO DE LA CRUZ"
+ },
+ {
+  "id_localidad": 769,
+  "id_partido": 40,
+  "nombre": "CAPILLA DEL SEÑOR"
+ },
+ {
+  "id_localidad": 770,
+  "id_partido": 40,
+  "nombre": "CARLOS LEMEE"
+ },
+ {
+  "id_localidad": 771,
+  "id_partido": 40,
+  "nombre": "CHENAUT"
+ },
+ {
+  "id_localidad": 772,
+  "id_partido": 40,
+  "nombre": "DIEGO GAYNOR"
+ },
+ {
+  "id_localidad": 773,
+  "id_partido": 40,
+  "nombre": "EL REMANSO"
+ },
+ {
+  "id_localidad": 774,
+  "id_partido": 40,
+  "nombre": "ESTACION LA LATA"
+ },
+ {
+  "id_localidad": 775,
+  "id_partido": 40,
+  "nombre": "ETCHEGOYEN"
+ },
+ {
+  "id_localidad": 776,
+  "id_partido": 40,
+  "nombre": "GOBERNADOR ANDONAEGUI"
+ },
+ {
+  "id_localidad": 777,
+  "id_partido": 40,
+  "nombre": "LA ROSADA"
+ },
+ {
+  "id_localidad": 778,
+  "id_partido": 40,
+  "nombre": "LOS CARDALES"
+ },
+ {
+  "id_localidad": 779,
+  "id_partido": 40,
+  "nombre": "PARADA ORLANDO"
+ },
+ {
+  "id_localidad": 780,
+  "id_partido": 40,
+  "nombre": "PARADA ROBLES"
+ },
+ {
+  "id_localidad": 781,
+  "id_partido": 40,
+  "nombre": "PAVON"
+ },
+ {
+  "id_localidad": 782,
+  "id_partido": 40,
+  "nombre": "RUTA 193 KM 28,5"
+ },
+ {
+  "id_localidad": 783,
+  "id_partido": 41,
+  "nombre": "AEROPUERTO INTERNACIONAL EZEIZA"
+ },
+ {
+  "id_localidad": 784,
+  "id_partido": 41,
+  "nombre": "CANNING"
+ },
+ {
+  "id_localidad": 785,
+  "id_partido": 41,
+  "nombre": "CARLOS SPEGAZZINI"
+ },
+ {
+  "id_localidad": 786,
+  "id_partido": 41,
+  "nombre": "EL PORVENIR"
+ },
+ {
+  "id_localidad": 787,
+  "id_partido": 41,
+  "nombre": "JOSE MARIA EZEIZA"
+ },
+ {
+  "id_localidad": 788,
+  "id_partido": 41,
+  "nombre": "LA UNION"
+ },
+ {
+  "id_localidad": 789,
+  "id_partido": 41,
+  "nombre": "TRISTAN SUAREZ"
+ },
+ {
+  "id_localidad": 790,
+  "id_partido": 42,
+  "nombre": "BOSQUES"
+ },
+ {
+  "id_localidad": 791,
+  "id_partido": 42,
+  "nombre": "EL TROPEZON"
+ },
+ {
+  "id_localidad": 792,
+  "id_partido": 42,
+  "nombre": "ESTANISLAO SEVERO ZEBALLOS"
+ },
+ {
+  "id_localidad": 793,
+  "id_partido": 42,
+  "nombre": "FLORENCIO VARELA"
+ },
+ {
+  "id_localidad": 794,
+  "id_partido": 42,
+  "nombre": "GOBERNADOR JULIO A. COSTA"
+ },
+ {
+  "id_localidad": 795,
+  "id_partido": 42,
+  "nombre": "INGENIERO JUAN ALLAN"
+ },
+ {
+  "id_localidad": 796,
+  "id_partido": 42,
+  "nombre": "LA CAPILLA"
+ },
+ {
+  "id_localidad": 797,
+  "id_partido": 42,
+  "nombre": "VILLA BROWN"
+ },
+ {
+  "id_localidad": 798,
+  "id_partido": 42,
+  "nombre": "VILLA SAN LUIS"
+ },
+ {
+  "id_localidad": 799,
+  "id_partido": 42,
+  "nombre": "VILLA SANTA ROSA"
+ },
+ {
+  "id_localidad": 800,
+  "id_partido": 42,
+  "nombre": "VILLA VATTEONE"
+ },
+ {
+  "id_localidad": 801,
+  "id_partido": 43,
+  "nombre": "ANCALO"
+ },
+ {
+  "id_localidad": 802,
+  "id_partido": 43,
+  "nombre": "BLAQUIER"
+ },
+ {
+  "id_localidad": 803,
+  "id_partido": 43,
+  "nombre": "CUARTO LUNA"
+ },
+ {
+  "id_localidad": 804,
+  "id_partido": 43,
+  "nombre": "EDUARDO COSTA"
+ },
+ {
+  "id_localidad": 805,
+  "id_partido": 43,
+  "nombre": "ESTACION LA CHACRA"
+ },
+ {
+  "id_localidad": 806,
+  "id_partido": 43,
+  "nombre": "ESTACION LA ISLETA"
+ },
+ {
+  "id_localidad": 807,
+  "id_partido": 43,
+  "nombre": "FLORENTINO AMEGHINO"
+ },
+ {
+  "id_localidad": 808,
+  "id_partido": 43,
+  "nombre": "LOS ANDES"
+ },
+ {
+  "id_localidad": 809,
+  "id_partido": 43,
+  "nombre": "MEDIA LUNA"
+ },
+ {
+  "id_localidad": 810,
+  "id_partido": 43,
+  "nombre": "NUEVA SUIZA"
+ },
+ {
+  "id_localidad": 811,
+  "id_partido": 43,
+  "nombre": "PORVENIR"
+ },
+ {
+  "id_localidad": 812,
+  "id_partido": 43,
+  "nombre": "SALALE"
+ },
+ {
+  "id_localidad": 813,
+  "id_partido": 43,
+  "nombre": "SAN CARLOS"
+ },
+ {
+  "id_localidad": 814,
+  "id_partido": 44,
+  "nombre": "CENTINELA DEL MAR"
+ },
+ {
+  "id_localidad": 815,
+  "id_partido": 44,
+  "nombre": "COMANDANTE NICANOR OTAMENDI"
+ },
+ {
+  "id_localidad": 816,
+  "id_partido": 44,
+  "nombre": "ESTANCIA LA TOTO"
+ },
+ {
+  "id_localidad": 817,
+  "id_partido": 44,
+  "nombre": "LA BALLENERA"
+ },
+ {
+  "id_localidad": 818,
+  "id_partido": 44,
+  "nombre": "LA EUFEMIA"
+ },
+ {
+  "id_localidad": 819,
+  "id_partido": 44,
+  "nombre": "LA REFORMA"
+ },
+ {
+  "id_localidad": 820,
+  "id_partido": 44,
+  "nombre": "LAS PIEDRITAS"
+ },
+ {
+  "id_localidad": 821,
+  "id_partido": 44,
+  "nombre": "MAR DEL SUR"
+ },
+ {
+  "id_localidad": 822,
+  "id_partido": 44,
+  "nombre": "MECHONGUE"
+ },
+ {
+  "id_localidad": 823,
+  "id_partido": 44,
+  "nombre": "MIRAMAR"
+ },
+ {
+  "id_localidad": 824,
+  "id_partido": 44,
+  "nombre": "SAN JOSE DE OTAMENDI"
+ },
+ {
+  "id_localidad": 825,
+  "id_partido": 45,
+  "nombre": "COLONIA S S DEL VALLE"
+ },
+ {
+  "id_localidad": 826,
+  "id_partido": 45,
+  "nombre": "EL CHIRIPA"
+ },
+ {
+  "id_localidad": 827,
+  "id_partido": 45,
+  "nombre": "EL DESTINO"
+ },
+ {
+  "id_localidad": 828,
+  "id_partido": 45,
+  "nombre": "EL PARCHE"
+ },
+ {
+  "id_localidad": 829,
+  "id_partido": 45,
+  "nombre": "EL PELUDO"
+ },
+ {
+  "id_localidad": 830,
+  "id_partido": 45,
+  "nombre": "EL TABARE"
+ },
+ {
+  "id_localidad": 831,
+  "id_partido": 45,
+  "nombre": "EMMA"
+ },
+ {
+  "id_localidad": 832,
+  "id_partido": 45,
+  "nombre": "FORTIN ESPERANZA"
+ },
+ {
+  "id_localidad": 833,
+  "id_partido": 45,
+  "nombre": "GENERAL ALVEAR"
+ },
+ {
+  "id_localidad": 834,
+  "id_partido": 45,
+  "nombre": "LA BRAVA"
+ },
+ {
+  "id_localidad": 835,
+  "id_partido": 45,
+  "nombre": "LA MARIA LUISA"
+ },
+ {
+  "id_localidad": 836,
+  "id_partido": 45,
+  "nombre": "LA MOROCHA"
+ },
+ {
+  "id_localidad": 837,
+  "id_partido": 45,
+  "nombre": "LA PALOMA"
+ },
+ {
+  "id_localidad": 838,
+  "id_partido": 45,
+  "nombre": "LOS AROMOS"
+ },
+ {
+  "id_localidad": 839,
+  "id_partido": 45,
+  "nombre": "LOS CHUCAROS"
+ },
+ {
+  "id_localidad": 840,
+  "id_partido": 45,
+  "nombre": "LOS FLAMENCOS"
+ },
+ {
+  "id_localidad": 841,
+  "id_partido": 45,
+  "nombre": "SANTA ISABEL"
+ },
+ {
+  "id_localidad": 842,
+  "id_partido": 46,
+  "nombre": "ARRIBEÑOS"
+ },
+ {
+  "id_localidad": 843,
+  "id_partido": 46,
+  "nombre": "ASCENSION"
+ },
+ {
+  "id_localidad": 844,
+  "id_partido": 46,
+  "nombre": "CAMPO ALVEAR"
+ },
+ {
+  "id_localidad": 845,
+  "id_partido": 46,
+  "nombre": "COLONIA LAS MERCEDES"
+ },
+ {
+  "id_localidad": 846,
+  "id_partido": 46,
+  "nombre": "COLONIA SAN MARTIN"
+ },
+ {
+  "id_localidad": 847,
+  "id_partido": 46,
+  "nombre": "DELGADO"
+ },
+ {
+  "id_localidad": 848,
+  "id_partido": 46,
+  "nombre": "DESVIO KM 95"
+ },
+ {
+  "id_localidad": 849,
+  "id_partido": 46,
+  "nombre": "ESTACION ARENALES"
+ },
+ {
+  "id_localidad": 850,
+  "id_partido": 46,
+  "nombre": "FERRE"
+ },
+ {
+  "id_localidad": 851,
+  "id_partido": 46,
+  "nombre": "GENERAL ARENALES"
+ },
+ {
+  "id_localidad": 852,
+  "id_partido": 46,
+  "nombre": "HAM"
+ },
+ {
+  "id_localidad": 853,
+  "id_partido": 46,
+  "nombre": "LA ANGELITA"
+ },
+ {
+  "id_localidad": 854,
+  "id_partido": 46,
+  "nombre": "LA PINTA"
+ },
+ {
+  "id_localidad": 855,
+  "id_partido": 46,
+  "nombre": "LA TRINIDAD"
+ },
+ {
+  "id_localidad": 856,
+  "id_partido": 46,
+  "nombre": "SANTA ANA"
+ },
+ {
+  "id_localidad": 857,
+  "id_partido": 47,
+  "nombre": "CALLE ANGOSTA"
+ },
+ {
+  "id_localidad": 858,
+  "id_partido": 47,
+  "nombre": "CHAS"
+ },
+ {
+  "id_localidad": 859,
+  "id_partido": 47,
+  "nombre": "COLONIA EL SALADO"
+ },
+ {
+  "id_localidad": 860,
+  "id_partido": 47,
+  "nombre": "EL DESCANSO"
+ },
+ {
+  "id_localidad": 861,
+  "id_partido": 47,
+  "nombre": "GENERAL BELGRANO"
+ },
+ {
+  "id_localidad": 862,
+  "id_partido": 47,
+  "nombre": "GORCHS"
+ },
+ {
+  "id_localidad": 863,
+  "id_partido": 47,
+  "nombre": "LA VERDE"
+ },
+ {
+  "id_localidad": 864,
+  "id_partido": 47,
+  "nombre": "NEWTON"
+ },
+ {
+  "id_localidad": 865,
+  "id_partido": 47,
+  "nombre": "SAN MARTIN"
+ },
+ {
+  "id_localidad": 866,
+  "id_partido": 48,
+  "nombre": "EL CALEU"
+ },
+ {
+  "id_localidad": 867,
+  "id_partido": 48,
+  "nombre": "EL SAUCE"
+ },
+ {
+  "id_localidad": 868,
+  "id_partido": 48,
+  "nombre": "GENERAL GUIDO"
+ },
+ {
+  "id_localidad": 869,
+  "id_partido": 48,
+  "nombre": "LA ESPERANZA"
+ },
+ {
+  "id_localidad": 870,
+  "id_partido": 48,
+  "nombre": "LA P0STA"
+ },
+ {
+  "id_localidad": 871,
+  "id_partido": 48,
+  "nombre": "LA QUINUA"
+ },
+ {
+  "id_localidad": 872,
+  "id_partido": 48,
+  "nombre": "LA UNION"
+ },
+ {
+  "id_localidad": 873,
+  "id_partido": 48,
+  "nombre": "LA VERONICA"
+ },
+ {
+  "id_localidad": 874,
+  "id_partido": 48,
+  "nombre": "LABARDEN"
+ },
+ {
+  "id_localidad": 875,
+  "id_partido": 48,
+  "nombre": "LAS ACACIAS"
+ },
+ {
+  "id_localidad": 876,
+  "id_partido": 48,
+  "nombre": "SAN BERNARDO"
+ },
+ {
+  "id_localidad": 877,
+  "id_partido": 48,
+  "nombre": "SAN JUAN"
+ },
+ {
+  "id_localidad": 878,
+  "id_partido": 48,
+  "nombre": "SANTA FORTUNA"
+ },
+ {
+  "id_localidad": 879,
+  "id_partido": 48,
+  "nombre": "SANTA ROSA"
+ },
+ {
+  "id_localidad": 880,
+  "id_partido": 49,
+  "nombre": "BARRIO KENNEDY"
+ },
+ {
+  "id_localidad": 881,
+  "id_partido": 49,
+  "nombre": "COLONIA TIO DOMINGO"
+ },
+ {
+  "id_localidad": 882,
+  "id_partido": 49,
+  "nombre": "EL CARDALITO"
+ },
+ {
+  "id_localidad": 883,
+  "id_partido": 49,
+  "nombre": "EL MODELO"
+ },
+ {
+  "id_localidad": 884,
+  "id_partido": 49,
+  "nombre": "GENERAL JUAN MADARIAGA"
+ },
+ {
+  "id_localidad": 885,
+  "id_partido": 49,
+  "nombre": "INVERNADAS"
+ },
+ {
+  "id_localidad": 886,
+  "id_partido": 49,
+  "nombre": "JUAN CHICO"
+ },
+ {
+  "id_localidad": 887,
+  "id_partido": 49,
+  "nombre": "LA FELICIDAD"
+ },
+ {
+  "id_localidad": 888,
+  "id_partido": 49,
+  "nombre": "LA FLORIDA"
+ },
+ {
+  "id_localidad": 889,
+  "id_partido": 49,
+  "nombre": "LONKOY"
+ },
+ {
+  "id_localidad": 890,
+  "id_partido": 49,
+  "nombre": "LOS ZORZALES"
+ },
+ {
+  "id_localidad": 891,
+  "id_partido": 49,
+  "nombre": "MACEDO"
+ },
+ {
+  "id_localidad": 892,
+  "id_partido": 49,
+  "nombre": "MEDALAND"
+ },
+ {
+  "id_localidad": 893,
+  "id_partido": 49,
+  "nombre": "SANTA LA VICTORIA"
+ },
+ {
+  "id_localidad": 894,
+  "id_partido": 49,
+  "nombre": "SANTA YOLA"
+ },
+ {
+  "id_localidad": 895,
+  "id_partido": 49,
+  "nombre": "TRELLES"
+ },
+ {
+  "id_localidad": 896,
+  "id_partido": 50,
+  "nombre": "EL LUCERO"
+ },
+ {
+  "id_localidad": 897,
+  "id_partido": 50,
+  "nombre": "ESTANCIA DON PEDRO"
+ },
+ {
+  "id_localidad": 898,
+  "id_partido": 50,
+  "nombre": "GENERAL LA MADRID"
+ },
+ {
+  "id_localidad": 899,
+  "id_partido": 50,
+  "nombre": "LA COLINA"
+ },
+ {
+  "id_localidad": 900,
+  "id_partido": 50,
+  "nombre": "LAS BANDURRIAS"
+ },
+ {
+  "id_localidad": 901,
+  "id_partido": 50,
+  "nombre": "LAS MARTINETAS"
+ },
+ {
+  "id_localidad": 902,
+  "id_partido": 50,
+  "nombre": "LAS NENAS"
+ },
+ {
+  "id_localidad": 903,
+  "id_partido": 50,
+  "nombre": "LASTRA"
+ },
+ {
+  "id_localidad": 904,
+  "id_partido": 50,
+  "nombre": "LIBANO"
+ },
+ {
+  "id_localidad": 905,
+  "id_partido": 50,
+  "nombre": "PONTAUT"
+ },
+ {
+  "id_localidad": 906,
+  "id_partido": 50,
+  "nombre": "RAULET"
+ },
+ {
+  "id_localidad": 907,
+  "id_partido": 50,
+  "nombre": "SAN PEDRO"
+ },
+ {
+  "id_localidad": 908,
+  "id_partido": 50,
+  "nombre": "SANTA ISABEL"
+ },
+ {
+  "id_localidad": 909,
+  "id_partido": 51,
+  "nombre": "ENRIQUE FYNN"
+ },
+ {
+  "id_localidad": 910,
+  "id_partido": 51,
+  "nombre": "GENERAL HORNOS"
+ },
+ {
+  "id_localidad": 911,
+  "id_partido": 51,
+  "nombre": "GENERAL LAS HERAS"
+ },
+ {
+  "id_localidad": 912,
+  "id_partido": 51,
+  "nombre": "GRANJA BLANCA"
+ },
+ {
+  "id_localidad": 913,
+  "id_partido": 51,
+  "nombre": "LA CHOZA"
+ },
+ {
+  "id_localidad": 914,
+  "id_partido": 51,
+  "nombre": "LA FE"
+ },
+ {
+  "id_localidad": 915,
+  "id_partido": 51,
+  "nombre": "LOZANO"
+ },
+ {
+  "id_localidad": 916,
+  "id_partido": 51,
+  "nombre": "MAGNASCO"
+ },
+ {
+  "id_localidad": 917,
+  "id_partido": 51,
+  "nombre": "MARRE"
+ },
+ {
+  "id_localidad": 918,
+  "id_partido": 51,
+  "nombre": "PLOMER"
+ },
+ {
+  "id_localidad": 919,
+  "id_partido": 51,
+  "nombre": "ROBLES"
+ },
+ {
+  "id_localidad": 920,
+  "id_partido": 51,
+  "nombre": "SPERATTI"
+ },
+ {
+  "id_localidad": 921,
+  "id_partido": 51,
+  "nombre": "VILLARS"
+ },
+ {
+  "id_localidad": 922,
+  "id_partido": 52,
+  "nombre": "CABRERA"
+ },
+ {
+  "id_localidad": 923,
+  "id_partido": 52,
+  "nombre": "ESTACION LOS INGLESES"
+ },
+ {
+  "id_localidad": 924,
+  "id_partido": 52,
+  "nombre": "GENERAL LAVALLE"
+ },
+ {
+  "id_localidad": 925,
+  "id_partido": 52,
+  "nombre": "LA COLORADA"
+ },
+ {
+  "id_localidad": 926,
+  "id_partido": 52,
+  "nombre": "LA HUERTITA"
+ },
+ {
+  "id_localidad": 927,
+  "id_partido": 52,
+  "nombre": "LA ISOLINA"
+ },
+ {
+  "id_localidad": 928,
+  "id_partido": 52,
+  "nombre": "LA TABLADA"
+ },
+ {
+  "id_localidad": 929,
+  "id_partido": 52,
+  "nombre": "LA VICTORIA"
+ },
+ {
+  "id_localidad": 930,
+  "id_partido": 52,
+  "nombre": "LAS VIOLETAS"
+ },
+ {
+  "id_localidad": 931,
+  "id_partido": 52,
+  "nombre": "PAVON"
+ },
+ {
+  "id_localidad": 932,
+  "id_partido": 53,
+  "nombre": "ALEGRE"
+ },
+ {
+  "id_localidad": 933,
+  "id_partido": 53,
+  "nombre": "BARRIO RIO SALADO"
+ },
+ {
+  "id_localidad": 934,
+  "id_partido": 53,
+  "nombre": "DANTAS"
+ },
+ {
+  "id_localidad": 935,
+  "id_partido": 53,
+  "nombre": "DE LA LLAVE"
+ },
+ {
+  "id_localidad": 936,
+  "id_partido": 53,
+  "nombre": "FALCONE"
+ },
+ {
+  "id_localidad": 937,
+  "id_partido": 53,
+  "nombre": "KILOMETRO 70"
+ },
+ {
+  "id_localidad": 938,
+  "id_partido": 53,
+  "nombre": "LA BLANQUEADA"
+ },
+ {
+  "id_localidad": 939,
+  "id_partido": 53,
+  "nombre": "LA CAÑADA"
+ },
+ {
+  "id_localidad": 940,
+  "id_partido": 53,
+  "nombre": "LA CHANCLETA"
+ },
+ {
+  "id_localidad": 941,
+  "id_partido": 53,
+  "nombre": "LA PALOMA"
+ },
+ {
+  "id_localidad": 942,
+  "id_partido": 53,
+  "nombre": "LA PEPITA"
+ },
+ {
+  "id_localidad": 943,
+  "id_partido": 53,
+  "nombre": "LA POSTA"
+ },
+ {
+  "id_localidad": 944,
+  "id_partido": 53,
+  "nombre": "LA SOLEDAD"
+ },
+ {
+  "id_localidad": 945,
+  "id_partido": 53,
+  "nombre": "LA TAHONA NUEVA"
+ },
+ {
+  "id_localidad": 946,
+  "id_partido": 53,
+  "nombre": "LAS ACACIAS"
+ },
+ {
+  "id_localidad": 947,
+  "id_partido": 53,
+  "nombre": "LOMA VERDE"
+ },
+ {
+  "id_localidad": 948,
+  "id_partido": 53,
+  "nombre": "LOS MERINOS"
+ },
+ {
+  "id_localidad": 949,
+  "id_partido": 53,
+  "nombre": "RANCHOS"
+ },
+ {
+  "id_localidad": 950,
+  "id_partido": 53,
+  "nombre": "SAN GREGORIO"
+ },
+ {
+  "id_localidad": 951,
+  "id_partido": 53,
+  "nombre": "VILLA MARTINEZ"
+ },
+ {
+  "id_localidad": 952,
+  "id_partido": 53,
+  "nombre": "VILLANUEVA"
+ },
+ {
+  "id_localidad": 953,
+  "id_partido": 54,
+  "nombre": "COLONIA GENERAL PINTO"
+ },
+ {
+  "id_localidad": 954,
+  "id_partido": 54,
+  "nombre": "COLONIA SAN RICARDO"
+ },
+ {
+  "id_localidad": 955,
+  "id_partido": 54,
+  "nombre": "DOS HERMANOS"
+ },
+ {
+  "id_localidad": 956,
+  "id_partido": 54,
+  "nombre": "DUSSAUD"
+ },
+ {
+  "id_localidad": 957,
+  "id_partido": 54,
+  "nombre": "EL PEREGRINO"
+ },
+ {
+  "id_localidad": 958,
+  "id_partido": 54,
+  "nombre": "GENERAL PINTO"
+ },
+ {
+  "id_localidad": 959,
+  "id_partido": 54,
+  "nombre": "GERMANIA"
+ },
+ {
+  "id_localidad": 960,
+  "id_partido": 54,
+  "nombre": "GUNTHER"
+ },
+ {
+  "id_localidad": 961,
+  "id_partido": 54,
+  "nombre": "LA MARGARITA"
+ },
+ {
+  "id_localidad": 962,
+  "id_partido": 54,
+  "nombre": "LOS CALLEJONES"
+ },
+ {
+  "id_localidad": 963,
+  "id_partido": 54,
+  "nombre": "PAZOS KANKI"
+ },
+ {
+  "id_localidad": 964,
+  "id_partido": 54,
+  "nombre": "PERISEE"
+ },
+ {
+  "id_localidad": 965,
+  "id_partido": 54,
+  "nombre": "SANTA ANGELA"
+ },
+ {
+  "id_localidad": 966,
+  "id_partido": 54,
+  "nombre": "VILLA FRANCIA"
+ },
+ {
+  "id_localidad": 967,
+  "id_partido": 54,
+  "nombre": "VILLA ROTH"
+ },
+ {
+  "id_localidad": 968,
+  "id_partido": 55,
+  "nombre": "BARRIO COLINAS VERDES"
+ },
+ {
+  "id_localidad": 969,
+  "id_partido": 55,
+  "nombre": "BARRIO EL BOQUERON"
+ },
+ {
+  "id_localidad": 970,
+  "id_partido": 55,
+  "nombre": "BARRIO EL CASAL"
+ },
+ {
+  "id_localidad": 971,
+  "id_partido": 55,
+  "nombre": "BARRIO EL COYUNCO"
+ },
+ {
+  "id_localidad": 972,
+  "id_partido": 55,
+  "nombre": "BARRIO LA GLORIA"
+ },
+ {
+  "id_localidad": 973,
+  "id_partido": 55,
+  "nombre": "BARRIO SANTA PAULA"
+ },
+ {
+  "id_localidad": 974,
+  "id_partido": 55,
+  "nombre": "BATAN"
+ },
+ {
+  "id_localidad": 975,
+  "id_partido": 55,
+  "nombre": "CAMET"
+ },
+ {
+  "id_localidad": 976,
+  "id_partido": 55,
+  "nombre": "CHAPADMALAL"
+ },
+ {
+  "id_localidad": 977,
+  "id_partido": 55,
+  "nombre": "COLONIA BARRAGAN"
+ },
+ {
+  "id_localidad": 978,
+  "id_partido": 55,
+  "nombre": "EL DORADO"
+ },
+ {
+  "id_localidad": 979,
+  "id_partido": 55,
+  "nombre": "EL MARQUESADO"
+ },
+ {
+  "id_localidad": 980,
+  "id_partido": 55,
+  "nombre": "EL SIGLO"
+ },
+ {
+  "id_localidad": 981,
+  "id_partido": 55,
+  "nombre": "ESTACION CAMET"
+ },
+ {
+  "id_localidad": 982,
+  "id_partido": 55,
+  "nombre": "ESTACION CHAPADMALAL"
+ },
+ {
+  "id_localidad": 983,
+  "id_partido": 55,
+  "nombre": "LA BRAVA"
+ },
+ {
+  "id_localidad": 984,
+  "id_partido": 55,
+  "nombre": "LA PEREGRINA"
+ },
+ {
+  "id_localidad": 985,
+  "id_partido": 55,
+  "nombre": "LAGUNA DE LOS PADRES"
+ },
+ {
+  "id_localidad": 986,
+  "id_partido": 55,
+  "nombre": "LAS DOS MARIAS"
+ },
+ {
+  "id_localidad": 987,
+  "id_partido": 55,
+  "nombre": "LAS HERMANAS"
+ },
+ {
+  "id_localidad": 988,
+  "id_partido": 55,
+  "nombre": "LOMA ALTA"
+ },
+ {
+  "id_localidad": 989,
+  "id_partido": 55,
+  "nombre": "MAR DEL PLATA"
+ },
+ {
+  "id_localidad": 990,
+  "id_partido": 55,
+  "nombre": "PUNTA MOGOTES"
+ },
+ {
+  "id_localidad": 991,
+  "id_partido": 55,
+  "nombre": "QUINTAS DE PERALTA RAMOS"
+ },
+ {
+  "id_localidad": 992,
+  "id_partido": 55,
+  "nombre": "SANTA ISABEL"
+ },
+ {
+  "id_localidad": 993,
+  "id_partido": 55,
+  "nombre": "SIERRA DE LOS PADRES"
+ },
+ {
+  "id_localidad": 994,
+  "id_partido": 56,
+  "nombre": "BARRIO MORABO"
+ },
+ {
+  "id_localidad": 995,
+  "id_partido": 56,
+  "nombre": "BARRIO RUTA 24 KILOMETRO 10"
+ },
+ {
+  "id_localidad": 996,
+  "id_partido": 56,
+  "nombre": "BARRIO RUTA 24 KM. 10"
+ },
+ {
+  "id_localidad": 997,
+  "id_partido": 56,
+  "nombre": "C.C. BOSQUE REAL"
+ },
+ {
+  "id_localidad": 998,
+  "id_partido": 56,
+  "nombre": "CRUCE RUTAS 6 Y 24"
+ },
+ {
+  "id_localidad": 999,
+  "id_partido": 56,
+  "nombre": "CUARTEL II"
+ },
+ {
+  "id_localidad": 1000,
+  "id_partido": 56,
+  "nombre": "CUARTEL IV"
+ },
+ {
+  "id_localidad": 1001,
+  "id_partido": 56,
+  "nombre": "DE ARIAS"
+ },
+ {
+  "id_localidad": 1002,
+  "id_partido": 56,
+  "nombre": "GENERAL RODRGUEZ"
+ },
+ {
+  "id_localidad": 1003,
+  "id_partido": 56,
+  "nombre": "HOSPITAL SOMMER"
+ },
+ {
+  "id_localidad": 1004,
+  "id_partido": 56,
+  "nombre": "LA CHOZA"
+ },
+ {
+  "id_localidad": 1005,
+  "id_partido": 57,
+  "nombre": "BARRIO PARQUE GENERAL SAN MARTIN"
+ },
+ {
+  "id_localidad": 1006,
+  "id_partido": 57,
+  "nombre": "BILLINGHURST"
+ },
+ {
+  "id_localidad": 1007,
+  "id_partido": 57,
+  "nombre": "CIUDAD DEL LIBERTADOR GENERAL SAN MARTIN"
+ },
+ {
+  "id_localidad": 1008,
+  "id_partido": 57,
+  "nombre": "CIUDAD JARDIN EL LIBERTADOR"
+ },
+ {
+  "id_localidad": 1009,
+  "id_partido": 57,
+  "nombre": "VILLA AYACUCHO"
+ },
+ {
+  "id_localidad": 1010,
+  "id_partido": 57,
+  "nombre": "VILLA BALLESTER"
+ },
+ {
+  "id_localidad": 1011,
+  "id_partido": 57,
+  "nombre": "VILLA BERNARDO MONTEAGUDO"
+ },
+ {
+  "id_localidad": 1012,
+  "id_partido": 57,
+  "nombre": "VILLA CHACABUCO"
+ },
+ {
+  "id_localidad": 1013,
+  "id_partido": 57,
+  "nombre": "VILLA CORONEL JOSE M. ZAPIOLA"
+ },
+ {
+  "id_localidad": 1014,
+  "id_partido": 57,
+  "nombre": "VILLA GENERAL ANTONIO J. DE SUCRE"
+ },
+ {
+  "id_localidad": 1015,
+  "id_partido": 57,
+  "nombre": "VILLA GENERAL EUGENIO NECOCHEA"
+ },
+ {
+  "id_localidad": 1016,
+  "id_partido": 57,
+  "nombre": "VILLA GENERAL JOSE TOMAS GUIDO"
+ },
+ {
+  "id_localidad": 1017,
+  "id_partido": 57,
+  "nombre": "VILLA GENERAL JUAN G. LAS HERAS"
+ },
+ {
+  "id_localidad": 1018,
+  "id_partido": 57,
+  "nombre": "VILLA GODOY CRUZ"
+ },
+ {
+  "id_localidad": 1019,
+  "id_partido": 57,
+  "nombre": "VILLA GRANADEROS DE SAN MARTIN"
+ },
+ {
+  "id_localidad": 1020,
+  "id_partido": 57,
+  "nombre": "VILLA GREGORIA MATORRAS"
+ },
+ {
+  "id_localidad": 1021,
+  "id_partido": 57,
+  "nombre": "VILLA JOSE LEON SUAREZ"
+ },
+ {
+  "id_localidad": 1022,
+  "id_partido": 57,
+  "nombre": "VILLA JUAN MARTIN DE PUEYRREDON"
+ },
+ {
+  "id_localidad": 1023,
+  "id_partido": 57,
+  "nombre": "VILLA LIBERTAD"
+ },
+ {
+  "id_localidad": 1024,
+  "id_partido": 57,
+  "nombre": "VILLA LYNCH"
+ },
+ {
+  "id_localidad": 1025,
+  "id_partido": 57,
+  "nombre": "VILLA MAIPU"
+ },
+ {
+  "id_localidad": 1026,
+  "id_partido": 57,
+  "nombre": "VILLA MARIA IRENE DE LOS REMEDIOS DE ESCALADA"
+ },
+ {
+  "id_localidad": 1027,
+  "id_partido": 57,
+  "nombre": "VILLA MARQUES ALEJANDRO MARIA DE AGUADO"
+ },
+ {
+  "id_localidad": 1028,
+  "id_partido": 57,
+  "nombre": "VILLA PARQUE PRESIDENTE FIGUEROA ALCORTA"
+ },
+ {
+  "id_localidad": 1029,
+  "id_partido": 57,
+  "nombre": "VILLA PARQUE SAN LORENZO"
+ },
+ {
+  "id_localidad": 1030,
+  "id_partido": 57,
+  "nombre": "VILLA SAN ANDRES"
+ },
+ {
+  "id_localidad": 1031,
+  "id_partido": 57,
+  "nombre": "VILLA YAPEYU"
+ },
+ {
+  "id_localidad": 1032,
+  "id_partido": 58,
+  "nombre": "ACHAVAL"
+ },
+ {
+  "id_localidad": 1033,
+  "id_partido": 58,
+  "nombre": "BAIGORRITA"
+ },
+ {
+  "id_localidad": 1034,
+  "id_partido": 58,
+  "nombre": "CHANCAY"
+ },
+ {
+  "id_localidad": 1035,
+  "id_partido": 58,
+  "nombre": "CUARTEL II"
+ },
+ {
+  "id_localidad": 1036,
+  "id_partido": 58,
+  "nombre": "EL MONASTERIO"
+ },
+ {
+  "id_localidad": 1037,
+  "id_partido": 58,
+  "nombre": "LA BELLACA"
+ },
+ {
+  "id_localidad": 1038,
+  "id_partido": 58,
+  "nombre": "LA CARMEN"
+ },
+ {
+  "id_localidad": 1039,
+  "id_partido": 58,
+  "nombre": "LA DELFINA"
+ },
+ {
+  "id_localidad": 1040,
+  "id_partido": 58,
+  "nombre": "LA RINCONADA"
+ },
+ {
+  "id_localidad": 1041,
+  "id_partido": 58,
+  "nombre": "LOS BOSQUES"
+ },
+ {
+  "id_localidad": 1042,
+  "id_partido": 58,
+  "nombre": "LOS DOS AMIGOS"
+ },
+ {
+  "id_localidad": 1043,
+  "id_partido": 58,
+  "nombre": "LOS HUESOS"
+ },
+ {
+  "id_localidad": 1044,
+  "id_partido": 58,
+  "nombre": "LOS TOLDOS"
+ },
+ {
+  "id_localidad": 1045,
+  "id_partido": 58,
+  "nombre": "QUIRNO COSTA"
+ },
+ {
+  "id_localidad": 1046,
+  "id_partido": 58,
+  "nombre": "SAN EMILIO"
+ },
+ {
+  "id_localidad": 1047,
+  "id_partido": 58,
+  "nombre": "SAN JOSE"
+ },
+ {
+  "id_localidad": 1048,
+  "id_partido": 58,
+  "nombre": "ZAVALIA"
+ },
+ {
+  "id_localidad": 1049,
+  "id_partido": 59,
+  "nombre": "BANDERALO"
+ },
+ {
+  "id_localidad": 1050,
+  "id_partido": 59,
+  "nombre": "CAMPESINOS UNIDOS"
+ },
+ {
+  "id_localidad": 1051,
+  "id_partido": 59,
+  "nombre": "CAMPOS FRIA"
+ },
+ {
+  "id_localidad": 1052,
+  "id_partido": 59,
+  "nombre": "CAÑADA SECA"
+ },
+ {
+  "id_localidad": 1053,
+  "id_partido": 59,
+  "nombre": "COLONIA LA BELITA"
+ },
+ {
+  "id_localidad": 1054,
+  "id_partido": 59,
+  "nombre": "CORONEL CHARLONE"
+ },
+ {
+  "id_localidad": 1055,
+  "id_partido": 59,
+  "nombre": "CUARTEL II"
+ },
+ {
+  "id_localidad": 1056,
+  "id_partido": 59,
+  "nombre": "DRABBLE"
+ },
+ {
+  "id_localidad": 1057,
+  "id_partido": 59,
+  "nombre": "EL DIA"
+ },
+ {
+  "id_localidad": 1058,
+  "id_partido": 59,
+  "nombre": "EL RECAO"
+ },
+ {
+  "id_localidad": 1059,
+  "id_partido": 59,
+  "nombre": "EMILIO V. BUNGE"
+ },
+ {
+  "id_localidad": 1060,
+  "id_partido": 59,
+  "nombre": "ESCUELA AGRARIA"
+ },
+ {
+  "id_localidad": 1061,
+  "id_partido": 59,
+  "nombre": "ESTACION MILLACO"
+ },
+ {
+  "id_localidad": 1062,
+  "id_partido": 59,
+  "nombre": "ESTANCIA EL MERIDIANO"
+ },
+ {
+  "id_localidad": 1063,
+  "id_partido": 59,
+  "nombre": "FORTIN REPUBLICA"
+ },
+ {
+  "id_localidad": 1064,
+  "id_partido": 59,
+  "nombre": "GENERAL VILLEGAS"
+ },
+ {
+  "id_localidad": 1065,
+  "id_partido": 59,
+  "nombre": "GONDRA"
+ },
+ {
+  "id_localidad": 1066,
+  "id_partido": 59,
+  "nombre": "LA CATALINA"
+ },
+ {
+  "id_localidad": 1067,
+  "id_partido": 59,
+  "nombre": "LA JOSEFA"
+ },
+ {
+  "id_localidad": 1068,
+  "id_partido": 59,
+  "nombre": "LA MARGARITA"
+ },
+ {
+  "id_localidad": 1069,
+  "id_partido": 59,
+  "nombre": "LA TRADICION"
+ },
+ {
+  "id_localidad": 1070,
+  "id_partido": 59,
+  "nombre": "LOS ANGELES"
+ },
+ {
+  "id_localidad": 1071,
+  "id_partido": 59,
+  "nombre": "LOS LAURELES"
+ },
+ {
+  "id_localidad": 1072,
+  "id_partido": 59,
+  "nombre": "MASSEY"
+ },
+ {
+  "id_localidad": 1073,
+  "id_partido": 59,
+  "nombre": "MOORES"
+ },
+ {
+  "id_localidad": 1074,
+  "id_partido": 59,
+  "nombre": "PICHINCHA"
+ },
+ {
+  "id_localidad": 1075,
+  "id_partido": 59,
+  "nombre": "PIEDRITAS"
+ },
+ {
+  "id_localidad": 1076,
+  "id_partido": 59,
+  "nombre": "SAN GENARO"
+ },
+ {
+  "id_localidad": 1077,
+  "id_partido": 59,
+  "nombre": "SAN JOSE"
+ },
+ {
+  "id_localidad": 1078,
+  "id_partido": 59,
+  "nombre": "SANTA ELEODORA"
+ },
+ {
+  "id_localidad": 1079,
+  "id_partido": 59,
+  "nombre": "SANTA REGINA"
+ },
+ {
+  "id_localidad": 1080,
+  "id_partido": 59,
+  "nombre": "TAMBEROS UNIDOS"
+ },
+ {
+  "id_localidad": 1081,
+  "id_partido": 59,
+  "nombre": "VILLA CICLON"
+ },
+ {
+  "id_localidad": 1082,
+  "id_partido": 59,
+  "nombre": "VILLA SABOYA"
+ },
+ {
+  "id_localidad": 1083,
+  "id_partido": 59,
+  "nombre": "VILLA SAUZE"
+ },
+ {
+  "id_localidad": 1084,
+  "id_partido": 59,
+  "nombre": "VOLTA"
+ },
+ {
+  "id_localidad": 1085,
+  "id_partido": 60,
+  "nombre": "ALAMOS"
+ },
+ {
+  "id_localidad": 1086,
+  "id_partido": 60,
+  "nombre": "ARROYO VENADO"
+ },
+ {
+  "id_localidad": 1087,
+  "id_partido": 60,
+  "nombre": "CASBAS"
+ },
+ {
+  "id_localidad": 1088,
+  "id_partido": 60,
+  "nombre": "CASEY"
+ },
+ {
+  "id_localidad": 1089,
+  "id_partido": 60,
+  "nombre": "COCHICO"
+ },
+ {
+  "id_localidad": 1090,
+  "id_partido": 60,
+  "nombre": "EL GAUCHITO"
+ },
+ {
+  "id_localidad": 1091,
+  "id_partido": 60,
+  "nombre": "FATRALO"
+ },
+ {
+  "id_localidad": 1092,
+  "id_partido": 60,
+  "nombre": "FORTIN PAUNERO"
+ },
+ {
+  "id_localidad": 1093,
+  "id_partido": 60,
+  "nombre": "GARRE"
+ },
+ {
+  "id_localidad": 1094,
+  "id_partido": 60,
+  "nombre": "GUAMINI"
+ },
+ {
+  "id_localidad": 1095,
+  "id_partido": 60,
+  "nombre": "LA ATREVIDA"
+ },
+ {
+  "id_localidad": 1096,
+  "id_partido": 60,
+  "nombre": "LA CUADRADA"
+ },
+ {
+  "id_localidad": 1097,
+  "id_partido": 60,
+  "nombre": "LA FLORA"
+ },
+ {
+  "id_localidad": 1098,
+  "id_partido": 60,
+  "nombre": "LA FLORIDA"
+ },
+ {
+  "id_localidad": 1099,
+  "id_partido": 60,
+  "nombre": "LA INDIANA"
+ },
+ {
+  "id_localidad": 1100,
+  "id_partido": 60,
+  "nombre": "LA LEGUA"
+ },
+ {
+  "id_localidad": 1101,
+  "id_partido": 60,
+  "nombre": "LA MARIA"
+ },
+ {
+  "id_localidad": 1102,
+  "id_partido": 60,
+  "nombre": "LA NEVADA"
+ },
+ {
+  "id_localidad": 1103,
+  "id_partido": 60,
+  "nombre": "LAGUNA ALSINA"
+ },
+ {
+  "id_localidad": 1104,
+  "id_partido": 60,
+  "nombre": "SAN FERMIN"
+ },
+ {
+  "id_localidad": 1105,
+  "id_partido": 60,
+  "nombre": "SATURNO"
+ },
+ {
+  "id_localidad": 1106,
+  "id_partido": 60,
+  "nombre": "VICTORINO DE LA PLAZA"
+ },
+ {
+  "id_localidad": 1107,
+  "id_partido": 61,
+  "nombre": "BELLA VISTA"
+ },
+ {
+  "id_localidad": 1108,
+  "id_partido": 61,
+  "nombre": "BERSEE"
+ },
+ {
+  "id_localidad": 1109,
+  "id_partido": 61,
+  "nombre": "CAMPO MONCANI"
+ },
+ {
+  "id_localidad": 1110,
+  "id_partido": 61,
+  "nombre": "CORACEROS"
+ },
+ {
+  "id_localidad": 1111,
+  "id_partido": 61,
+  "nombre": "EL MORO"
+ },
+ {
+  "id_localidad": 1112,
+  "id_partido": 61,
+  "nombre": "HENDERSON"
+ },
+ {
+  "id_localidad": 1113,
+  "id_partido": 61,
+  "nombre": "HERRERA VEGAS"
+ },
+ {
+  "id_localidad": 1114,
+  "id_partido": 61,
+  "nombre": "MARIA LUCILA"
+ },
+ {
+  "id_localidad": 1115,
+  "id_partido": 62,
+  "nombre": "HURLINGHAM"
+ },
+ {
+  "id_localidad": 1116,
+  "id_partido": 62,
+  "nombre": "VILLA SANTOS TESEI"
+ },
+ {
+  "id_localidad": 1117,
+  "id_partido": 62,
+  "nombre": "WILLIAM C. MORRIS"
+ },
+ {
+  "id_localidad": 1118,
+  "id_partido": 63,
+  "nombre": "ITUZAINGO CENTRO"
+ },
+ {
+  "id_localidad": 1119,
+  "id_partido": 63,
+  "nombre": "ITUZAINGO SUR"
+ },
+ {
+  "id_localidad": 1120,
+  "id_partido": 63,
+  "nombre": "VILLA GOBERNADOR UDAONDO"
+ },
+ {
+  "id_localidad": 1121,
+  "id_partido": 64,
+  "nombre": "DEL VISO"
+ },
+ {
+  "id_localidad": 1122,
+  "id_partido": 64,
+  "nombre": "JOSE C. PAZ"
+ },
+ {
+  "id_localidad": 1123,
+  "id_partido": 64,
+  "nombre": "TORTUGUITAS"
+ },
+ {
+  "id_localidad": 1124,
+  "id_partido": 65,
+  "nombre": "A. ROCA"
+ },
+ {
+  "id_localidad": 1125,
+  "id_partido": 65,
+  "nombre": "AGUSTIN ROCA"
+ },
+ {
+  "id_localidad": 1126,
+  "id_partido": 65,
+  "nombre": "AGUSTINA"
+ },
+ {
+  "id_localidad": 1127,
+  "id_partido": 65,
+  "nombre": "BALNEARIO LAGUNA DE GOMEZ"
+ },
+ {
+  "id_localidad": 1128,
+  "id_partido": 65,
+  "nombre": "BLANDENGUES"
+ },
+ {
+  "id_localidad": 1129,
+  "id_partido": 65,
+  "nombre": "CAMPO BALESTRASET"
+ },
+ {
+  "id_localidad": 1130,
+  "id_partido": 65,
+  "nombre": "CAMPO CAMICCIA"
+ },
+ {
+  "id_localidad": 1131,
+  "id_partido": 65,
+  "nombre": "CAMPO LA CRUZ"
+ },
+ {
+  "id_localidad": 1132,
+  "id_partido": 65,
+  "nombre": "CAMPO MAIPU"
+ },
+ {
+  "id_localidad": 1133,
+  "id_partido": 65,
+  "nombre": "CAMPO TOYOS"
+ },
+ {
+  "id_localidad": 1134,
+  "id_partido": 65,
+  "nombre": "CERRITO COLORADO"
+ },
+ {
+  "id_localidad": 1135,
+  "id_partido": 65,
+  "nombre": "COLONIA SAN LUIS"
+ },
+ {
+  "id_localidad": 1136,
+  "id_partido": 65,
+  "nombre": "FORTIN TIBURCIO"
+ },
+ {
+  "id_localidad": 1137,
+  "id_partido": 65,
+  "nombre": "JUNIN"
+ },
+ {
+  "id_localidad": 1138,
+  "id_partido": 65,
+  "nombre": "LA AGRARIA"
+ },
+ {
+  "id_localidad": 1139,
+  "id_partido": 65,
+  "nombre": "LA ORIENTAL"
+ },
+ {
+  "id_localidad": 1140,
+  "id_partido": 65,
+  "nombre": "LAPLACETTE"
+ },
+ {
+  "id_localidad": 1141,
+  "id_partido": 65,
+  "nombre": "LAS MERCEDES"
+ },
+ {
+  "id_localidad": 1142,
+  "id_partido": 65,
+  "nombre": "MORSE"
+ },
+ {
+  "id_localidad": 1143,
+  "id_partido": 65,
+  "nombre": "RINCON DEL CARPINCHO"
+ },
+ {
+  "id_localidad": 1144,
+  "id_partido": 65,
+  "nombre": "SAFORCADA"
+ },
+ {
+  "id_localidad": 1145,
+  "id_partido": 65,
+  "nombre": "SANTA ROSA"
+ },
+ {
+  "id_localidad": 1146,
+  "id_partido": 66,
+  "nombre": "AGUAS VERDES"
+ },
+ {
+  "id_localidad": 1147,
+  "id_partido": 66,
+  "nombre": "LAS TONINAS"
+ },
+ {
+  "id_localidad": 1148,
+  "id_partido": 66,
+  "nombre": "LUCILA DEL MAR"
+ },
+ {
+  "id_localidad": 1149,
+  "id_partido": 66,
+  "nombre": "MAR DE AJO"
+ },
+ {
+  "id_localidad": 1150,
+  "id_partido": 66,
+  "nombre": "MAR DE AJO NORTE"
+ },
+ {
+  "id_localidad": 1151,
+  "id_partido": 66,
+  "nombre": "MAR DEL TUYU"
+ },
+ {
+  "id_localidad": 1152,
+  "id_partido": 66,
+  "nombre": "SAN BERNARDO"
+ },
+ {
+  "id_localidad": 1153,
+  "id_partido": 66,
+  "nombre": "SAN CLEMENTE DEL TUYU"
+ },
+ {
+  "id_localidad": 1154,
+  "id_partido": 66,
+  "nombre": "SANTA TERESITA"
+ },
+ {
+  "id_localidad": 1155,
+  "id_partido": 67,
+  "nombre": "20 DE JUNIO"
+ },
+ {
+  "id_localidad": 1156,
+  "id_partido": 67,
+  "nombre": "ALDO BONZI"
+ },
+ {
+  "id_localidad": 1157,
+  "id_partido": 67,
+  "nombre": "CIUDAD EVITA"
+ },
+ {
+  "id_localidad": 1158,
+  "id_partido": 67,
+  "nombre": "GONZALEZ CATAN"
+ },
+ {
+  "id_localidad": 1159,
+  "id_partido": 67,
+  "nombre": "GREGORIO DE LAFERRERE"
+ },
+ {
+  "id_localidad": 1160,
+  "id_partido": 67,
+  "nombre": "ISIDRO CASANOVA"
+ },
+ {
+  "id_localidad": 1161,
+  "id_partido": 67,
+  "nombre": "LA TABLADA"
+ },
+ {
+  "id_localidad": 1162,
+  "id_partido": 67,
+  "nombre": "LOMAS DEL MIRADOR"
+ },
+ {
+  "id_localidad": 1163,
+  "id_partido": 67,
+  "nombre": "RAFAEL CASTILLO"
+ },
+ {
+  "id_localidad": 1164,
+  "id_partido": 67,
+  "nombre": "RAMOS MEJIA"
+ },
+ {
+  "id_localidad": 1165,
+  "id_partido": 67,
+  "nombre": "SAN JUSTO"
+ },
+ {
+  "id_localidad": 1166,
+  "id_partido": 67,
+  "nombre": "TAPIALES"
+ },
+ {
+  "id_localidad": 1167,
+  "id_partido": 67,
+  "nombre": "VILLA EDUARDO MADERO"
+ },
+ {
+  "id_localidad": 1168,
+  "id_partido": 67,
+  "nombre": "VILLA LUZURIAGA"
+ },
+ {
+  "id_localidad": 1169,
+  "id_partido": 67,
+  "nombre": "VIRREY DEL PINO"
+ },
+ {
+  "id_localidad": 1170,
+  "id_partido": 68,
+  "nombre": "ABASTO"
+ },
+ {
+  "id_localidad": 1171,
+  "id_partido": 68,
+  "nombre": "ANGEL ETCHEVERRY"
+ },
+ {
+  "id_localidad": 1172,
+  "id_partido": 68,
+  "nombre": "ARANA"
+ },
+ {
+  "id_localidad": 1173,
+  "id_partido": 68,
+  "nombre": "ARTURO SEGUI"
+ },
+ {
+  "id_localidad": 1174,
+  "id_partido": 68,
+  "nombre": "BARRIO EL CARMEN (OESTE)"
+ },
+ {
+  "id_localidad": 1175,
+  "id_partido": 68,
+  "nombre": "BARRIO GAMBIER"
+ },
+ {
+  "id_localidad": 1176,
+  "id_partido": 68,
+  "nombre": "BARRIO LAS MALVINAS"
+ },
+ {
+  "id_localidad": 1177,
+  "id_partido": 68,
+  "nombre": "BARRIO LAS QUINTAS"
+ },
+ {
+  "id_localidad": 1178,
+  "id_partido": 68,
+  "nombre": "BARRIO RUTA SOL"
+ },
+ {
+  "id_localidad": 1179,
+  "id_partido": 68,
+  "nombre": "CITY BELL"
+ },
+ {
+  "id_localidad": 1180,
+  "id_partido": 68,
+  "nombre": "COUNTRY CLUB EL RODEO"
+ },
+ {
+  "id_localidad": 1181,
+  "id_partido": 68,
+  "nombre": "EL RETIRO"
+ },
+ {
+  "id_localidad": 1182,
+  "id_partido": 68,
+  "nombre": "ESQUINA NEGRA"
+ },
+ {
+  "id_localidad": 1183,
+  "id_partido": 68,
+  "nombre": "IGNACIO CORREAS"
+ },
+ {
+  "id_localidad": 1184,
+  "id_partido": 68,
+  "nombre": "ISLA MARTIN GARCIA"
+ },
+ {
+  "id_localidad": 1185,
+  "id_partido": 68,
+  "nombre": "JOAQUIN GORINA"
+ },
+ {
+  "id_localidad": 1186,
+  "id_partido": 68,
+  "nombre": "JOSE HERNANDEZ"
+ },
+ {
+  "id_localidad": 1187,
+  "id_partido": 68,
+  "nombre": "JOSE MELCHOR ROMERO"
+ },
+ {
+  "id_localidad": 1188,
+  "id_partido": 68,
+  "nombre": "LA CUMBRE"
+ },
+ {
+  "id_localidad": 1189,
+  "id_partido": 68,
+  "nombre": "LA PLATA"
+ },
+ {
+  "id_localidad": 1190,
+  "id_partido": 68,
+  "nombre": "LA PROVIDENCIA"
+ },
+ {
+  "id_localidad": 1191,
+  "id_partido": 68,
+  "nombre": "LISANDRO OLMOS"
+ },
+ {
+  "id_localidad": 1192,
+  "id_partido": 68,
+  "nombre": "LOMAS DE COPELLO"
+ },
+ {
+  "id_localidad": 1193,
+  "id_partido": 68,
+  "nombre": "LOS HORNOS"
+ },
+ {
+  "id_localidad": 1194,
+  "id_partido": 68,
+  "nombre": "MANUEL B. GONNET"
+ },
+ {
+  "id_localidad": 1195,
+  "id_partido": 68,
+  "nombre": "POBLET"
+ },
+ {
+  "id_localidad": 1196,
+  "id_partido": 68,
+  "nombre": "RINGUELET"
+ },
+ {
+  "id_localidad": 1197,
+  "id_partido": 68,
+  "nombre": "RUFINO DE ELIZALDE"
+ },
+ {
+  "id_localidad": 1198,
+  "id_partido": 68,
+  "nombre": "TOLOSA"
+ },
+ {
+  "id_localidad": 1199,
+  "id_partido": 68,
+  "nombre": "TRANSRADIO"
+ },
+ {
+  "id_localidad": 1200,
+  "id_partido": 68,
+  "nombre": "VILLA ELISA"
+ },
+ {
+  "id_localidad": 1201,
+  "id_partido": 68,
+  "nombre": "VILLA ELVIRA"
+ },
+ {
+  "id_localidad": 1202,
+  "id_partido": 68,
+  "nombre": "VILLA GARIBALDI"
+ },
+ {
+  "id_localidad": 1203,
+  "id_partido": 68,
+  "nombre": "VILLA MONTORO"
+ },
+ {
+  "id_localidad": 1204,
+  "id_partido": 68,
+  "nombre": "VILLA PARQUE SICARDI"
+ },
+ {
+  "id_localidad": 1205,
+  "id_partido": 69,
+  "nombre": "GERLI"
+ },
+ {
+  "id_localidad": 1206,
+  "id_partido": 69,
+  "nombre": "LANUS ESTE"
+ },
+ {
+  "id_localidad": 1207,
+  "id_partido": 69,
+  "nombre": "LANUS OESTE"
+ },
+ {
+  "id_localidad": 1208,
+  "id_partido": 69,
+  "nombre": "MONTE CHINGOLO"
+ },
+ {
+  "id_localidad": 1209,
+  "id_partido": 69,
+  "nombre": "REMEDIOS DE ESCALADA DE SAN MARTIN"
+ },
+ {
+  "id_localidad": 1210,
+  "id_partido": 69,
+  "nombre": "VALENTIN ALSINA"
+ },
+ {
+  "id_localidad": 1211,
+  "id_partido": 70,
+  "nombre": "ACHALAY"
+ },
+ {
+  "id_localidad": 1212,
+  "id_partido": 70,
+  "nombre": "COLONIA ARTALEJOS"
+ },
+ {
+  "id_localidad": 1213,
+  "id_partido": 70,
+  "nombre": "LA FLORENTINA"
+ },
+ {
+  "id_localidad": 1214,
+  "id_partido": 70,
+  "nombre": "LA LOMA"
+ },
+ {
+  "id_localidad": 1215,
+  "id_partido": 70,
+  "nombre": "LA ROTONDA"
+ },
+ {
+  "id_localidad": 1216,
+  "id_partido": 70,
+  "nombre": "LA SALADA"
+ },
+ {
+  "id_localidad": 1217,
+  "id_partido": 70,
+  "nombre": "LA TIGRA"
+ },
+ {
+  "id_localidad": 1218,
+  "id_partido": 70,
+  "nombre": "LAPRIDA"
+ },
+ {
+  "id_localidad": 1219,
+  "id_partido": 70,
+  "nombre": "LAS HERMANAS"
+ },
+ {
+  "id_localidad": 1220,
+  "id_partido": 70,
+  "nombre": "PUEBLO NUEVO"
+ },
+ {
+  "id_localidad": 1221,
+  "id_partido": 70,
+  "nombre": "PUEBLO SAN JORGE"
+ },
+ {
+  "id_localidad": 1222,
+  "id_partido": 70,
+  "nombre": "SANTA ELENA"
+ },
+ {
+  "id_localidad": 1223,
+  "id_partido": 70,
+  "nombre": "TRES CARDOS"
+ },
+ {
+  "id_localidad": 1224,
+  "id_partido": 70,
+  "nombre": "VOLUNTAD"
+ },
+ {
+  "id_localidad": 1225,
+  "id_partido": 71,
+  "nombre": "CORONEL BOERR"
+ },
+ {
+  "id_localidad": 1226,
+  "id_partido": 71,
+  "nombre": "CUARTEL VII"
+ },
+ {
+  "id_localidad": 1227,
+  "id_partido": 71,
+  "nombre": "CUARTEL VIII"
+ },
+ {
+  "id_localidad": 1228,
+  "id_partido": 71,
+  "nombre": "DOCTOR DOMINGO HAROSTEGUY"
+ },
+ {
+  "id_localidad": 1229,
+  "id_partido": 71,
+  "nombre": "EL DESPUNTE"
+ },
+ {
+  "id_localidad": 1230,
+  "id_partido": 71,
+  "nombre": "EL GUALICHO"
+ },
+ {
+  "id_localidad": 1231,
+  "id_partido": 71,
+  "nombre": "EL MOSQUITO"
+ },
+ {
+  "id_localidad": 1232,
+  "id_partido": 71,
+  "nombre": "EL TORO"
+ },
+ {
+  "id_localidad": 1233,
+  "id_partido": 71,
+  "nombre": "EL TRIGO"
+ },
+ {
+  "id_localidad": 1234,
+  "id_partido": 71,
+  "nombre": "EL TROPEZON"
+ },
+ {
+  "id_localidad": 1235,
+  "id_partido": 71,
+  "nombre": "EL ZORRO"
+ },
+ {
+  "id_localidad": 1236,
+  "id_partido": 71,
+  "nombre": "ESCUELA AGRARIA"
+ },
+ {
+  "id_localidad": 1237,
+  "id_partido": 71,
+  "nombre": "EST LA GRACIELA"
+ },
+ {
+  "id_localidad": 1238,
+  "id_partido": 71,
+  "nombre": "ESTRUGAMOU"
+ },
+ {
+  "id_localidad": 1239,
+  "id_partido": 71,
+  "nombre": "LA ANGELITA"
+ },
+ {
+  "id_localidad": 1240,
+  "id_partido": 71,
+  "nombre": "LA BLANQUEADA"
+ },
+ {
+  "id_localidad": 1241,
+  "id_partido": 71,
+  "nombre": "LA CAPILLA"
+ },
+ {
+  "id_localidad": 1242,
+  "id_partido": 71,
+  "nombre": "LA COLONIA"
+ },
+ {
+  "id_localidad": 1243,
+  "id_partido": 71,
+  "nombre": "LA CUBANA"
+ },
+ {
+  "id_localidad": 1244,
+  "id_partido": 71,
+  "nombre": "LAS FLORES"
+ },
+ {
+  "id_localidad": 1245,
+  "id_partido": 71,
+  "nombre": "PAGO DE ORO"
+ },
+ {
+  "id_localidad": 1246,
+  "id_partido": 71,
+  "nombre": "PARDO"
+ },
+ {
+  "id_localidad": 1247,
+  "id_partido": 71,
+  "nombre": "PIAMMISTEGUY"
+ },
+ {
+  "id_localidad": 1248,
+  "id_partido": 71,
+  "nombre": "PLAZA MONTERO"
+ },
+ {
+  "id_localidad": 1249,
+  "id_partido": 71,
+  "nombre": "ROSAS"
+ },
+ {
+  "id_localidad": 1250,
+  "id_partido": 71,
+  "nombre": "SANTA INES"
+ },
+ {
+  "id_localidad": 1251,
+  "id_partido": 71,
+  "nombre": "SOL DE MAYO"
+ },
+ {
+  "id_localidad": 1252,
+  "id_partido": 71,
+  "nombre": "VILELA"
+ },
+ {
+  "id_localidad": 1253,
+  "id_partido": 72,
+  "nombre": "ALBERDI VIEJO"
+ },
+ {
+  "id_localidad": 1254,
+  "id_partido": 72,
+  "nombre": "CAMPO MENDIZABAL"
+ },
+ {
+  "id_localidad": 1255,
+  "id_partido": 72,
+  "nombre": "EL DORADO"
+ },
+ {
+  "id_localidad": 1256,
+  "id_partido": 72,
+  "nombre": "EL RETIRO"
+ },
+ {
+  "id_localidad": 1257,
+  "id_partido": 72,
+  "nombre": "ESTACION LAS BALAS"
+ },
+ {
+  "id_localidad": 1258,
+  "id_partido": 72,
+  "nombre": "FORTIN ACHA"
+ },
+ {
+  "id_localidad": 1259,
+  "id_partido": 72,
+  "nombre": "JUAN BAUTISTA ALBERDI"
+ },
+ {
+  "id_localidad": 1260,
+  "id_partido": 72,
+  "nombre": "LA CLARITA"
+ },
+ {
+  "id_localidad": 1261,
+  "id_partido": 72,
+  "nombre": "LA COLONIA"
+ },
+ {
+  "id_localidad": 1262,
+  "id_partido": 72,
+  "nombre": "LA ESPERANZA"
+ },
+ {
+  "id_localidad": 1263,
+  "id_partido": 72,
+  "nombre": "LA PERMANENTE"
+ },
+ {
+  "id_localidad": 1264,
+  "id_partido": 72,
+  "nombre": "LEANDRO N. ALEM"
+ },
+ {
+  "id_localidad": 1265,
+  "id_partido": 72,
+  "nombre": "LOS ALFALFARES"
+ },
+ {
+  "id_localidad": 1266,
+  "id_partido": 72,
+  "nombre": "SANTA MARIA"
+ },
+ {
+  "id_localidad": 1267,
+  "id_partido": 72,
+  "nombre": "TRIGALES"
+ },
+ {
+  "id_localidad": 1268,
+  "id_partido": 72,
+  "nombre": "VEDIA"
+ },
+ {
+  "id_localidad": 1269,
+  "id_partido": 73,
+  "nombre": "ATILIO PESSAGNO"
+ },
+ {
+  "id_localidad": 1270,
+  "id_partido": 73,
+  "nombre": "EL ARBOLITO"
+ },
+ {
+  "id_localidad": 1271,
+  "id_partido": 73,
+  "nombre": "EL DESTINO"
+ },
+ {
+  "id_localidad": 1272,
+  "id_partido": 73,
+  "nombre": "EL RINCON"
+ },
+ {
+  "id_localidad": 1273,
+  "id_partido": 73,
+  "nombre": "LA BELEN"
+ },
+ {
+  "id_localidad": 1274,
+  "id_partido": 73,
+  "nombre": "LA FLORIDA"
+ },
+ {
+  "id_localidad": 1275,
+  "id_partido": 73,
+  "nombre": "LA JOSEFINA"
+ },
+ {
+  "id_localidad": 1276,
+  "id_partido": 73,
+  "nombre": "LA RINCONADA"
+ },
+ {
+  "id_localidad": 1277,
+  "id_partido": 73,
+  "nombre": "MANUEL J. COBO - LEZAMA"
+ },
+ {
+  "id_localidad": 1278,
+  "id_partido": 73,
+  "nombre": "MONASTERIO"
+ },
+ {
+  "id_localidad": 1279,
+  "id_partido": 74,
+  "nombre": "13 DE ABRIL"
+ },
+ {
+  "id_localidad": 1280,
+  "id_partido": 74,
+  "nombre": "ACCESO RICALDI"
+ },
+ {
+  "id_localidad": 1281,
+  "id_partido": 74,
+  "nombre": "ARENAZA"
+ },
+ {
+  "id_localidad": 1282,
+  "id_partido": 74,
+  "nombre": "BALSA"
+ },
+ {
+  "id_localidad": 1283,
+  "id_partido": 74,
+  "nombre": "BAYAUCA"
+ },
+ {
+  "id_localidad": 1284,
+  "id_partido": 74,
+  "nombre": "BERMUDEZ"
+ },
+ {
+  "id_localidad": 1285,
+  "id_partido": 74,
+  "nombre": "CARLOS SALAS"
+ },
+ {
+  "id_localidad": 1286,
+  "id_partido": 74,
+  "nombre": "CORONEL MARTINEZ DE HOZ"
+ },
+ {
+  "id_localidad": 1287,
+  "id_partido": 74,
+  "nombre": "CUARTEL II"
+ },
+ {
+  "id_localidad": 1288,
+  "id_partido": 74,
+  "nombre": "CUARTEL III"
+ },
+ {
+  "id_localidad": 1289,
+  "id_partido": 74,
+  "nombre": "CUARTEL IV"
+ },
+ {
+  "id_localidad": 1290,
+  "id_partido": 74,
+  "nombre": "CUARTEL V"
+ },
+ {
+  "id_localidad": 1291,
+  "id_partido": 74,
+  "nombre": "CUARTEL VI"
+ },
+ {
+  "id_localidad": 1292,
+  "id_partido": 74,
+  "nombre": "EL MORITO"
+ },
+ {
+  "id_localidad": 1293,
+  "id_partido": 74,
+  "nombre": "EL TRIUNFO"
+ },
+ {
+  "id_localidad": 1294,
+  "id_partido": 74,
+  "nombre": "ESTACION LA UNION"
+ },
+ {
+  "id_localidad": 1295,
+  "id_partido": 74,
+  "nombre": "ESTACION SAN JUAN"
+ },
+ {
+  "id_localidad": 1296,
+  "id_partido": 74,
+  "nombre": "LA ARGENTINA"
+ },
+ {
+  "id_localidad": 1297,
+  "id_partido": 74,
+  "nombre": "LA CONCORDIA"
+ },
+ {
+  "id_localidad": 1298,
+  "id_partido": 74,
+  "nombre": "LA DELIA"
+ },
+ {
+  "id_localidad": 1299,
+  "id_partido": 74,
+  "nombre": "LA DOROTEA"
+ },
+ {
+  "id_localidad": 1300,
+  "id_partido": 74,
+  "nombre": "LA ESMERALDA"
+ },
+ {
+  "id_localidad": 1301,
+  "id_partido": 74,
+  "nombre": "LA PERGAMINERA"
+ },
+ {
+  "id_localidad": 1302,
+  "id_partido": 74,
+  "nombre": "LA VICTORIA"
+ },
+ {
+  "id_localidad": 1303,
+  "id_partido": 74,
+  "nombre": "LAS TOSCAS"
+ },
+ {
+  "id_localidad": 1304,
+  "id_partido": 74,
+  "nombre": "LINCOLN"
+ },
+ {
+  "id_localidad": 1305,
+  "id_partido": 74,
+  "nombre": "LOS AROMITOS"
+ },
+ {
+  "id_localidad": 1306,
+  "id_partido": 74,
+  "nombre": "PASICOTT"
+ },
+ {
+  "id_localidad": 1307,
+  "id_partido": 74,
+  "nombre": "PASTEUR"
+ },
+ {
+  "id_localidad": 1308,
+  "id_partido": 74,
+  "nombre": "ROBERTS"
+ },
+ {
+  "id_localidad": 1309,
+  "id_partido": 74,
+  "nombre": "SAN FRANCISCO"
+ },
+ {
+  "id_localidad": 1310,
+  "id_partido": 74,
+  "nombre": "SAN GREGORIO"
+ },
+ {
+  "id_localidad": 1311,
+  "id_partido": 74,
+  "nombre": "SANTA MARIA"
+ },
+ {
+  "id_localidad": 1312,
+  "id_partido": 74,
+  "nombre": "SANTA MARTA"
+ },
+ {
+  "id_localidad": 1313,
+  "id_partido": 74,
+  "nombre": "TRIUNVIRATO"
+ },
+ {
+  "id_localidad": 1314,
+  "id_partido": 74,
+  "nombre": "VIGILANCIA"
+ },
+ {
+  "id_localidad": 1315,
+  "id_partido": 75,
+  "nombre": "ARENAS VERDES"
+ },
+ {
+  "id_localidad": 1316,
+  "id_partido": 75,
+  "nombre": "DOS NACIONES"
+ },
+ {
+  "id_localidad": 1317,
+  "id_partido": 75,
+  "nombre": "EL EDEN"
+ },
+ {
+  "id_localidad": 1318,
+  "id_partido": 75,
+  "nombre": "EL LENGUARAZ"
+ },
+ {
+  "id_localidad": 1319,
+  "id_partido": 75,
+  "nombre": "EL MORO"
+ },
+ {
+  "id_localidad": 1320,
+  "id_partido": 75,
+  "nombre": "EL PAMPERO"
+ },
+ {
+  "id_localidad": 1321,
+  "id_partido": 75,
+  "nombre": "GARRIDO"
+ },
+ {
+  "id_localidad": 1322,
+  "id_partido": 75,
+  "nombre": "LA ALIANZA"
+ },
+ {
+  "id_localidad": 1323,
+  "id_partido": 75,
+  "nombre": "LA BODEGA"
+ },
+ {
+  "id_localidad": 1324,
+  "id_partido": 75,
+  "nombre": "LA FLORESTA"
+ },
+ {
+  "id_localidad": 1325,
+  "id_partido": 75,
+  "nombre": "LA GUITARRA"
+ },
+ {
+  "id_localidad": 1326,
+  "id_partido": 75,
+  "nombre": "LA LOMA"
+ },
+ {
+  "id_localidad": 1327,
+  "id_partido": 75,
+  "nombre": "LA MALACARA"
+ },
+ {
+  "id_localidad": 1328,
+  "id_partido": 75,
+  "nombre": "LA PROVIDENCIA"
+ },
+ {
+  "id_localidad": 1329,
+  "id_partido": 75,
+  "nombre": "LAHORE"
+ },
+ {
+  "id_localidad": 1330,
+  "id_partido": 75,
+  "nombre": "LAS NUTRIAS"
+ },
+ {
+  "id_localidad": 1331,
+  "id_partido": 75,
+  "nombre": "LAS TOSCAS"
+ },
+ {
+  "id_localidad": 1332,
+  "id_partido": 75,
+  "nombre": "LAVALLE"
+ },
+ {
+  "id_localidad": 1333,
+  "id_partido": 75,
+  "nombre": "LICENCIADO MATIENZO"
+ },
+ {
+  "id_localidad": 1334,
+  "id_partido": 75,
+  "nombre": "LOBERIA"
+ },
+ {
+  "id_localidad": 1335,
+  "id_partido": 75,
+  "nombre": "MOROMAR"
+ },
+ {
+  "id_localidad": 1336,
+  "id_partido": 75,
+  "nombre": "NAPALEOFU"
+ },
+ {
+  "id_localidad": 1337,
+  "id_partido": 75,
+  "nombre": "PIERES"
+ },
+ {
+  "id_localidad": 1338,
+  "id_partido": 75,
+  "nombre": "PUERTA DEL DIABLO"
+ },
+ {
+  "id_localidad": 1339,
+  "id_partido": 75,
+  "nombre": "SAN ANTONIO"
+ },
+ {
+  "id_localidad": 1340,
+  "id_partido": 75,
+  "nombre": "SAN MANUEL"
+ },
+ {
+  "id_localidad": 1341,
+  "id_partido": 75,
+  "nombre": "SAN PASCUAL"
+ },
+ {
+  "id_localidad": 1342,
+  "id_partido": 75,
+  "nombre": "SANTA MARIA"
+ },
+ {
+  "id_localidad": 1343,
+  "id_partido": 75,
+  "nombre": "TAMANGUEYU"
+ },
+ {
+  "id_localidad": 1344,
+  "id_partido": 75,
+  "nombre": "TOME Y TRAIGA"
+ },
+ {
+  "id_localidad": 1345,
+  "id_partido": 76,
+  "nombre": "ANTONIO CARBONI"
+ },
+ {
+  "id_localidad": 1346,
+  "id_partido": 76,
+  "nombre": "ANTONIO DELGADO"
+ },
+ {
+  "id_localidad": 1347,
+  "id_partido": 76,
+  "nombre": "BARRIO LOS HORNOS"
+ },
+ {
+  "id_localidad": 1348,
+  "id_partido": 76,
+  "nombre": "CAMPO EGLI"
+ },
+ {
+  "id_localidad": 1349,
+  "id_partido": 76,
+  "nombre": "CAMPO TOZZI"
+ },
+ {
+  "id_localidad": 1350,
+  "id_partido": 76,
+  "nombre": "CUARTEL VI"
+ },
+ {
+  "id_localidad": 1351,
+  "id_partido": 76,
+  "nombre": "CUARTEL VII"
+ },
+ {
+  "id_localidad": 1352,
+  "id_partido": 76,
+  "nombre": "CUARTEL VIII"
+ },
+ {
+  "id_localidad": 1353,
+  "id_partido": 76,
+  "nombre": "EL ARAZA"
+ },
+ {
+  "id_localidad": 1354,
+  "id_partido": 76,
+  "nombre": "EL BALCON"
+ },
+ {
+  "id_localidad": 1355,
+  "id_partido": 76,
+  "nombre": "ELVIRA"
+ },
+ {
+  "id_localidad": 1356,
+  "id_partido": 76,
+  "nombre": "JOSE SANTOS AREVALO"
+ },
+ {
+  "id_localidad": 1357,
+  "id_partido": 76,
+  "nombre": "LA ANITA"
+ },
+ {
+  "id_localidad": 1358,
+  "id_partido": 76,
+  "nombre": "LA RINCONADA"
+ },
+ {
+  "id_localidad": 1359,
+  "id_partido": 76,
+  "nombre": "LAGUNA DE LOBOS"
+ },
+ {
+  "id_localidad": 1360,
+  "id_partido": 76,
+  "nombre": "LAS CHACRAS"
+ },
+ {
+  "id_localidad": 1361,
+  "id_partido": 76,
+  "nombre": "LAS GARZAS"
+ },
+ {
+  "id_localidad": 1362,
+  "id_partido": 76,
+  "nombre": "LOBOS"
+ },
+ {
+  "id_localidad": 1363,
+  "id_partido": 76,
+  "nombre": "RUTA PROVINCIAL 41 KM 168"
+ },
+ {
+  "id_localidad": 1364,
+  "id_partido": 76,
+  "nombre": "SALVADOR MARIA"
+ },
+ {
+  "id_localidad": 1365,
+  "id_partido": 76,
+  "nombre": "ZAPIOLA"
+ },
+ {
+  "id_localidad": 1366,
+  "id_partido": 77,
+  "nombre": "BANFIELD"
+ },
+ {
+  "id_localidad": 1367,
+  "id_partido": 77,
+  "nombre": "LLAVALLOL"
+ },
+ {
+  "id_localidad": 1368,
+  "id_partido": 77,
+  "nombre": "LOMAS DE ZAMORA"
+ },
+ {
+  "id_localidad": 1369,
+  "id_partido": 77,
+  "nombre": "TEMPERLEY"
+ },
+ {
+  "id_localidad": 1370,
+  "id_partido": 77,
+  "nombre": "TURDERA"
+ },
+ {
+  "id_localidad": 1371,
+  "id_partido": 77,
+  "nombre": "VILLA CENTENARIO"
+ },
+ {
+  "id_localidad": 1372,
+  "id_partido": 77,
+  "nombre": "VILLA FIORITO"
+ },
+ {
+  "id_localidad": 1373,
+  "id_partido": 78,
+  "nombre": "ALASTUEY"
+ },
+ {
+  "id_localidad": 1374,
+  "id_partido": 78,
+  "nombre": "BARRIO GRANADEROS"
+ },
+ {
+  "id_localidad": 1375,
+  "id_partido": 78,
+  "nombre": "BARRIO LAS CASUARINAS"
+ },
+ {
+  "id_localidad": 1376,
+  "id_partido": 78,
+  "nombre": "CAÑADA DE ROCA"
+ },
+ {
+  "id_localidad": 1377,
+  "id_partido": 78,
+  "nombre": "CARLOS KEEN"
+ },
+ {
+  "id_localidad": 1378,
+  "id_partido": 78,
+  "nombre": "CLUB DE CAMPO LOS PUENTES"
+ },
+ {
+  "id_localidad": 1379,
+  "id_partido": 78,
+  "nombre": "CORTINES"
+ },
+ {
+  "id_localidad": 1380,
+  "id_partido": 78,
+  "nombre": "COUNTRY CLUB LAS PRADERAS"
+ },
+ {
+  "id_localidad": 1381,
+  "id_partido": 78,
+  "nombre": "JOSE MARIA JAUREGUI"
+ },
+ {
+  "id_localidad": 1382,
+  "id_partido": 78,
+  "nombre": "LAS LILAS"
+ },
+ {
+  "id_localidad": 1383,
+  "id_partido": 78,
+  "nombre": "LEZICA Y TORREZURI"
+ },
+ {
+  "id_localidad": 1384,
+  "id_partido": 78,
+  "nombre": "LUJAN"
+ },
+ {
+  "id_localidad": 1385,
+  "id_partido": 78,
+  "nombre": "OLIVERA"
+ },
+ {
+  "id_localidad": 1386,
+  "id_partido": 78,
+  "nombre": "OPEN DOOR"
+ },
+ {
+  "id_localidad": 1387,
+  "id_partido": 78,
+  "nombre": "POLO DE LUJAN"
+ },
+ {
+  "id_localidad": 1388,
+  "id_partido": 78,
+  "nombre": "PUEBLO NUEVO"
+ },
+ {
+  "id_localidad": 1389,
+  "id_partido": 78,
+  "nombre": "SAN ELADIO"
+ },
+ {
+  "id_localidad": 1390,
+  "id_partido": 78,
+  "nombre": "SUCRE"
+ },
+ {
+  "id_localidad": 1391,
+  "id_partido": 78,
+  "nombre": "TORRES"
+ },
+ {
+  "id_localidad": 1392,
+  "id_partido": 78,
+  "nombre": "VILLA FLANDRIA NORTE (PUEBLO NUEVO)"
+ },
+ {
+  "id_localidad": 1393,
+  "id_partido": 78,
+  "nombre": "VILLA FLANDRIA SUR (EST. JAUREGUI)"
+ },
+ {
+  "id_localidad": 1394,
+  "id_partido": 79,
+  "nombre": "ATALAYA"
+ },
+ {
+  "id_localidad": 1395,
+  "id_partido": 79,
+  "nombre": "CAMPO FERRO"
+ },
+ {
+  "id_localidad": 1396,
+  "id_partido": 79,
+  "nombre": "EL DESTINO"
+ },
+ {
+  "id_localidad": 1397,
+  "id_partido": 79,
+  "nombre": "EL PINO"
+ },
+ {
+  "id_localidad": 1398,
+  "id_partido": 79,
+  "nombre": "GENERAL MANSILLA"
+ },
+ {
+  "id_localidad": 1399,
+  "id_partido": 79,
+  "nombre": "GUTIERREZ"
+ },
+ {
+  "id_localidad": 1400,
+  "id_partido": 79,
+  "nombre": "JOSE FERRARI"
+ },
+ {
+  "id_localidad": 1401,
+  "id_partido": 79,
+  "nombre": "JULIO ARDITI"
+ },
+ {
+  "id_localidad": 1402,
+  "id_partido": 79,
+  "nombre": "LA CLELIA"
+ },
+ {
+  "id_localidad": 1403,
+  "id_partido": 79,
+  "nombre": "LA MATRACA"
+ },
+ {
+  "id_localidad": 1404,
+  "id_partido": 79,
+  "nombre": "LOS NARANJOS"
+ },
+ {
+  "id_localidad": 1405,
+  "id_partido": 79,
+  "nombre": "MAGDALENA"
+ },
+ {
+  "id_localidad": 1406,
+  "id_partido": 79,
+  "nombre": "MALAGAMBA"
+ },
+ {
+  "id_localidad": 1407,
+  "id_partido": 79,
+  "nombre": "ROBERTO J. PAYRO"
+ },
+ {
+  "id_localidad": 1408,
+  "id_partido": 79,
+  "nombre": "SAN JOSE"
+ },
+ {
+  "id_localidad": 1409,
+  "id_partido": 79,
+  "nombre": "SAN MARTIN"
+ },
+ {
+  "id_localidad": 1410,
+  "id_partido": 79,
+  "nombre": "UNIDAD PENAL MAGDALENA"
+ },
+ {
+  "id_localidad": 1411,
+  "id_partido": 79,
+  "nombre": "VERGARA"
+ },
+ {
+  "id_localidad": 1412,
+  "id_partido": 79,
+  "nombre": "VIEYTES"
+ },
+ {
+  "id_localidad": 1413,
+  "id_partido": 80,
+  "nombre": "EL CHAJA"
+ },
+ {
+  "id_localidad": 1414,
+  "id_partido": 80,
+  "nombre": "LAGUNA LOS DIFUNTOS"
+ },
+ {
+  "id_localidad": 1415,
+  "id_partido": 80,
+  "nombre": "LAS ARMAS"
+ },
+ {
+  "id_localidad": 1416,
+  "id_partido": 80,
+  "nombre": "MAIPU"
+ },
+ {
+  "id_localidad": 1417,
+  "id_partido": 80,
+  "nombre": "MONSALVO"
+ },
+ {
+  "id_localidad": 1418,
+  "id_partido": 80,
+  "nombre": "SAN SIMON"
+ },
+ {
+  "id_localidad": 1419,
+  "id_partido": 80,
+  "nombre": "SANTA ELVIRA"
+ },
+ {
+  "id_localidad": 1420,
+  "id_partido": 80,
+  "nombre": "SANTA ISABEL"
+ },
+ {
+  "id_localidad": 1421,
+  "id_partido": 80,
+  "nombre": "SANTA TERESITA"
+ },
+ {
+  "id_localidad": 1422,
+  "id_partido": 80,
+  "nombre": "SANTO DOMINGO"
+ },
+ {
+  "id_localidad": 1423,
+  "id_partido": 80,
+  "nombre": "SEGUROLA"
+ },
+ {
+  "id_localidad": 1424,
+  "id_partido": 80,
+  "nombre": "YAMAHUIDA"
+ },
+ {
+  "id_localidad": 1425,
+  "id_partido": 81,
+  "nombre": "AREA DE PROMOCION EL TRIANGULO"
+ },
+ {
+  "id_localidad": 1426,
+  "id_partido": 81,
+  "nombre": "GRAND BOURG"
+ },
+ {
+  "id_localidad": 1427,
+  "id_partido": 81,
+  "nombre": "INGENIERO ADOLFO SOURDEAUX"
+ },
+ {
+  "id_localidad": 1428,
+  "id_partido": 81,
+  "nombre": "INGENIERO PABLO NOGUES"
+ },
+ {
+  "id_localidad": 1429,
+  "id_partido": 81,
+  "nombre": "LOS POLVORINES"
+ },
+ {
+  "id_localidad": 1430,
+  "id_partido": 81,
+  "nombre": "TORTUGUITAS"
+ },
+ {
+  "id_localidad": 1431,
+  "id_partido": 81,
+  "nombre": "VILLA DE MAYO"
+ },
+ {
+  "id_localidad": 1432,
+  "id_partido": 82,
+  "nombre": "ATLANTIDA"
+ },
+ {
+  "id_localidad": 1433,
+  "id_partido": 82,
+  "nombre": "CALFUCURA"
+ },
+ {
+  "id_localidad": 1434,
+  "id_partido": 82,
+  "nombre": "CAMET NORTE"
+ },
+ {
+  "id_localidad": 1435,
+  "id_partido": 82,
+  "nombre": "CORONEL VIDAL"
+ },
+ {
+  "id_localidad": 1436,
+  "id_partido": 82,
+  "nombre": "EL DESTINO"
+ },
+ {
+  "id_localidad": 1437,
+  "id_partido": 82,
+  "nombre": "EL ESPINILLO"
+ },
+ {
+  "id_localidad": 1438,
+  "id_partido": 82,
+  "nombre": "EL JAGUEL"
+ },
+ {
+  "id_localidad": 1439,
+  "id_partido": 82,
+  "nombre": "ESQUINA ARGUAS"
+ },
+ {
+  "id_localidad": 1440,
+  "id_partido": 82,
+  "nombre": "FRENTE MAR"
+ },
+ {
+  "id_localidad": 1441,
+  "id_partido": 82,
+  "nombre": "GENERAL PIRAN"
+ },
+ {
+  "id_localidad": 1442,
+  "id_partido": 82,
+  "nombre": "LA ALDEA"
+ },
+ {
+  "id_localidad": 1443,
+  "id_partido": 82,
+  "nombre": "LA ARMONIA"
+ },
+ {
+  "id_localidad": 1444,
+  "id_partido": 82,
+  "nombre": "LA BALIZA"
+ },
+ {
+  "id_localidad": 1445,
+  "id_partido": 82,
+  "nombre": "LA CALETA"
+ },
+ {
+  "id_localidad": 1446,
+  "id_partido": 82,
+  "nombre": "LA TEHUELCHE"
+ },
+ {
+  "id_localidad": 1447,
+  "id_partido": 82,
+  "nombre": "LAS ROSAS"
+ },
+ {
+  "id_localidad": 1448,
+  "id_partido": 82,
+  "nombre": "LOMA VERDE"
+ },
+ {
+  "id_localidad": 1449,
+  "id_partido": 82,
+  "nombre": "MAR CHIQUITA"
+ },
+ {
+  "id_localidad": 1450,
+  "id_partido": 82,
+  "nombre": "MAR DE COBO"
+ },
+ {
+  "id_localidad": 1451,
+  "id_partido": 82,
+  "nombre": "NAHUEL RUCA"
+ },
+ {
+  "id_localidad": 1452,
+  "id_partido": 82,
+  "nombre": "PLAYA DORADA"
+ },
+ {
+  "id_localidad": 1453,
+  "id_partido": 82,
+  "nombre": "RUTA 11 KM 475"
+ },
+ {
+  "id_localidad": 1454,
+  "id_partido": 82,
+  "nombre": "RUTA 11 KM 480"
+ },
+ {
+  "id_localidad": 1455,
+  "id_partido": 82,
+  "nombre": "RUTA 55 KM 135"
+ },
+ {
+  "id_localidad": 1456,
+  "id_partido": 82,
+  "nombre": "SANTA CLARA DEL MAR"
+ },
+ {
+  "id_localidad": 1457,
+  "id_partido": 82,
+  "nombre": "SANTA ELENA"
+ },
+ {
+  "id_localidad": 1458,
+  "id_partido": 82,
+  "nombre": "VIVORATA"
+ },
+ {
+  "id_localidad": 1459,
+  "id_partido": 83,
+  "nombre": "ALAMBRADO DE FIERRO"
+ },
+ {
+  "id_localidad": 1460,
+  "id_partido": 83,
+  "nombre": "BARRIO SANTA ROSA"
+ },
+ {
+  "id_localidad": 1461,
+  "id_partido": 83,
+  "nombre": "BARRIOS LISANDRO DE LA TORRE Y SANTA MARTA"
+ },
+ {
+  "id_localidad": 1462,
+  "id_partido": 83,
+  "nombre": "CUARTEL V"
+ },
+ {
+  "id_localidad": 1463,
+  "id_partido": 83,
+  "nombre": "EL MARTILLO"
+ },
+ {
+  "id_localidad": 1464,
+  "id_partido": 83,
+  "nombre": "EL TROPEZON"
+ },
+ {
+  "id_localidad": 1465,
+  "id_partido": 83,
+  "nombre": "LA COLORADA"
+ },
+ {
+  "id_localidad": 1466,
+  "id_partido": 83,
+  "nombre": "MARCOS PAZ"
+ },
+ {
+  "id_localidad": 1467,
+  "id_partido": 84,
+  "nombre": "AGOTE"
+ },
+ {
+  "id_localidad": 1468,
+  "id_partido": 84,
+  "nombre": "CUARTEL XII"
+ },
+ {
+  "id_localidad": 1469,
+  "id_partido": 84,
+  "nombre": "CUARTEL XIX"
+ },
+ {
+  "id_localidad": 1470,
+  "id_partido": 84,
+  "nombre": "CUARTEL XV"
+ },
+ {
+  "id_localidad": 1471,
+  "id_partido": 84,
+  "nombre": "CUARTEL XVI"
+ },
+ {
+  "id_localidad": 1472,
+  "id_partido": 84,
+  "nombre": "EL MIRASOL"
+ },
+ {
+  "id_localidad": 1473,
+  "id_partido": 84,
+  "nombre": "GOLDNEY"
+ },
+ {
+  "id_localidad": 1474,
+  "id_partido": 84,
+  "nombre": "GOWLAND"
+ },
+ {
+  "id_localidad": 1475,
+  "id_partido": 84,
+  "nombre": "LA TABLADA"
+ },
+ {
+  "id_localidad": 1476,
+  "id_partido": 84,
+  "nombre": "LA VERDE"
+ },
+ {
+  "id_localidad": 1477,
+  "id_partido": 84,
+  "nombre": "LOS TRONCOS"
+ },
+ {
+  "id_localidad": 1478,
+  "id_partido": 84,
+  "nombre": "MERCEDES"
+ },
+ {
+  "id_localidad": 1479,
+  "id_partido": 84,
+  "nombre": "PURICELLI"
+ },
+ {
+  "id_localidad": 1480,
+  "id_partido": 84,
+  "nombre": "SAN JACINTO"
+ },
+ {
+  "id_localidad": 1481,
+  "id_partido": 84,
+  "nombre": "SAN JORGE"
+ },
+ {
+  "id_localidad": 1482,
+  "id_partido": 84,
+  "nombre": "TOMAS JOFRE"
+ },
+ {
+  "id_localidad": 1483,
+  "id_partido": 85,
+  "nombre": "LIBERTAD"
+ },
+ {
+  "id_localidad": 1484,
+  "id_partido": 85,
+  "nombre": "MARIANO ACOSTA"
+ },
+ {
+  "id_localidad": 1485,
+  "id_partido": 85,
+  "nombre": "MERLO"
+ },
+ {
+  "id_localidad": 1486,
+  "id_partido": 85,
+  "nombre": "PONTEVEDRA"
+ },
+ {
+  "id_localidad": 1487,
+  "id_partido": 85,
+  "nombre": "SAN ANTONIO DE PADUA"
+ },
+ {
+  "id_localidad": 1488,
+  "id_partido": 86,
+  "nombre": "ABBOTT"
+ },
+ {
+  "id_localidad": 1489,
+  "id_partido": 86,
+  "nombre": "EL DORADO"
+ },
+ {
+  "id_localidad": 1490,
+  "id_partido": 86,
+  "nombre": "EL ROSARIO"
+ },
+ {
+  "id_localidad": 1491,
+  "id_partido": 86,
+  "nombre": "EL SIASGO"
+ },
+ {
+  "id_localidad": 1492,
+  "id_partido": 86,
+  "nombre": "FUNKE"
+ },
+ {
+  "id_localidad": 1493,
+  "id_partido": 86,
+  "nombre": "GOYENECHE"
+ },
+ {
+  "id_localidad": 1494,
+  "id_partido": 86,
+  "nombre": "LA COSTA"
+ },
+ {
+  "id_localidad": 1495,
+  "id_partido": 86,
+  "nombre": "LA ELINA"
+ },
+ {
+  "id_localidad": 1496,
+  "id_partido": 86,
+  "nombre": "LOS CERRILLOS"
+ },
+ {
+  "id_localidad": 1497,
+  "id_partido": 86,
+  "nombre": "MAHON"
+ },
+ {
+  "id_localidad": 1498,
+  "id_partido": 86,
+  "nombre": "SAN GENARO"
+ },
+ {
+  "id_localidad": 1499,
+  "id_partido": 86,
+  "nombre": "SAN MARCELO"
+ },
+ {
+  "id_localidad": 1500,
+  "id_partido": 86,
+  "nombre": "SAN MIGUEL DEL MONTE"
+ },
+ {
+  "id_localidad": 1501,
+  "id_partido": 86,
+  "nombre": "SANTA MARIA"
+ },
+ {
+  "id_localidad": 1502,
+  "id_partido": 86,
+  "nombre": "ZENON VIDELA DORNA"
+ },
+ {
+  "id_localidad": 1503,
+  "id_partido": 87,
+  "nombre": "BALNEARIO SAUCE GRANDE"
+ },
+ {
+  "id_localidad": 1504,
+  "id_partido": 87,
+  "nombre": "MONTE HERMOSO"
+ },
+ {
+  "id_localidad": 1505,
+  "id_partido": 88,
+  "nombre": "CUARTEL V"
+ },
+ {
+  "id_localidad": 1506,
+  "id_partido": 88,
+  "nombre": "FRANCISCO ALVAREZ"
+ },
+ {
+  "id_localidad": 1507,
+  "id_partido": 88,
+  "nombre": "LA REJA"
+ },
+ {
+  "id_localidad": 1508,
+  "id_partido": 88,
+  "nombre": "MORENO"
+ },
+ {
+  "id_localidad": 1509,
+  "id_partido": 88,
+  "nombre": "PASO DEL REY"
+ },
+ {
+  "id_localidad": 1510,
+  "id_partido": 88,
+  "nombre": "TRUJUI"
+ },
+ {
+  "id_localidad": 1511,
+  "id_partido": 89,
+  "nombre": "CASTELAR"
+ },
+ {
+  "id_localidad": 1512,
+  "id_partido": 89,
+  "nombre": "EL PALOMAR"
+ },
+ {
+  "id_localidad": 1513,
+  "id_partido": 89,
+  "nombre": "HAEDO"
+ },
+ {
+  "id_localidad": 1514,
+  "id_partido": 89,
+  "nombre": "MORON"
+ },
+ {
+  "id_localidad": 1515,
+  "id_partido": 89,
+  "nombre": "VILLA SARMIENTO"
+ },
+ {
+  "id_localidad": 1516,
+  "id_partido": 90,
+  "nombre": "ANASAGASTI"
+ },
+ {
+  "id_localidad": 1517,
+  "id_partido": 90,
+  "nombre": "CUARTEL IX"
+ },
+ {
+  "id_localidad": 1518,
+  "id_partido": 90,
+  "nombre": "EL FAISAN"
+ },
+ {
+  "id_localidad": 1519,
+  "id_partido": 90,
+  "nombre": "EL LUCERO"
+ },
+ {
+  "id_localidad": 1520,
+  "id_partido": 90,
+  "nombre": "GONZALEZ RISOS"
+ },
+ {
+  "id_localidad": 1521,
+  "id_partido": 90,
+  "nombre": "INGENIERO WILLIAMS"
+ },
+ {
+  "id_localidad": 1522,
+  "id_partido": 90,
+  "nombre": "JOSE JUAN ALMEYRA"
+ },
+ {
+  "id_localidad": 1523,
+  "id_partido": 90,
+  "nombre": "KILOMETRO 83"
+ },
+ {
+  "id_localidad": 1524,
+  "id_partido": 90,
+  "nombre": "LA BLANQUEADA"
+ },
+ {
+  "id_localidad": 1525,
+  "id_partido": 90,
+  "nombre": "LA ESTRELLA"
+ },
+ {
+  "id_localidad": 1526,
+  "id_partido": 90,
+  "nombre": "LA LECHUZA"
+ },
+ {
+  "id_localidad": 1527,
+  "id_partido": 90,
+  "nombre": "LA RAPIDA"
+ },
+ {
+  "id_localidad": 1528,
+  "id_partido": 90,
+  "nombre": "LAS MARIANAS"
+ },
+ {
+  "id_localidad": 1529,
+  "id_partido": 90,
+  "nombre": "LOS NOGALES"
+ },
+ {
+  "id_localidad": 1530,
+  "id_partido": 90,
+  "nombre": "LOS POZOS"
+ },
+ {
+  "id_localidad": 1531,
+  "id_partido": 90,
+  "nombre": "LOS VASQUITOS"
+ },
+ {
+  "id_localidad": 1532,
+  "id_partido": 90,
+  "nombre": "NAVARRO"
+ },
+ {
+  "id_localidad": 1533,
+  "id_partido": 90,
+  "nombre": "RINGUELET"
+ },
+ {
+  "id_localidad": 1534,
+  "id_partido": 90,
+  "nombre": "RUTA NACIONAL 200 KM 96"
+ },
+ {
+  "id_localidad": 1535,
+  "id_partido": 90,
+  "nombre": "SOL DE MAYO"
+ },
+ {
+  "id_localidad": 1536,
+  "id_partido": 90,
+  "nombre": "TORRES"
+ },
+ {
+  "id_localidad": 1537,
+  "id_partido": 90,
+  "nombre": "VILLA MOLL"
+ },
+ {
+  "id_localidad": 1538,
+  "id_partido": 91,
+  "nombre": "CALANGUEYU"
+ },
+ {
+  "id_localidad": 1539,
+  "id_partido": 91,
+  "nombre": "CAMPOMAR"
+ },
+ {
+  "id_localidad": 1540,
+  "id_partido": 91,
+  "nombre": "CLARAZ"
+ },
+ {
+  "id_localidad": 1541,
+  "id_partido": 91,
+  "nombre": "COSTA BONITA"
+ },
+ {
+  "id_localidad": 1542,
+  "id_partido": 91,
+  "nombre": "EL PALOMAR"
+ },
+ {
+  "id_localidad": 1543,
+  "id_partido": 91,
+  "nombre": "EL TIGRE"
+ },
+ {
+  "id_localidad": 1544,
+  "id_partido": 91,
+  "nombre": "ENERGIA"
+ },
+ {
+  "id_localidad": 1545,
+  "id_partido": 91,
+  "nombre": "JUAN N. FERNANDEZ"
+ },
+ {
+  "id_localidad": 1546,
+  "id_partido": 91,
+  "nombre": "LA GALIA"
+ },
+ {
+  "id_localidad": 1547,
+  "id_partido": 91,
+  "nombre": "LA LITA"
+ },
+ {
+  "id_localidad": 1548,
+  "id_partido": 91,
+  "nombre": "LA LUISA"
+ },
+ {
+  "id_localidad": 1549,
+  "id_partido": 91,
+  "nombre": "LA MAGNOLIA"
+ },
+ {
+  "id_localidad": 1550,
+  "id_partido": 91,
+  "nombre": "LA NEGRA"
+ },
+ {
+  "id_localidad": 1551,
+  "id_partido": 91,
+  "nombre": "LAS CALAVERAS"
+ },
+ {
+  "id_localidad": 1552,
+  "id_partido": 91,
+  "nombre": "LUMB"
+ },
+ {
+  "id_localidad": 1553,
+  "id_partido": 91,
+  "nombre": "MOJON DEL PALO"
+ },
+ {
+  "id_localidad": 1554,
+  "id_partido": 91,
+  "nombre": "NECOCHEA"
+ },
+ {
+  "id_localidad": 1555,
+  "id_partido": 91,
+  "nombre": "NICANOR OLIVERA"
+ },
+ {
+  "id_localidad": 1556,
+  "id_partido": 91,
+  "nombre": "QUEQUEN"
+ },
+ {
+  "id_localidad": 1557,
+  "id_partido": 91,
+  "nombre": "RAMON SANTAMARINA"
+ },
+ {
+  "id_localidad": 1558,
+  "id_partido": 91,
+  "nombre": "SAN CALA"
+ },
+ {
+  "id_localidad": 1559,
+  "id_partido": 91,
+  "nombre": "SAN JOSE (VILLA DIEGO)"
+ },
+ {
+  "id_localidad": 1560,
+  "id_partido": 91,
+  "nombre": "SEMILLERO BUCK"
+ },
+ {
+  "id_localidad": 1561,
+  "id_partido": 91,
+  "nombre": "VILLA ZAGALA"
+ },
+ {
+  "id_localidad": 1562,
+  "id_partido": 92,
+  "nombre": "BLANCA CHICA"
+ },
+ {
+  "id_localidad": 1563,
+  "id_partido": 92,
+  "nombre": "BLANCAGRANDE"
+ },
+ {
+  "id_localidad": 1564,
+  "id_partido": 92,
+  "nombre": "CALERA AVELLANEDA"
+ },
+ {
+  "id_localidad": 1565,
+  "id_partido": 92,
+  "nombre": "CAMPO BELGRANO"
+ },
+ {
+  "id_localidad": 1566,
+  "id_partido": 92,
+  "nombre": "CAMPO ELSSIRY"
+ },
+ {
+  "id_localidad": 1567,
+  "id_partido": 92,
+  "nombre": "CAMPO STRIEBECK"
+ },
+ {
+  "id_localidad": 1568,
+  "id_partido": 92,
+  "nombre": "CERRO SOTUYO"
+ },
+ {
+  "id_localidad": 1569,
+  "id_partido": 92,
+  "nombre": "CHACRAS DE PIBUEL"
+ },
+ {
+  "id_localidad": 1570,
+  "id_partido": 92,
+  "nombre": "COLONIA HINOJO"
+ },
+ {
+  "id_localidad": 1571,
+  "id_partido": 92,
+  "nombre": "COLONIA NIEVAS"
+ },
+ {
+  "id_localidad": 1572,
+  "id_partido": 92,
+  "nombre": "COLONIA SAN MIGUEL"
+ },
+ {
+  "id_localidad": 1573,
+  "id_partido": 92,
+  "nombre": "CRUCE MUÑOZ"
+ },
+ {
+  "id_localidad": 1574,
+  "id_partido": 92,
+  "nombre": "CUARTEL II - AEROPUERTO"
+ },
+ {
+  "id_localidad": 1575,
+  "id_partido": 92,
+  "nombre": "EL MIRADOR"
+ },
+ {
+  "id_localidad": 1576,
+  "id_partido": 92,
+  "nombre": "EL PORVENIR"
+ },
+ {
+  "id_localidad": 1577,
+  "id_partido": 92,
+  "nombre": "ESPIGAS"
+ },
+ {
+  "id_localidad": 1578,
+  "id_partido": 92,
+  "nombre": "HINOJO"
+ },
+ {
+  "id_localidad": 1579,
+  "id_partido": 92,
+  "nombre": "ITURREGUI"
+ },
+ {
+  "id_localidad": 1580,
+  "id_partido": 92,
+  "nombre": "LA CARMELITA"
+ },
+ {
+  "id_localidad": 1581,
+  "id_partido": 92,
+  "nombre": "LA MODERNA"
+ },
+ {
+  "id_localidad": 1582,
+  "id_partido": 92,
+  "nombre": "LA PARDA"
+ },
+ {
+  "id_localidad": 1583,
+  "id_partido": 92,
+  "nombre": "LA PROVIDENCIA"
+ },
+ {
+  "id_localidad": 1584,
+  "id_partido": 92,
+  "nombre": "LAS PIEDRITAS"
+ },
+ {
+  "id_localidad": 1585,
+  "id_partido": 92,
+  "nombre": "LOS CHILENOS"
+ },
+ {
+  "id_localidad": 1586,
+  "id_partido": 92,
+  "nombre": "MAPIS"
+ },
+ {
+  "id_localidad": 1587,
+  "id_partido": 92,
+  "nombre": "OLAVARRIA"
+ },
+ {
+  "id_localidad": 1588,
+  "id_partido": 92,
+  "nombre": "POURTALE"
+ },
+ {
+  "id_localidad": 1589,
+  "id_partido": 92,
+  "nombre": "RECALDE"
+ },
+ {
+  "id_localidad": 1590,
+  "id_partido": 92,
+  "nombre": "ROCHA"
+ },
+ {
+  "id_localidad": 1591,
+  "id_partido": 92,
+  "nombre": "SAN ANTONIO"
+ },
+ {
+  "id_localidad": 1592,
+  "id_partido": 92,
+  "nombre": "SAN GREGORIO"
+ },
+ {
+  "id_localidad": 1593,
+  "id_partido": 92,
+  "nombre": "SAN JACINTO"
+ },
+ {
+  "id_localidad": 1594,
+  "id_partido": 92,
+  "nombre": "SAN PEDRO"
+ },
+ {
+  "id_localidad": 1595,
+  "id_partido": 92,
+  "nombre": "SAN QUILCO"
+ },
+ {
+  "id_localidad": 1596,
+  "id_partido": 92,
+  "nombre": "SANTA LUISA"
+ },
+ {
+  "id_localidad": 1597,
+  "id_partido": 92,
+  "nombre": "SIERRA CHICA"
+ },
+ {
+  "id_localidad": 1598,
+  "id_partido": 92,
+  "nombre": "SIERRAS BAYAS"
+ },
+ {
+  "id_localidad": 1599,
+  "id_partido": 92,
+  "nombre": "VILLA ALFREDO FORTABAT"
+ },
+ {
+  "id_localidad": 1600,
+  "id_partido": 92,
+  "nombre": "VILLA ARRIETA"
+ },
+ {
+  "id_localidad": 1601,
+  "id_partido": 92,
+  "nombre": "VILLA LA SERRANIA"
+ },
+ {
+  "id_localidad": 1602,
+  "id_partido": 92,
+  "nombre": "VILLA MONICA"
+ },
+ {
+  "id_localidad": 1603,
+  "id_partido": 92,
+  "nombre": "VIRGEN DE LA LOMA"
+ },
+ {
+  "id_localidad": 1604,
+  "id_partido": 93,
+  "nombre": "BAHIA SAN BLAS"
+ },
+ {
+  "id_localidad": 1605,
+  "id_partido": 93,
+  "nombre": "CARDENAL CAGLIERO"
+ },
+ {
+  "id_localidad": 1606,
+  "id_partido": 93,
+  "nombre": "CARMEN DE PATAGONES"
+ },
+ {
+  "id_localidad": 1607,
+  "id_partido": 93,
+  "nombre": "COLONIA 7 DE MARZO"
+ },
+ {
+  "id_localidad": 1608,
+  "id_partido": 93,
+  "nombre": "COLONIA BARGA"
+ },
+ {
+  "id_localidad": 1609,
+  "id_partido": 93,
+  "nombre": "COLONIA EL GUANACO"
+ },
+ {
+  "id_localidad": 1610,
+  "id_partido": 93,
+  "nombre": "COLONIA EL MOLINO"
+ },
+ {
+  "id_localidad": 1611,
+  "id_partido": 93,
+  "nombre": "COLONIA LA BEBA"
+ },
+ {
+  "id_localidad": 1612,
+  "id_partido": 93,
+  "nombre": "COLONIA LA DELFINA"
+ },
+ {
+  "id_localidad": 1613,
+  "id_partido": 93,
+  "nombre": "COLONIA LA GRACIELA"
+ },
+ {
+  "id_localidad": 1614,
+  "id_partido": 93,
+  "nombre": "COLONIA LOS ALAMOS"
+ },
+ {
+  "id_localidad": 1615,
+  "id_partido": 93,
+  "nombre": "COLONIA MIGLIORI"
+ },
+ {
+  "id_localidad": 1616,
+  "id_partido": 93,
+  "nombre": "COLONIA SAN FRANCISCO"
+ },
+ {
+  "id_localidad": 1617,
+  "id_partido": 93,
+  "nombre": "COLONIA SAN LUIS"
+ },
+ {
+  "id_localidad": 1618,
+  "id_partido": 93,
+  "nombre": "EL BARRANCOSO"
+ },
+ {
+  "id_localidad": 1619,
+  "id_partido": 93,
+  "nombre": "EL TAURO"
+ },
+ {
+  "id_localidad": 1620,
+  "id_partido": 93,
+  "nombre": "EMILIO LAMARCA"
+ },
+ {
+  "id_localidad": 1621,
+  "id_partido": 93,
+  "nombre": "ESTANCIA BALBUENA"
+ },
+ {
+  "id_localidad": 1622,
+  "id_partido": 93,
+  "nombre": "ESTANCIA EL MOLINO"
+ },
+ {
+  "id_localidad": 1623,
+  "id_partido": 93,
+  "nombre": "ESTANCIA SAN LUIS"
+ },
+ {
+  "id_localidad": 1624,
+  "id_partido": 93,
+  "nombre": "IGARZABAL"
+ },
+ {
+  "id_localidad": 1625,
+  "id_partido": 93,
+  "nombre": "JOSE B. CASAS"
+ },
+ {
+  "id_localidad": 1626,
+  "id_partido": 93,
+  "nombre": "JUAN A. PRADERE"
+ },
+ {
+  "id_localidad": 1627,
+  "id_partido": 93,
+  "nombre": "KILOMETRO 900"
+ },
+ {
+  "id_localidad": 1628,
+  "id_partido": 93,
+  "nombre": "MERIDIANO V"
+ },
+ {
+  "id_localidad": 1629,
+  "id_partido": 93,
+  "nombre": "STROEDER"
+ },
+ {
+  "id_localidad": 1630,
+  "id_partido": 93,
+  "nombre": "VILLA LYNCH"
+ },
+ {
+  "id_localidad": 1631,
+  "id_partido": 93,
+  "nombre": "VILLALONGA"
+ },
+ {
+  "id_localidad": 1632,
+  "id_partido": 93,
+  "nombre": "ZONA RURAL DE JOSE B CASAS"
+ },
+ {
+  "id_localidad": 1633,
+  "id_partido": 94,
+  "nombre": "ABEL"
+ },
+ {
+  "id_localidad": 1634,
+  "id_partido": 94,
+  "nombre": "ALVAREZ"
+ },
+ {
+  "id_localidad": 1635,
+  "id_partido": 94,
+  "nombre": "ANCON"
+ },
+ {
+  "id_localidad": 1636,
+  "id_partido": 94,
+  "nombre": "ASTURIAS"
+ },
+ {
+  "id_localidad": 1637,
+  "id_partido": 94,
+  "nombre": "CAPITAN CASTRO"
+ },
+ {
+  "id_localidad": 1638,
+  "id_partido": 94,
+  "nombre": "COLONIA CARLOS ARIAS"
+ },
+ {
+  "id_localidad": 1639,
+  "id_partido": 94,
+  "nombre": "CONDE CAZON"
+ },
+ {
+  "id_localidad": 1640,
+  "id_partido": 94,
+  "nombre": "CUARTEL SEGUNDO"
+ },
+ {
+  "id_localidad": 1641,
+  "id_partido": 94,
+  "nombre": "CURUCHET"
+ },
+ {
+  "id_localidad": 1642,
+  "id_partido": 94,
+  "nombre": "EL AGRO"
+ },
+ {
+  "id_localidad": 1643,
+  "id_partido": 94,
+  "nombre": "EL CRUCE"
+ },
+ {
+  "id_localidad": 1644,
+  "id_partido": 94,
+  "nombre": "EL RANCHITO"
+ },
+ {
+  "id_localidad": 1645,
+  "id_partido": 94,
+  "nombre": "EL RECADO"
+ },
+ {
+  "id_localidad": 1646,
+  "id_partido": 94,
+  "nombre": "FRANCISCO MADERO"
+ },
+ {
+  "id_localidad": 1647,
+  "id_partido": 94,
+  "nombre": "GNECCO"
+ },
+ {
+  "id_localidad": 1648,
+  "id_partido": 94,
+  "nombre": "INOCENCIO SOSA"
+ },
+ {
+  "id_localidad": 1649,
+  "id_partido": 94,
+  "nombre": "JUAN JOSE PASO"
+ },
+ {
+  "id_localidad": 1650,
+  "id_partido": 94,
+  "nombre": "LA BLANQUEADA"
+ },
+ {
+  "id_localidad": 1651,
+  "id_partido": 94,
+  "nombre": "LA JOSEFA"
+ },
+ {
+  "id_localidad": 1652,
+  "id_partido": 94,
+  "nombre": "LAS JUANITAS"
+ },
+ {
+  "id_localidad": 1653,
+  "id_partido": 94,
+  "nombre": "MAGDALA"
+ },
+ {
+  "id_localidad": 1654,
+  "id_partido": 94,
+  "nombre": "MONES CAZON"
+ },
+ {
+  "id_localidad": 1655,
+  "id_partido": 94,
+  "nombre": "NUEVA PLATA"
+ },
+ {
+  "id_localidad": 1656,
+  "id_partido": 94,
+  "nombre": "PEDRO GAMEN"
+ },
+ {
+  "id_localidad": 1657,
+  "id_partido": 94,
+  "nombre": "PEHUAJO"
+ },
+ {
+  "id_localidad": 1658,
+  "id_partido": 94,
+  "nombre": "SAN BERNARDO"
+ },
+ {
+  "id_localidad": 1659,
+  "id_partido": 94,
+  "nombre": "SAN ESTEBAN"
+ },
+ {
+  "id_localidad": 1660,
+  "id_partido": 95,
+  "nombre": "BOCAYUVA"
+ },
+ {
+  "id_localidad": 1661,
+  "id_partido": 95,
+  "nombre": "COLONIA SARMIENTO"
+ },
+ {
+  "id_localidad": 1662,
+  "id_partido": 95,
+  "nombre": "DE BARY"
+ },
+ {
+  "id_localidad": 1663,
+  "id_partido": 95,
+  "nombre": "ESTACION LA CAUTIVA"
+ },
+ {
+  "id_localidad": 1664,
+  "id_partido": 95,
+  "nombre": "LA PUA"
+ },
+ {
+  "id_localidad": 1665,
+  "id_partido": 95,
+  "nombre": "LAS TRES MARIAS"
+ },
+ {
+  "id_localidad": 1666,
+  "id_partido": 95,
+  "nombre": "PEHUELCHES"
+ },
+ {
+  "id_localidad": 1667,
+  "id_partido": 95,
+  "nombre": "PELLEGRINI"
+ },
+ {
+  "id_localidad": 1668,
+  "id_partido": 95,
+  "nombre": "RUTA NACIONAL 5 KM 502"
+ },
+ {
+  "id_localidad": 1669,
+  "id_partido": 95,
+  "nombre": "ZONA RURAL DE PELLEGRINI"
+ },
+ {
+  "id_localidad": 1670,
+  "id_partido": 96,
+  "nombre": "ACEVEDO"
+ },
+ {
+  "id_localidad": 1671,
+  "id_partido": 96,
+  "nombre": "ARROYO DEL MEDIO"
+ },
+ {
+  "id_localidad": 1672,
+  "id_partido": 96,
+  "nombre": "ARROYO DULCE"
+ },
+ {
+  "id_localidad": 1673,
+  "id_partido": 96,
+  "nombre": "CAMINO A LA VIOLETA KM 4"
+ },
+ {
+  "id_localidad": 1674,
+  "id_partido": 96,
+  "nombre": "CAMPO BUENA VISTA"
+ },
+ {
+  "id_localidad": 1675,
+  "id_partido": 96,
+  "nombre": "CAMPO ROTH"
+ },
+ {
+  "id_localidad": 1676,
+  "id_partido": 96,
+  "nombre": "CAMPO URQUIZA"
+ },
+ {
+  "id_localidad": 1677,
+  "id_partido": 96,
+  "nombre": "CAMPO URRUTIA"
+ },
+ {
+  "id_localidad": 1678,
+  "id_partido": 96,
+  "nombre": "ESTANCIA SAN RAFAEL"
+ },
+ {
+  "id_localidad": 1679,
+  "id_partido": 96,
+  "nombre": "FONTEZUELA"
+ },
+ {
+  "id_localidad": 1680,
+  "id_partido": 96,
+  "nombre": "FRANCISCO AYERZA"
+ },
+ {
+  "id_localidad": 1681,
+  "id_partido": 96,
+  "nombre": "GORNATTI"
+ },
+ {
+  "id_localidad": 1682,
+  "id_partido": 96,
+  "nombre": "GUERRICO"
+ },
+ {
+  "id_localidad": 1683,
+  "id_partido": 96,
+  "nombre": "JUAN A. DE LA PEÑA"
+ },
+ {
+  "id_localidad": 1684,
+  "id_partido": 96,
+  "nombre": "JUAN ANCHORENA"
+ },
+ {
+  "id_localidad": 1685,
+  "id_partido": 96,
+  "nombre": "LA MAGDALENA"
+ },
+ {
+  "id_localidad": 1686,
+  "id_partido": 96,
+  "nombre": "LA VANGUARDIA"
+ },
+ {
+  "id_localidad": 1687,
+  "id_partido": 96,
+  "nombre": "LA VIOLETA"
+ },
+ {
+  "id_localidad": 1688,
+  "id_partido": 96,
+  "nombre": "MAGUIRRE"
+ },
+ {
+  "id_localidad": 1689,
+  "id_partido": 96,
+  "nombre": "MANANTIALES"
+ },
+ {
+  "id_localidad": 1690,
+  "id_partido": 96,
+  "nombre": "MANANTIALES CHICOS"
+ },
+ {
+  "id_localidad": 1691,
+  "id_partido": 96,
+  "nombre": "MANANTIALES GRANDES"
+ },
+ {
+  "id_localidad": 1692,
+  "id_partido": 96,
+  "nombre": "MANUEL OCAMPO"
+ },
+ {
+  "id_localidad": 1693,
+  "id_partido": 96,
+  "nombre": "MARIANO BENITEZ"
+ },
+ {
+  "id_localidad": 1694,
+  "id_partido": 96,
+  "nombre": "MARIANO H. ALFONZO"
+ },
+ {
+  "id_localidad": 1695,
+  "id_partido": 96,
+  "nombre": "ORTIZ BASUALDO"
+ },
+ {
+  "id_localidad": 1696,
+  "id_partido": 96,
+  "nombre": "PERGAMINO"
+ },
+ {
+  "id_localidad": 1697,
+  "id_partido": 96,
+  "nombre": "PINZON"
+ },
+ {
+  "id_localidad": 1698,
+  "id_partido": 96,
+  "nombre": "RANCAGUA"
+ },
+ {
+  "id_localidad": 1699,
+  "id_partido": 96,
+  "nombre": "SANTA ROSA"
+ },
+ {
+  "id_localidad": 1700,
+  "id_partido": 96,
+  "nombre": "TAMBO NUEVO"
+ },
+ {
+  "id_localidad": 1701,
+  "id_partido": 96,
+  "nombre": "VILLA ANGELICA"
+ },
+ {
+  "id_localidad": 1702,
+  "id_partido": 96,
+  "nombre": "VILLA SAN JOSE"
+ },
+ {
+  "id_localidad": 1703,
+  "id_partido": 97,
+  "nombre": "CAMARON CHICO"
+ },
+ {
+  "id_localidad": 1704,
+  "id_partido": 97,
+  "nombre": "CASALINS"
+ },
+ {
+  "id_localidad": 1705,
+  "id_partido": 97,
+  "nombre": "CHAPALAUQUEN"
+ },
+ {
+  "id_localidad": 1706,
+  "id_partido": 97,
+  "nombre": "DEMARIA"
+ },
+ {
+  "id_localidad": 1707,
+  "id_partido": 97,
+  "nombre": "EL 80"
+ },
+ {
+  "id_localidad": 1708,
+  "id_partido": 97,
+  "nombre": "EL ALEGRE"
+ },
+ {
+  "id_localidad": 1709,
+  "id_partido": 97,
+  "nombre": "EL SARTEN"
+ },
+ {
+  "id_localidad": 1710,
+  "id_partido": 97,
+  "nombre": "EL VENADO"
+ },
+ {
+  "id_localidad": 1711,
+  "id_partido": 97,
+  "nombre": "EL ZORRO"
+ },
+ {
+  "id_localidad": 1712,
+  "id_partido": 97,
+  "nombre": "HINOJALES"
+ },
+ {
+  "id_localidad": 1713,
+  "id_partido": 97,
+  "nombre": "LA LIMPIA"
+ },
+ {
+  "id_localidad": 1714,
+  "id_partido": 97,
+  "nombre": "LA REFORMA"
+ },
+ {
+  "id_localidad": 1715,
+  "id_partido": 97,
+  "nombre": "LA VICTORIA"
+ },
+ {
+  "id_localidad": 1716,
+  "id_partido": 97,
+  "nombre": "LAS CHILCAS"
+ },
+ {
+  "id_localidad": 1717,
+  "id_partido": 97,
+  "nombre": "LAS LECHUZAS"
+ },
+ {
+  "id_localidad": 1718,
+  "id_partido": 97,
+  "nombre": "LOS TOLDOS"
+ },
+ {
+  "id_localidad": 1719,
+  "id_partido": 97,
+  "nombre": "PILA"
+ },
+ {
+  "id_localidad": 1720,
+  "id_partido": 97,
+  "nombre": "REAL AUDIENCIA"
+ },
+ {
+  "id_localidad": 1721,
+  "id_partido": 98,
+  "nombre": "BARRIO PARQUE ALMIRANTE IRIZAR"
+ },
+ {
+  "id_localidad": 1722,
+  "id_partido": 98,
+  "nombre": "CLUB DE CAMPO LARENA - LOS QUINCHOS"
+ },
+ {
+  "id_localidad": 1723,
+  "id_partido": 98,
+  "nombre": "DEL VISO"
+ },
+ {
+  "id_localidad": 1724,
+  "id_partido": 98,
+  "nombre": "FATIMA"
+ },
+ {
+  "id_localidad": 1725,
+  "id_partido": 98,
+  "nombre": "LA LONJA"
+ },
+ {
+  "id_localidad": 1726,
+  "id_partido": 98,
+  "nombre": "LOS CACHORROS"
+ },
+ {
+  "id_localidad": 1727,
+  "id_partido": 98,
+  "nombre": "MANZANARES"
+ },
+ {
+  "id_localidad": 1728,
+  "id_partido": 98,
+  "nombre": "MANZONE"
+ },
+ {
+  "id_localidad": 1729,
+  "id_partido": 98,
+  "nombre": "MAQUINISTA F. SAVIO (OESTE)"
+ },
+ {
+  "id_localidad": 1730,
+  "id_partido": 98,
+  "nombre": "PILAR"
+ },
+ {
+  "id_localidad": 1731,
+  "id_partido": 98,
+  "nombre": "PRESIDENTE DERQUI"
+ },
+ {
+  "id_localidad": 1732,
+  "id_partido": 98,
+  "nombre": "ROBERTO DE VICENZO"
+ },
+ {
+  "id_localidad": 1733,
+  "id_partido": 98,
+  "nombre": "SANTA TERESA"
+ },
+ {
+  "id_localidad": 1734,
+  "id_partido": 98,
+  "nombre": "TORTUGUITAS"
+ },
+ {
+  "id_localidad": 1735,
+  "id_partido": 98,
+  "nombre": "VILLA ASTOLFI"
+ },
+ {
+  "id_localidad": 1736,
+  "id_partido": 98,
+  "nombre": "VILLA ROSA"
+ },
+ {
+  "id_localidad": 1737,
+  "id_partido": 98,
+  "nombre": "ZELAYA"
+ },
+ {
+  "id_localidad": 1738,
+  "id_partido": 99,
+  "nombre": "CARILO"
+ },
+ {
+  "id_localidad": 1739,
+  "id_partido": 99,
+  "nombre": "OSTENDE"
+ },
+ {
+  "id_localidad": 1740,
+  "id_partido": 99,
+  "nombre": "PINAMAR"
+ },
+ {
+  "id_localidad": 1741,
+  "id_partido": 99,
+  "nombre": "VALERIA DEL MAR"
+ },
+ {
+  "id_localidad": 1742,
+  "id_partido": 100,
+  "nombre": "BARRIO AMERICA UNIDA"
+ },
+ {
+  "id_localidad": 1743,
+  "id_partido": 100,
+  "nombre": "GUERNICA"
+ },
+ {
+  "id_localidad": 1744,
+  "id_partido": 100,
+  "nombre": "LA LATA"
+ },
+ {
+  "id_localidad": 1745,
+  "id_partido": 101,
+  "nombre": "17 DE AGOSTO"
+ },
+ {
+  "id_localidad": 1746,
+  "id_partido": 101,
+  "nombre": "ARROYO SECO"
+ },
+ {
+  "id_localidad": 1747,
+  "id_partido": 101,
+  "nombre": "AZOPARDO"
+ },
+ {
+  "id_localidad": 1748,
+  "id_partido": 101,
+  "nombre": "BORDENAVE"
+ },
+ {
+  "id_localidad": 1749,
+  "id_partido": 101,
+  "nombre": "DARREGUEIRA"
+ },
+ {
+  "id_localidad": 1750,
+  "id_partido": 101,
+  "nombre": "EL CARDAL"
+ },
+ {
+  "id_localidad": 1751,
+  "id_partido": 101,
+  "nombre": "EL TRIANGULO"
+ },
+ {
+  "id_localidad": 1752,
+  "id_partido": 101,
+  "nombre": "ESTELA"
+ },
+ {
+  "id_localidad": 1753,
+  "id_partido": 101,
+  "nombre": "FELIPE SOLA"
+ },
+ {
+  "id_localidad": 1754,
+  "id_partido": 101,
+  "nombre": "GENERAL RONDEAU"
+ },
+ {
+  "id_localidad": 1755,
+  "id_partido": 101,
+  "nombre": "LA ANGELITA"
+ },
+ {
+  "id_localidad": 1756,
+  "id_partido": 101,
+  "nombre": "LA ROSALIA"
+ },
+ {
+  "id_localidad": 1757,
+  "id_partido": 101,
+  "nombre": "LOPEZ LECUBE"
+ },
+ {
+  "id_localidad": 1758,
+  "id_partido": 101,
+  "nombre": "PUAN"
+ },
+ {
+  "id_localidad": 1759,
+  "id_partido": 101,
+  "nombre": "RIVADEO"
+ },
+ {
+  "id_localidad": 1760,
+  "id_partido": 101,
+  "nombre": "SAN GERMAN"
+ },
+ {
+  "id_localidad": 1761,
+  "id_partido": 101,
+  "nombre": "TRES CUERVOS"
+ },
+ {
+  "id_localidad": 1762,
+  "id_partido": 101,
+  "nombre": "VIBORAS"
+ },
+ {
+  "id_localidad": 1763,
+  "id_partido": 101,
+  "nombre": "VILLA CASTELAR"
+ },
+ {
+  "id_localidad": 1764,
+  "id_partido": 101,
+  "nombre": "VILLA IRIS"
+ },
+ {
+  "id_localidad": 1765,
+  "id_partido": 102,
+  "nombre": "ALVAREZ JONTE"
+ },
+ {
+  "id_localidad": 1766,
+  "id_partido": 102,
+  "nombre": "BASE AERONAVAL DE PUNTA INDIO"
+ },
+ {
+  "id_localidad": 1767,
+  "id_partido": 102,
+  "nombre": "CHIRRAMBERRO"
+ },
+ {
+  "id_localidad": 1768,
+  "id_partido": 102,
+  "nombre": "COLONIA TORNQUIST"
+ },
+ {
+  "id_localidad": 1769,
+  "id_partido": 102,
+  "nombre": "ESTANCIA SAN RAMON"
+ },
+ {
+  "id_localidad": 1770,
+  "id_partido": 102,
+  "nombre": "LA VIRUTA"
+ },
+ {
+  "id_localidad": 1771,
+  "id_partido": 102,
+  "nombre": "LAS PALMAS"
+ },
+ {
+  "id_localidad": 1772,
+  "id_partido": 102,
+  "nombre": "LAS TAHONAS"
+ },
+ {
+  "id_localidad": 1773,
+  "id_partido": 102,
+  "nombre": "LUJAN DEL RIO"
+ },
+ {
+  "id_localidad": 1774,
+  "id_partido": 102,
+  "nombre": "MONTE VELOZ"
+ },
+ {
+  "id_localidad": 1775,
+  "id_partido": 102,
+  "nombre": "PIPINAS"
+ },
+ {
+  "id_localidad": 1776,
+  "id_partido": 102,
+  "nombre": "PUNTA INDIO"
+ },
+ {
+  "id_localidad": 1777,
+  "id_partido": 102,
+  "nombre": "PUNTA PIEDRAS"
+ },
+ {
+  "id_localidad": 1778,
+  "id_partido": 102,
+  "nombre": "RANCHO BARRETO"
+ },
+ {
+  "id_localidad": 1779,
+  "id_partido": 102,
+  "nombre": "VERONICA"
+ },
+ {
+  "id_localidad": 1780,
+  "id_partido": 103,
+  "nombre": "BERNAL"
+ },
+ {
+  "id_localidad": 1781,
+  "id_partido": 103,
+  "nombre": "BERNAL OESTE"
+ },
+ {
+  "id_localidad": 1782,
+  "id_partido": 103,
+  "nombre": "DON BOSCO"
+ },
+ {
+  "id_localidad": 1783,
+  "id_partido": 103,
+  "nombre": "EZPELETA"
+ },
+ {
+  "id_localidad": 1784,
+  "id_partido": 103,
+  "nombre": "EZPELETA OESTE"
+ },
+ {
+  "id_localidad": 1785,
+  "id_partido": 103,
+  "nombre": "QUILMES"
+ },
+ {
+  "id_localidad": 1786,
+  "id_partido": 103,
+  "nombre": "QUILMES OESTE"
+ },
+ {
+  "id_localidad": 1787,
+  "id_partido": 103,
+  "nombre": "SAN FRANCISCO SOLANO"
+ },
+ {
+  "id_localidad": 1788,
+  "id_partido": 103,
+  "nombre": "VILLA LA FLORIDA"
+ },
+ {
+  "id_localidad": 1789,
+  "id_partido": 104,
+  "nombre": "EL JUPITER"
+ },
+ {
+  "id_localidad": 1790,
+  "id_partido": 104,
+  "nombre": "EL PARAISO"
+ },
+ {
+  "id_localidad": 1791,
+  "id_partido": 104,
+  "nombre": "EL TONELERO"
+ },
+ {
+  "id_localidad": 1792,
+  "id_partido": 104,
+  "nombre": "HERRERA"
+ },
+ {
+  "id_localidad": 1793,
+  "id_partido": 104,
+  "nombre": "LA FERIA"
+ },
+ {
+  "id_localidad": 1794,
+  "id_partido": 104,
+  "nombre": "LA INDEPENDENCIA"
+ },
+ {
+  "id_localidad": 1795,
+  "id_partido": 104,
+  "nombre": "LAS BAHAMAS"
+ },
+ {
+  "id_localidad": 1796,
+  "id_partido": 104,
+  "nombre": "LOS TOLDOS"
+ },
+ {
+  "id_localidad": 1797,
+  "id_partido": 104,
+  "nombre": "MANANTIALES CHICOS"
+ },
+ {
+  "id_localidad": 1798,
+  "id_partido": 104,
+  "nombre": "MARELLI"
+ },
+ {
+  "id_localidad": 1799,
+  "id_partido": 104,
+  "nombre": "PEREZ MILLAN"
+ },
+ {
+  "id_localidad": 1800,
+  "id_partido": 104,
+  "nombre": "RAMALLO"
+ },
+ {
+  "id_localidad": 1801,
+  "id_partido": 104,
+  "nombre": "SAN CARLOS"
+ },
+ {
+  "id_localidad": 1802,
+  "id_partido": 104,
+  "nombre": "VILLA GENERAL SAVIO"
+ },
+ {
+  "id_localidad": 1803,
+  "id_partido": 104,
+  "nombre": "VILLA RAMALLO"
+ },
+ {
+  "id_localidad": 1804,
+  "id_partido": 104,
+  "nombre": "ZINO"
+ },
+ {
+  "id_localidad": 1805,
+  "id_partido": 105,
+  "nombre": "BOCA DE TIGRE"
+ },
+ {
+  "id_localidad": 1806,
+  "id_partido": 105,
+  "nombre": "CHAPALEOFU"
+ },
+ {
+  "id_localidad": 1807,
+  "id_partido": 105,
+  "nombre": "COLONIA LANGUEYU"
+ },
+ {
+  "id_localidad": 1808,
+  "id_partido": 105,
+  "nombre": "COLONIA MARTIN FIERRO"
+ },
+ {
+  "id_localidad": 1809,
+  "id_partido": 105,
+  "nombre": "CUARTEL I"
+ },
+ {
+  "id_localidad": 1810,
+  "id_partido": 105,
+  "nombre": "DURAZNO CHICO"
+ },
+ {
+  "id_localidad": 1811,
+  "id_partido": 105,
+  "nombre": "EL BONETE"
+ },
+ {
+  "id_localidad": 1812,
+  "id_partido": 105,
+  "nombre": "EL CHALAR"
+ },
+ {
+  "id_localidad": 1813,
+  "id_partido": 105,
+  "nombre": "EL ESCONDITE"
+ },
+ {
+  "id_localidad": 1814,
+  "id_partido": 105,
+  "nombre": "EL GUALICHO"
+ },
+ {
+  "id_localidad": 1815,
+  "id_partido": 105,
+  "nombre": "LA ANDORRA"
+ },
+ {
+  "id_localidad": 1816,
+  "id_partido": 105,
+  "nombre": "LA COLORADA"
+ },
+ {
+  "id_localidad": 1817,
+  "id_partido": 105,
+  "nombre": "LA DORMIDA"
+ },
+ {
+  "id_localidad": 1818,
+  "id_partido": 105,
+  "nombre": "LA FLORIDA"
+ },
+ {
+  "id_localidad": 1819,
+  "id_partido": 105,
+  "nombre": "LA UNION"
+ },
+ {
+  "id_localidad": 1820,
+  "id_partido": 105,
+  "nombre": "LAS NEGRAS"
+ },
+ {
+  "id_localidad": 1821,
+  "id_partido": 105,
+  "nombre": "LOMA NEGRA"
+ },
+ {
+  "id_localidad": 1822,
+  "id_partido": 105,
+  "nombre": "LOMA PARTIDA"
+ },
+ {
+  "id_localidad": 1823,
+  "id_partido": 105,
+  "nombre": "LOS GALPONES"
+ },
+ {
+  "id_localidad": 1824,
+  "id_partido": 105,
+  "nombre": "LOS MELLIZOS"
+ },
+ {
+  "id_localidad": 1825,
+  "id_partido": 105,
+  "nombre": "MARTIN COLMAN"
+ },
+ {
+  "id_localidad": 1826,
+  "id_partido": 105,
+  "nombre": "MIRANDA"
+ },
+ {
+  "id_localidad": 1827,
+  "id_partido": 105,
+  "nombre": "RAUCH"
+ },
+ {
+  "id_localidad": 1828,
+  "id_partido": 105,
+  "nombre": "SAN ALBERTO"
+ },
+ {
+  "id_localidad": 1829,
+  "id_partido": 105,
+  "nombre": "SAN JOSE"
+ },
+ {
+  "id_localidad": 1830,
+  "id_partido": 105,
+  "nombre": "SANTA ADELA"
+ },
+ {
+  "id_localidad": 1831,
+  "id_partido": 106,
+  "nombre": "AMERICA"
+ },
+ {
+  "id_localidad": 1832,
+  "id_partido": 106,
+  "nombre": "CERRITO"
+ },
+ {
+  "id_localidad": 1833,
+  "id_partido": 106,
+  "nombre": "COLONIA EL BALDE"
+ },
+ {
+  "id_localidad": 1834,
+  "id_partido": 106,
+  "nombre": "CONDARCO"
+ },
+ {
+  "id_localidad": 1835,
+  "id_partido": 106,
+  "nombre": "ESTANCIA LA HAYDEE"
+ },
+ {
+  "id_localidad": 1836,
+  "id_partido": 106,
+  "nombre": "FORTIN OLAVARRIA"
+ },
+ {
+  "id_localidad": 1837,
+  "id_partido": 106,
+  "nombre": "GONZALEZ MORENO"
+ },
+ {
+  "id_localidad": 1838,
+  "id_partido": 106,
+  "nombre": "MIRA PAMPA"
+ },
+ {
+  "id_localidad": 1839,
+  "id_partido": 106,
+  "nombre": "RODEO CHICO"
+ },
+ {
+  "id_localidad": 1840,
+  "id_partido": 106,
+  "nombre": "ROOSEVELT"
+ },
+ {
+  "id_localidad": 1841,
+  "id_partido": 106,
+  "nombre": "SAN MAURICIO"
+ },
+ {
+  "id_localidad": 1842,
+  "id_partido": 106,
+  "nombre": "SANSINENA"
+ },
+ {
+  "id_localidad": 1843,
+  "id_partido": 106,
+  "nombre": "SUNDBLAD"
+ },
+ {
+  "id_localidad": 1844,
+  "id_partido": 106,
+  "nombre": "VALENTIN GOMEZ"
+ },
+ {
+  "id_localidad": 1845,
+  "id_partido": 106,
+  "nombre": "VILLA SENA"
+ },
+ {
+  "id_localidad": 1846,
+  "id_partido": 107,
+  "nombre": "BARRIO LAS MARGARITAS"
+ },
+ {
+  "id_localidad": 1847,
+  "id_partido": 107,
+  "nombre": "ESTACION SOL DE MAYO"
+ },
+ {
+  "id_localidad": 1848,
+  "id_partido": 107,
+  "nombre": "HUNTER"
+ },
+ {
+  "id_localidad": 1849,
+  "id_partido": 107,
+  "nombre": "LA BEBA"
+ },
+ {
+  "id_localidad": 1850,
+  "id_partido": 107,
+  "nombre": "LA CALDERA"
+ },
+ {
+  "id_localidad": 1851,
+  "id_partido": 107,
+  "nombre": "LA CONCEPCION"
+ },
+ {
+  "id_localidad": 1852,
+  "id_partido": 107,
+  "nombre": "LA ROJERA"
+ },
+ {
+  "id_localidad": 1853,
+  "id_partido": 107,
+  "nombre": "LA SOLEDAD"
+ },
+ {
+  "id_localidad": 1854,
+  "id_partido": 107,
+  "nombre": "LA TIGRA"
+ },
+ {
+  "id_localidad": 1855,
+  "id_partido": 107,
+  "nombre": "LA VERDE"
+ },
+ {
+  "id_localidad": 1856,
+  "id_partido": 107,
+  "nombre": "LA VIGIA"
+ },
+ {
+  "id_localidad": 1857,
+  "id_partido": 107,
+  "nombre": "LA VUELTA"
+ },
+ {
+  "id_localidad": 1858,
+  "id_partido": 107,
+  "nombre": "LA VUELTA CHICA"
+ },
+ {
+  "id_localidad": 1859,
+  "id_partido": 107,
+  "nombre": "LAS CARABELAS"
+ },
+ {
+  "id_localidad": 1860,
+  "id_partido": 107,
+  "nombre": "LAS POLVAREDAS"
+ },
+ {
+  "id_localidad": 1861,
+  "id_partido": 107,
+  "nombre": "LOS INDIOS"
+ },
+ {
+  "id_localidad": 1862,
+  "id_partido": 107,
+  "nombre": "RAFAEL OBLIGADO"
+ },
+ {
+  "id_localidad": 1863,
+  "id_partido": 107,
+  "nombre": "ROBERTO CANO"
+ },
+ {
+  "id_localidad": 1864,
+  "id_partido": 107,
+  "nombre": "ROJAS"
+ },
+ {
+  "id_localidad": 1865,
+  "id_partido": 107,
+  "nombre": "SAN BASILIO"
+ },
+ {
+  "id_localidad": 1866,
+  "id_partido": 107,
+  "nombre": "SANTA FELISA"
+ },
+ {
+  "id_localidad": 1867,
+  "id_partido": 107,
+  "nombre": "VILLA MANUEL POMAR"
+ },
+ {
+  "id_localidad": 1868,
+  "id_partido": 107,
+  "nombre": "VILLA PARQUE CECIR"
+ },
+ {
+  "id_localidad": 1869,
+  "id_partido": 108,
+  "nombre": "BELLA VISTA"
+ },
+ {
+  "id_localidad": 1870,
+  "id_partido": 108,
+  "nombre": "CARLOS BEGUERIE"
+ },
+ {
+  "id_localidad": 1871,
+  "id_partido": 108,
+  "nombre": "EL ARBOLITO"
+ },
+ {
+  "id_localidad": 1872,
+  "id_partido": 108,
+  "nombre": "EL CARDALITO"
+ },
+ {
+  "id_localidad": 1873,
+  "id_partido": 108,
+  "nombre": "EL DESCANSO"
+ },
+ {
+  "id_localidad": 1874,
+  "id_partido": 108,
+  "nombre": "EL GRAMILLAL"
+ },
+ {
+  "id_localidad": 1875,
+  "id_partido": 108,
+  "nombre": "EL PAJON"
+ },
+ {
+  "id_localidad": 1876,
+  "id_partido": 108,
+  "nombre": "EL SEXTO"
+ },
+ {
+  "id_localidad": 1877,
+  "id_partido": 108,
+  "nombre": "JUAN ATUCHA"
+ },
+ {
+  "id_localidad": 1878,
+  "id_partido": 108,
+  "nombre": "JUAN TRONCONI"
+ },
+ {
+  "id_localidad": 1879,
+  "id_partido": 108,
+  "nombre": "LA ARGENTINA"
+ },
+ {
+  "id_localidad": 1880,
+  "id_partido": 108,
+  "nombre": "LA GLORIA"
+ },
+ {
+  "id_localidad": 1881,
+  "id_partido": 108,
+  "nombre": "LA MERCED"
+ },
+ {
+  "id_localidad": 1882,
+  "id_partido": 108,
+  "nombre": "LA PAZ"
+ },
+ {
+  "id_localidad": 1883,
+  "id_partido": 108,
+  "nombre": "LA PAZ CHICA"
+ },
+ {
+  "id_localidad": 1884,
+  "id_partido": 108,
+  "nombre": "LA QUERENCIA"
+ },
+ {
+  "id_localidad": 1885,
+  "id_partido": 108,
+  "nombre": "LA REFORMA"
+ },
+ {
+  "id_localidad": 1886,
+  "id_partido": 108,
+  "nombre": "LAS TUNAS"
+ },
+ {
+  "id_localidad": 1887,
+  "id_partido": 108,
+  "nombre": "LOS MEDANOS"
+ },
+ {
+  "id_localidad": 1888,
+  "id_partido": 108,
+  "nombre": "PASO SAN JUAN"
+ },
+ {
+  "id_localidad": 1889,
+  "id_partido": 108,
+  "nombre": "ROQUE PEREZ"
+ },
+ {
+  "id_localidad": 1890,
+  "id_partido": 108,
+  "nombre": "SAN JOSE"
+ },
+ {
+  "id_localidad": 1891,
+  "id_partido": 108,
+  "nombre": "SAN MARTIN DEL DULCE"
+ },
+ {
+  "id_localidad": 1892,
+  "id_partido": 108,
+  "nombre": "SANTIAGO LARRE"
+ },
+ {
+  "id_localidad": 1893,
+  "id_partido": 109,
+  "nombre": "ABRA DEL HINOJO"
+ },
+ {
+  "id_localidad": 1894,
+  "id_partido": 109,
+  "nombre": "ALTA VISTA"
+ },
+ {
+  "id_localidad": 1895,
+  "id_partido": 109,
+  "nombre": "ARROYO CORTO"
+ },
+ {
+  "id_localidad": 1896,
+  "id_partido": 109,
+  "nombre": "COLONIA SAN MARTIN"
+ },
+ {
+  "id_localidad": 1897,
+  "id_partido": 109,
+  "nombre": "COLONIA SAN PEDRO"
+ },
+ {
+  "id_localidad": 1898,
+  "id_partido": 109,
+  "nombre": "DUFAUR"
+ },
+ {
+  "id_localidad": 1899,
+  "id_partido": 109,
+  "nombre": "EL CORTAPIE"
+ },
+ {
+  "id_localidad": 1900,
+  "id_partido": 109,
+  "nombre": "ESPARTILLAR (E)"
+ },
+ {
+  "id_localidad": 1901,
+  "id_partido": 109,
+  "nombre": "GOYENA"
+ },
+ {
+  "id_localidad": 1902,
+  "id_partido": 109,
+  "nombre": "LA COLONIA NUEVA"
+ },
+ {
+  "id_localidad": 1903,
+  "id_partido": 109,
+  "nombre": "LA NORMA"
+ },
+ {
+  "id_localidad": 1904,
+  "id_partido": 109,
+  "nombre": "LAS ENCADENADAS"
+ },
+ {
+  "id_localidad": 1905,
+  "id_partido": 109,
+  "nombre": "LAS LOMAS"
+ },
+ {
+  "id_localidad": 1906,
+  "id_partido": 109,
+  "nombre": "LAS MARIAS"
+ },
+ {
+  "id_localidad": 1907,
+  "id_partido": 109,
+  "nombre": "LOS CERRITOS"
+ },
+ {
+  "id_localidad": 1908,
+  "id_partido": 109,
+  "nombre": "PIGUE"
+ },
+ {
+  "id_localidad": 1909,
+  "id_partido": 109,
+  "nombre": "SAAVEDRA"
+ },
+ {
+  "id_localidad": 1910,
+  "id_partido": 110,
+  "nombre": "ACUÑA"
+ },
+ {
+  "id_localidad": 1911,
+  "id_partido": 110,
+  "nombre": "ALVAREZ DE TOLEDO"
+ },
+ {
+  "id_localidad": 1912,
+  "id_partido": 110,
+  "nombre": "ATUCHA"
+ },
+ {
+  "id_localidad": 1913,
+  "id_partido": 110,
+  "nombre": "BLAQUIER"
+ },
+ {
+  "id_localidad": 1914,
+  "id_partido": 110,
+  "nombre": "CAMPO VELA"
+ },
+ {
+  "id_localidad": 1915,
+  "id_partido": 110,
+  "nombre": "CAZON"
+ },
+ {
+  "id_localidad": 1916,
+  "id_partido": 110,
+  "nombre": "CUARTEL I"
+ },
+ {
+  "id_localidad": 1917,
+  "id_partido": 110,
+  "nombre": "DAMAS DE LA MISERICORDIA"
+ },
+ {
+  "id_localidad": 1918,
+  "id_partido": 110,
+  "nombre": "DEL CARRIL"
+ },
+ {
+  "id_localidad": 1919,
+  "id_partido": 110,
+  "nombre": "EL ARENAL DEL CARMEN"
+ },
+ {
+  "id_localidad": 1920,
+  "id_partido": 110,
+  "nombre": "EL MANGRULLO"
+ },
+ {
+  "id_localidad": 1921,
+  "id_partido": 110,
+  "nombre": "EL NARANJO"
+ },
+ {
+  "id_localidad": 1922,
+  "id_partido": 110,
+  "nombre": "EL PUENTE"
+ },
+ {
+  "id_localidad": 1923,
+  "id_partido": 110,
+  "nombre": "EMILIANO REYNOSO"
+ },
+ {
+  "id_localidad": 1924,
+  "id_partido": 110,
+  "nombre": "LA ARGENTINA"
+ },
+ {
+  "id_localidad": 1925,
+  "id_partido": 110,
+  "nombre": "LA BARRANCOSA"
+ },
+ {
+  "id_localidad": 1926,
+  "id_partido": 110,
+  "nombre": "LA BLANQUEADA"
+ },
+ {
+  "id_localidad": 1927,
+  "id_partido": 110,
+  "nombre": "LA CAMPANA"
+ },
+ {
+  "id_localidad": 1928,
+  "id_partido": 110,
+  "nombre": "LA FORTUNA"
+ },
+ {
+  "id_localidad": 1929,
+  "id_partido": 110,
+  "nombre": "LA GARITA"
+ },
+ {
+  "id_localidad": 1930,
+  "id_partido": 110,
+  "nombre": "LA MARGARITA"
+ },
+ {
+  "id_localidad": 1931,
+  "id_partido": 110,
+  "nombre": "LOS GUAYCOS"
+ },
+ {
+  "id_localidad": 1932,
+  "id_partido": 110,
+  "nombre": "MARIA ANTONIETA"
+ },
+ {
+  "id_localidad": 1933,
+  "id_partido": 110,
+  "nombre": "NUEVA GRANADA"
+ },
+ {
+  "id_localidad": 1934,
+  "id_partido": 110,
+  "nombre": "POLVAREDAS"
+ },
+ {
+  "id_localidad": 1935,
+  "id_partido": 110,
+  "nombre": "RENACO"
+ },
+ {
+  "id_localidad": 1936,
+  "id_partido": 110,
+  "nombre": "SALADILLO"
+ },
+ {
+  "id_localidad": 1937,
+  "id_partido": 110,
+  "nombre": "SALADILLO NORTE"
+ },
+ {
+  "id_localidad": 1938,
+  "id_partido": 110,
+  "nombre": "SAN BENITO"
+ },
+ {
+  "id_localidad": 1939,
+  "id_partido": 110,
+  "nombre": "SAN BLAS"
+ },
+ {
+  "id_localidad": 1940,
+  "id_partido": 110,
+  "nombre": "SAN PEDRO"
+ },
+ {
+  "id_localidad": 1941,
+  "id_partido": 111,
+  "nombre": "QUENUMA"
+ },
+ {
+  "id_localidad": 1942,
+  "id_partido": 111,
+  "nombre": "SALLIQUELO"
+ },
+ {
+  "id_localidad": 1943,
+  "id_partido": 112,
+  "nombre": "ARROYO DULCE"
+ },
+ {
+  "id_localidad": 1944,
+  "id_partido": 112,
+  "nombre": "BERDIER"
+ },
+ {
+  "id_localidad": 1945,
+  "id_partido": 112,
+  "nombre": "CAMPO BLANCO"
+ },
+ {
+  "id_localidad": 1946,
+  "id_partido": 112,
+  "nombre": "COLONIA EL RINCON"
+ },
+ {
+  "id_localidad": 1947,
+  "id_partido": 112,
+  "nombre": "CRISOL"
+ },
+ {
+  "id_localidad": 1948,
+  "id_partido": 112,
+  "nombre": "EL HARAS"
+ },
+ {
+  "id_localidad": 1949,
+  "id_partido": 112,
+  "nombre": "GAHAN"
+ },
+ {
+  "id_localidad": 1950,
+  "id_partido": 112,
+  "nombre": "INES INDART"
+ },
+ {
+  "id_localidad": 1951,
+  "id_partido": 112,
+  "nombre": "LA INVENCIBLE"
+ },
+ {
+  "id_localidad": 1952,
+  "id_partido": 112,
+  "nombre": "LA ISABEL"
+ },
+ {
+  "id_localidad": 1953,
+  "id_partido": 112,
+  "nombre": "LAS MULAS"
+ },
+ {
+  "id_localidad": 1954,
+  "id_partido": 112,
+  "nombre": "MONROE"
+ },
+ {
+  "id_localidad": 1955,
+  "id_partido": 112,
+  "nombre": "SALTO"
+ },
+ {
+  "id_localidad": 1956,
+  "id_partido": 112,
+  "nombre": "SAN PABLO"
+ },
+ {
+  "id_localidad": 1957,
+  "id_partido": 112,
+  "nombre": "SANTA INES"
+ },
+ {
+  "id_localidad": 1958,
+  "id_partido": 112,
+  "nombre": "SANTA ISABEL"
+ },
+ {
+  "id_localidad": 1959,
+  "id_partido": 112,
+  "nombre": "SANTA ROSA"
+ },
+ {
+  "id_localidad": 1960,
+  "id_partido": 112,
+  "nombre": "TACUARI"
+ },
+ {
+  "id_localidad": 1961,
+  "id_partido": 113,
+  "nombre": "AZCUENAGA"
+ },
+ {
+  "id_localidad": 1962,
+  "id_partido": 113,
+  "nombre": "CAMPO VAZQUEZ"
+ },
+ {
+  "id_localidad": 1963,
+  "id_partido": 113,
+  "nombre": "CULULLU"
+ },
+ {
+  "id_localidad": 1964,
+  "id_partido": 113,
+  "nombre": "EL CONDOR"
+ },
+ {
+  "id_localidad": 1965,
+  "id_partido": 113,
+  "nombre": "FRANKLIN"
+ },
+ {
+  "id_localidad": 1966,
+  "id_partido": 113,
+  "nombre": "HEAVY"
+ },
+ {
+  "id_localidad": 1967,
+  "id_partido": 113,
+  "nombre": "LA AMALIA"
+ },
+ {
+  "id_localidad": 1968,
+  "id_partido": 113,
+  "nombre": "LA FLORIDA"
+ },
+ {
+  "id_localidad": 1969,
+  "id_partido": 113,
+  "nombre": "LA PRIMAVERA"
+ },
+ {
+  "id_localidad": 1970,
+  "id_partido": 113,
+  "nombre": "LA VALEROSA"
+ },
+ {
+  "id_localidad": 1971,
+  "id_partido": 113,
+  "nombre": "LOS MANUELES"
+ },
+ {
+  "id_localidad": 1972,
+  "id_partido": 113,
+  "nombre": "SAN ALBERTO"
+ },
+ {
+  "id_localidad": 1973,
+  "id_partido": 113,
+  "nombre": "SAN ANDRES DE GILES"
+ },
+ {
+  "id_localidad": 1974,
+  "id_partido": 113,
+  "nombre": "SOLIS"
+ },
+ {
+  "id_localidad": 1975,
+  "id_partido": 113,
+  "nombre": "TUYUTI"
+ },
+ {
+  "id_localidad": 1976,
+  "id_partido": 113,
+  "nombre": "VILLA ESPIL"
+ },
+ {
+  "id_localidad": 1977,
+  "id_partido": 113,
+  "nombre": "VILLA RUIZ"
+ },
+ {
+  "id_localidad": 1978,
+  "id_partido": 113,
+  "nombre": "VILLA SAN ALBERTO"
+ },
+ {
+  "id_localidad": 1979,
+  "id_partido": 114,
+  "nombre": "CAMINO DE YAMEO"
+ },
+ {
+  "id_localidad": 1980,
+  "id_partido": 114,
+  "nombre": "DUGGAN"
+ },
+ {
+  "id_localidad": 1981,
+  "id_partido": 114,
+  "nombre": "EL MORO"
+ },
+ {
+  "id_localidad": 1982,
+  "id_partido": 114,
+  "nombre": "EL TROPEZON"
+ },
+ {
+  "id_localidad": 1983,
+  "id_partido": 114,
+  "nombre": "LA FE"
+ },
+ {
+  "id_localidad": 1984,
+  "id_partido": 114,
+  "nombre": "LA ROSADA"
+ },
+ {
+  "id_localidad": 1985,
+  "id_partido": 114,
+  "nombre": "PUENTE CASTEX"
+ },
+ {
+  "id_localidad": 1986,
+  "id_partido": 114,
+  "nombre": "SAN ANTONIO DE ARECO"
+ },
+ {
+  "id_localidad": 1987,
+  "id_partido": 114,
+  "nombre": "VAGUES"
+ },
+ {
+  "id_localidad": 1988,
+  "id_partido": 114,
+  "nombre": "VILLA LIA"
+ },
+ {
+  "id_localidad": 1989,
+  "id_partido": 115,
+  "nombre": "BALNEARIO SAN CAYETANO"
+ },
+ {
+  "id_localidad": 1990,
+  "id_partido": 115,
+  "nombre": "COLONIA RIVADAVIA"
+ },
+ {
+  "id_localidad": 1991,
+  "id_partido": 115,
+  "nombre": "CRISTIANO MUERTO"
+ },
+ {
+  "id_localidad": 1992,
+  "id_partido": 115,
+  "nombre": "EL CARRETERO"
+ },
+ {
+  "id_localidad": 1993,
+  "id_partido": 115,
+  "nombre": "EL INDIO"
+ },
+ {
+  "id_localidad": 1994,
+  "id_partido": 115,
+  "nombre": "EL PINO"
+ },
+ {
+  "id_localidad": 1995,
+  "id_partido": 115,
+  "nombre": "LA GAMA"
+ },
+ {
+  "id_localidad": 1996,
+  "id_partido": 115,
+  "nombre": "OCHANDIO"
+ },
+ {
+  "id_localidad": 1997,
+  "id_partido": 115,
+  "nombre": "SAN CAYETANO"
+ },
+ {
+  "id_localidad": 1998,
+  "id_partido": 115,
+  "nombre": "VAGNOLI"
+ },
+ {
+  "id_localidad": 1999,
+  "id_partido": 116,
+  "nombre": "2° SECCION DE ISLAS"
+ },
+ {
+  "id_localidad": 2000,
+  "id_partido": 116,
+  "nombre": "3° SECCION DE ISLAS"
+ },
+ {
+  "id_localidad": 2001,
+  "id_partido": 116,
+  "nombre": "ARROYO BORCHES"
+ },
+ {
+  "id_localidad": 2002,
+  "id_partido": 116,
+  "nombre": "ARROYO DURAZNO"
+ },
+ {
+  "id_localidad": 2003,
+  "id_partido": 116,
+  "nombre": "ARROYO LAS CAÑAS"
+ },
+ {
+  "id_localidad": 2004,
+  "id_partido": 116,
+  "nombre": "ARROYO PAY CARABI"
+ },
+ {
+  "id_localidad": 2005,
+  "id_partido": 116,
+  "nombre": "CARUPA"
+ },
+ {
+  "id_localidad": 2006,
+  "id_partido": 116,
+  "nombre": "ISALAS DE SAN FERNANDO"
+ },
+ {
+  "id_localidad": 2007,
+  "id_partido": 116,
+  "nombre": "ISLAS"
+ },
+ {
+  "id_localidad": 2008,
+  "id_partido": 116,
+  "nombre": "ISLAS DEL DELTA"
+ },
+ {
+  "id_localidad": 2009,
+  "id_partido": 116,
+  "nombre": "LA BARQUITA"
+ },
+ {
+  "id_localidad": 2010,
+  "id_partido": 116,
+  "nombre": "LAS CAÑAS"
+ },
+ {
+  "id_localidad": 2011,
+  "id_partido": 116,
+  "nombre": "PARANA MINI"
+ },
+ {
+  "id_localidad": 2012,
+  "id_partido": 116,
+  "nombre": "RIO CARABELAS"
+ },
+ {
+  "id_localidad": 2013,
+  "id_partido": 116,
+  "nombre": "SAN FERNANDO"
+ },
+ {
+  "id_localidad": 2014,
+  "id_partido": 116,
+  "nombre": "VICTORIA"
+ },
+ {
+  "id_localidad": 2015,
+  "id_partido": 116,
+  "nombre": "VILLA JARDIN"
+ },
+ {
+  "id_localidad": 2016,
+  "id_partido": 116,
+  "nombre": "VIRREYES"
+ },
+ {
+  "id_localidad": 2017,
+  "id_partido": 117,
+  "nombre": "ACASSUSO"
+ },
+ {
+  "id_localidad": 2018,
+  "id_partido": 117,
+  "nombre": "BECCAR"
+ },
+ {
+  "id_localidad": 2019,
+  "id_partido": 117,
+  "nombre": "BOULOGNE SUR MER"
+ },
+ {
+  "id_localidad": 2020,
+  "id_partido": 117,
+  "nombre": "MARTINEZ"
+ },
+ {
+  "id_localidad": 2021,
+  "id_partido": 117,
+  "nombre": "SAN ISIDRO"
+ },
+ {
+  "id_localidad": 2022,
+  "id_partido": 117,
+  "nombre": "VILLA ADELINA"
+ },
+ {
+  "id_localidad": 2023,
+  "id_partido": 118,
+  "nombre": "BELLA VISTA"
+ },
+ {
+  "id_localidad": 2024,
+  "id_partido": 118,
+  "nombre": "CAMPO DE MAYO"
+ },
+ {
+  "id_localidad": 2025,
+  "id_partido": 118,
+  "nombre": "MUÑIZ"
+ },
+ {
+  "id_localidad": 2026,
+  "id_partido": 118,
+  "nombre": "SAN MIGUEL"
+ },
+ {
+  "id_localidad": 2027,
+  "id_partido": 119,
+  "nombre": "CAMPOS SALLES"
+ },
+ {
+  "id_localidad": 2028,
+  "id_partido": 119,
+  "nombre": "CONESA"
+ },
+ {
+  "id_localidad": 2029,
+  "id_partido": 119,
+  "nombre": "CUARTEL V"
+ },
+ {
+  "id_localidad": 2030,
+  "id_partido": 119,
+  "nombre": "EREZCANO"
+ },
+ {
+  "id_localidad": 2031,
+  "id_partido": 119,
+  "nombre": "GENERAL ROJO"
+ },
+ {
+  "id_localidad": 2032,
+  "id_partido": 119,
+  "nombre": "LA ALICIA"
+ },
+ {
+  "id_localidad": 2033,
+  "id_partido": 119,
+  "nombre": "LA CLEMENCIA"
+ },
+ {
+  "id_localidad": 2034,
+  "id_partido": 119,
+  "nombre": "LA EMILIA"
+ },
+ {
+  "id_localidad": 2035,
+  "id_partido": 119,
+  "nombre": "SAN NICOLAS DE LOS ARROYOS"
+ },
+ {
+  "id_localidad": 2036,
+  "id_partido": 119,
+  "nombre": "VILLA CAMPI"
+ },
+ {
+  "id_localidad": 2037,
+  "id_partido": 119,
+  "nombre": "VILLA CANTO"
+ },
+ {
+  "id_localidad": 2038,
+  "id_partido": 119,
+  "nombre": "VILLA ESPERANZA"
+ },
+ {
+  "id_localidad": 2039,
+  "id_partido": 119,
+  "nombre": "VILLA RICCIO"
+ },
+ {
+  "id_localidad": 2040,
+  "id_partido": 120,
+  "nombre": "ALMACEN DE BASSO"
+ },
+ {
+  "id_localidad": 2041,
+  "id_partido": 120,
+  "nombre": "BAJO TALA"
+ },
+ {
+  "id_localidad": 2042,
+  "id_partido": 120,
+  "nombre": "BELADRICH"
+ },
+ {
+  "id_localidad": 2043,
+  "id_partido": 120,
+  "nombre": "COLEGIALES"
+ },
+ {
+  "id_localidad": 2044,
+  "id_partido": 120,
+  "nombre": "DEL PARDO"
+ },
+ {
+  "id_localidad": 2045,
+  "id_partido": 120,
+  "nombre": "EL CANTABRICO"
+ },
+ {
+  "id_localidad": 2046,
+  "id_partido": 120,
+  "nombre": "EL CENTRO"
+ },
+ {
+  "id_localidad": 2047,
+  "id_partido": 120,
+  "nombre": "EL DESCANSO"
+ },
+ {
+  "id_localidad": 2048,
+  "id_partido": 120,
+  "nombre": "EL ESPINILLO"
+ },
+ {
+  "id_localidad": 2049,
+  "id_partido": 120,
+  "nombre": "EL IDEAL"
+ },
+ {
+  "id_localidad": 2050,
+  "id_partido": 120,
+  "nombre": "GOBERNADOR CASTRO"
+ },
+ {
+  "id_localidad": 2051,
+  "id_partido": 120,
+  "nombre": "INGENIERO MONETA"
+ },
+ {
+  "id_localidad": 2052,
+  "id_partido": 120,
+  "nombre": "LA BOLSA"
+ },
+ {
+  "id_localidad": 2053,
+  "id_partido": 120,
+  "nombre": "LA BUENA MOZA"
+ },
+ {
+  "id_localidad": 2054,
+  "id_partido": 120,
+  "nombre": "LA CELINA"
+ },
+ {
+  "id_localidad": 2055,
+  "id_partido": 120,
+  "nombre": "LA ESTRELLA"
+ },
+ {
+  "id_localidad": 2056,
+  "id_partido": 120,
+  "nombre": "LA MATILDE"
+ },
+ {
+  "id_localidad": 2057,
+  "id_partido": 120,
+  "nombre": "LA TOSQUERA"
+ },
+ {
+  "id_localidad": 2058,
+  "id_partido": 120,
+  "nombre": "LAS CANALETAS"
+ },
+ {
+  "id_localidad": 2059,
+  "id_partido": 120,
+  "nombre": "LAS FLORES"
+ },
+ {
+  "id_localidad": 2060,
+  "id_partido": 120,
+  "nombre": "LOS MATADEROS"
+ },
+ {
+  "id_localidad": 2061,
+  "id_partido": 120,
+  "nombre": "OBLIGADO"
+ },
+ {
+  "id_localidad": 2062,
+  "id_partido": 120,
+  "nombre": "PUEBLO DOYLE"
+ },
+ {
+  "id_localidad": 2063,
+  "id_partido": 120,
+  "nombre": "RIO TALA"
+ },
+ {
+  "id_localidad": 2064,
+  "id_partido": 120,
+  "nombre": "SAN PEDRO"
+ },
+ {
+  "id_localidad": 2065,
+  "id_partido": 120,
+  "nombre": "SANTA LUCIA"
+ },
+ {
+  "id_localidad": 2066,
+  "id_partido": 120,
+  "nombre": "TABLAS"
+ },
+ {
+  "id_localidad": 2067,
+  "id_partido": 120,
+  "nombre": "VILLA JARDIN"
+ },
+ {
+  "id_localidad": 2068,
+  "id_partido": 120,
+  "nombre": "VILLA LEANDRA"
+ },
+ {
+  "id_localidad": 2069,
+  "id_partido": 120,
+  "nombre": "VILLA SARITA"
+ },
+ {
+  "id_localidad": 2070,
+  "id_partido": 121,
+  "nombre": "ALEJANDRO KORN"
+ },
+ {
+  "id_localidad": 2071,
+  "id_partido": 121,
+  "nombre": "CAMPO ARECHAVAL"
+ },
+ {
+  "id_localidad": 2072,
+  "id_partido": 121,
+  "nombre": "DOMSELAAR"
+ },
+ {
+  "id_localidad": 2073,
+  "id_partido": 121,
+  "nombre": "EL OMBU"
+ },
+ {
+  "id_localidad": 2074,
+  "id_partido": 121,
+  "nombre": "SAMBOROMBON"
+ },
+ {
+  "id_localidad": 2075,
+  "id_partido": 121,
+  "nombre": "SAN VICENTE"
+ },
+ {
+  "id_localidad": 2076,
+  "id_partido": 121,
+  "nombre": "SANTA ROSA"
+ },
+ {
+  "id_localidad": 2077,
+  "id_partido": 122,
+  "nombre": "CUARTEL IV"
+ },
+ {
+  "id_localidad": 2078,
+  "id_partido": 122,
+  "nombre": "CUARTEL IX"
+ },
+ {
+  "id_localidad": 2079,
+  "id_partido": 122,
+  "nombre": "CUARTEL VIII"
+ },
+ {
+  "id_localidad": 2080,
+  "id_partido": 122,
+  "nombre": "ESTACION LA NEGRA"
+ },
+ {
+  "id_localidad": 2081,
+  "id_partido": 122,
+  "nombre": "GENERAL RIVAS"
+ },
+ {
+  "id_localidad": 2082,
+  "id_partido": 122,
+  "nombre": "LA DULCE"
+ },
+ {
+  "id_localidad": 2083,
+  "id_partido": 122,
+  "nombre": "LOS CARDALES"
+ },
+ {
+  "id_localidad": 2084,
+  "id_partido": 122,
+  "nombre": "RUTA 5 KM 132"
+ },
+ {
+  "id_localidad": 2085,
+  "id_partido": 122,
+  "nombre": "SUIPACHA"
+ },
+ {
+  "id_localidad": 2086,
+  "id_partido": 123,
+  "nombre": "ARROYO SECO"
+ },
+ {
+  "id_localidad": 2087,
+  "id_partido": 123,
+  "nombre": "AZUCENA"
+ },
+ {
+  "id_localidad": 2088,
+  "id_partido": 123,
+  "nombre": "BASE AEREA TANDIL"
+ },
+ {
+  "id_localidad": 2089,
+  "id_partido": 123,
+  "nombre": "COLONIA MARIANO MORENO"
+ },
+ {
+  "id_localidad": 2090,
+  "id_partido": 123,
+  "nombre": "DE LA CANAL"
+ },
+ {
+  "id_localidad": 2091,
+  "id_partido": 123,
+  "nombre": "EL CARMEN"
+ },
+ {
+  "id_localidad": 2092,
+  "id_partido": 123,
+  "nombre": "EL CENTINELA"
+ },
+ {
+  "id_localidad": 2093,
+  "id_partido": 123,
+  "nombre": "EL DESTINO"
+ },
+ {
+  "id_localidad": 2094,
+  "id_partido": 123,
+  "nombre": "EL GALLO"
+ },
+ {
+  "id_localidad": 2095,
+  "id_partido": 123,
+  "nombre": "EL REMANSO"
+ },
+ {
+  "id_localidad": 2096,
+  "id_partido": 123,
+  "nombre": "EL SOLCITO"
+ },
+ {
+  "id_localidad": 2097,
+  "id_partido": 123,
+  "nombre": "FULTON"
+ },
+ {
+  "id_localidad": 2098,
+  "id_partido": 123,
+  "nombre": "GARDEY"
+ },
+ {
+  "id_localidad": 2099,
+  "id_partido": 123,
+  "nombre": "HARAS GENERAL LAVALLE"
+ },
+ {
+  "id_localidad": 2100,
+  "id_partido": 123,
+  "nombre": "IRAOLA"
+ },
+ {
+  "id_localidad": 2101,
+  "id_partido": 123,
+  "nombre": "LA PACIFICA"
+ },
+ {
+  "id_localidad": 2102,
+  "id_partido": 123,
+  "nombre": "LA PASTORA"
+ },
+ {
+  "id_localidad": 2103,
+  "id_partido": 123,
+  "nombre": "LA PESQUERIA"
+ },
+ {
+  "id_localidad": 2104,
+  "id_partido": 123,
+  "nombre": "LA PORTEÑA"
+ },
+ {
+  "id_localidad": 2105,
+  "id_partido": 123,
+  "nombre": "LA ROSADA"
+ },
+ {
+  "id_localidad": 2106,
+  "id_partido": 123,
+  "nombre": "LA UNION"
+ },
+ {
+  "id_localidad": 2107,
+  "id_partido": 123,
+  "nombre": "LA VASCONIA"
+ },
+ {
+  "id_localidad": 2108,
+  "id_partido": 123,
+  "nombre": "LAS NUMANCIAS"
+ },
+ {
+  "id_localidad": 2109,
+  "id_partido": 123,
+  "nombre": "LOS HUESOS"
+ },
+ {
+  "id_localidad": 2110,
+  "id_partido": 123,
+  "nombre": "LOS MIMBRES"
+ },
+ {
+  "id_localidad": 2111,
+  "id_partido": 123,
+  "nombre": "MARIA IGNACIA"
+ },
+ {
+  "id_localidad": 2112,
+  "id_partido": 123,
+  "nombre": "PINAR DE LA SIERRA"
+ },
+ {
+  "id_localidad": 2113,
+  "id_partido": 123,
+  "nombre": "SAN ANTONIO"
+ },
+ {
+  "id_localidad": 2114,
+  "id_partido": 123,
+  "nombre": "SAN LORENZO"
+ },
+ {
+  "id_localidad": 2115,
+  "id_partido": 123,
+  "nombre": "SANTA ANA"
+ },
+ {
+  "id_localidad": 2116,
+  "id_partido": 123,
+  "nombre": "SANTA TERESA"
+ },
+ {
+  "id_localidad": 2117,
+  "id_partido": 123,
+  "nombre": "TANDIL"
+ },
+ {
+  "id_localidad": 2118,
+  "id_partido": 124,
+  "nombre": "ALTONA"
+ },
+ {
+  "id_localidad": 2119,
+  "id_partido": 124,
+  "nombre": "ARCE HERMANOS"
+ },
+ {
+  "id_localidad": 2120,
+  "id_partido": 124,
+  "nombre": "CAMPODONICO"
+ },
+ {
+  "id_localidad": 2121,
+  "id_partido": 124,
+  "nombre": "COVELLO"
+ },
+ {
+  "id_localidad": 2122,
+  "id_partido": 124,
+  "nombre": "CROTTO"
+ },
+ {
+  "id_localidad": 2123,
+  "id_partido": 124,
+  "nombre": "EL CASTELLANO"
+ },
+ {
+  "id_localidad": 2124,
+  "id_partido": 124,
+  "nombre": "EL COMBATE"
+ },
+ {
+  "id_localidad": 2125,
+  "id_partido": 124,
+  "nombre": "EL MIRADOR"
+ },
+ {
+  "id_localidad": 2126,
+  "id_partido": 124,
+  "nombre": "EL RETIRO"
+ },
+ {
+  "id_localidad": 2127,
+  "id_partido": 124,
+  "nombre": "EL SAUCE"
+ },
+ {
+  "id_localidad": 2128,
+  "id_partido": 124,
+  "nombre": "EL TUYUTI"
+ },
+ {
+  "id_localidad": 2129,
+  "id_partido": 124,
+  "nombre": "EUFEMIO UBALLES"
+ },
+ {
+  "id_localidad": 2130,
+  "id_partido": 124,
+  "nombre": "LA PALOMA"
+ },
+ {
+  "id_localidad": 2131,
+  "id_partido": 124,
+  "nombre": "LA PROTEGIDA"
+ },
+ {
+  "id_localidad": 2132,
+  "id_partido": 124,
+  "nombre": "LOS JACINTOS"
+ },
+ {
+  "id_localidad": 2133,
+  "id_partido": 124,
+  "nombre": "QUINTAS DE TAPALQUE"
+ },
+ {
+  "id_localidad": 2134,
+  "id_partido": 124,
+  "nombre": "SABBI"
+ },
+ {
+  "id_localidad": 2135,
+  "id_partido": 124,
+  "nombre": "SAN BERNARDO"
+ },
+ {
+  "id_localidad": 2136,
+  "id_partido": 124,
+  "nombre": "SANTA MARTA"
+ },
+ {
+  "id_localidad": 2137,
+  "id_partido": 124,
+  "nombre": "SANTA ROSA"
+ },
+ {
+  "id_localidad": 2138,
+  "id_partido": 124,
+  "nombre": "TAPALQUE"
+ },
+ {
+  "id_localidad": 2139,
+  "id_partido": 124,
+  "nombre": "VELLOSO"
+ },
+ {
+  "id_localidad": 2140,
+  "id_partido": 124,
+  "nombre": "YERBAS"
+ },
+ {
+  "id_localidad": 2141,
+  "id_partido": 125,
+  "nombre": "BENAVIDEZ"
+ },
+ {
+  "id_localidad": 2142,
+  "id_partido": 125,
+  "nombre": "DIQUE LUJAN"
+ },
+ {
+  "id_localidad": 2143,
+  "id_partido": 125,
+  "nombre": "DON TORCUATO ESTE"
+ },
+ {
+  "id_localidad": 2144,
+  "id_partido": 125,
+  "nombre": "DON TORCUATO OESTE"
+ },
+ {
+  "id_localidad": 2145,
+  "id_partido": 125,
+  "nombre": "EL TALAR"
+ },
+ {
+  "id_localidad": 2146,
+  "id_partido": 125,
+  "nombre": "GENERAL PACHECO"
+ },
+ {
+  "id_localidad": 2147,
+  "id_partido": 125,
+  "nombre": "ISLAS"
+ },
+ {
+  "id_localidad": 2148,
+  "id_partido": 125,
+  "nombre": "LOS TRONCOS DEL TALAR"
+ },
+ {
+  "id_localidad": 2149,
+  "id_partido": 125,
+  "nombre": "RICARDO ROJAS"
+ },
+ {
+  "id_localidad": 2150,
+  "id_partido": 125,
+  "nombre": "RINCON DE MILBERG"
+ },
+ {
+  "id_localidad": 2151,
+  "id_partido": 125,
+  "nombre": "TIGRE"
+ },
+ {
+  "id_localidad": 2152,
+  "id_partido": 125,
+  "nombre": "TRES BOCAS"
+ },
+ {
+  "id_localidad": 2153,
+  "id_partido": 126,
+  "nombre": "EL CENTINELA"
+ },
+ {
+  "id_localidad": 2154,
+  "id_partido": 126,
+  "nombre": "EL MEDANO"
+ },
+ {
+  "id_localidad": 2155,
+  "id_partido": 126,
+  "nombre": "EL MONTE"
+ },
+ {
+  "id_localidad": 2156,
+  "id_partido": 126,
+  "nombre": "GENERAL CONESA"
+ },
+ {
+  "id_localidad": 2157,
+  "id_partido": 126,
+  "nombre": "LA CORVINA"
+ },
+ {
+  "id_localidad": 2158,
+  "id_partido": 126,
+  "nombre": "LAS VIBORAS"
+ },
+ {
+  "id_localidad": 2159,
+  "id_partido": 126,
+  "nombre": "VILLA ROCH"
+ },
+ {
+  "id_localidad": 2160,
+  "id_partido": 127,
+  "nombre": "BERRAONDO"
+ },
+ {
+  "id_localidad": 2161,
+  "id_partido": 127,
+  "nombre": "CHASICO"
+ },
+ {
+  "id_localidad": 2162,
+  "id_partido": 127,
+  "nombre": "CHOIQUE"
+ },
+ {
+  "id_localidad": 2163,
+  "id_partido": 127,
+  "nombre": "DIQUE PASO PIEDRAS"
+ },
+ {
+  "id_localidad": 2164,
+  "id_partido": 127,
+  "nombre": "EL PILAR"
+ },
+ {
+  "id_localidad": 2165,
+  "id_partido": 127,
+  "nombre": "ESTOMBA"
+ },
+ {
+  "id_localidad": 2166,
+  "id_partido": 127,
+  "nombre": "FORTIN CHACO"
+ },
+ {
+  "id_localidad": 2167,
+  "id_partido": 127,
+  "nombre": "FUERTE ARGENTINO"
+ },
+ {
+  "id_localidad": 2168,
+  "id_partido": 127,
+  "nombre": "LA ESTHER"
+ },
+ {
+  "id_localidad": 2169,
+  "id_partido": 127,
+  "nombre": "LA QUERENCIA"
+ },
+ {
+  "id_localidad": 2170,
+  "id_partido": 127,
+  "nombre": "LOS CHILENOS"
+ },
+ {
+  "id_localidad": 2171,
+  "id_partido": 127,
+  "nombre": "NAVIDAD"
+ },
+ {
+  "id_localidad": 2172,
+  "id_partido": 127,
+  "nombre": "NUEVA ROMA"
+ },
+ {
+  "id_localidad": 2173,
+  "id_partido": 127,
+  "nombre": "PELICURA"
+ },
+ {
+  "id_localidad": 2174,
+  "id_partido": 127,
+  "nombre": "RODOLFO FUNKE"
+ },
+ {
+  "id_localidad": 2175,
+  "id_partido": 127,
+  "nombre": "SALDUNGARAY"
+ },
+ {
+  "id_localidad": 2176,
+  "id_partido": 127,
+  "nombre": "SAUCE CHICO"
+ },
+ {
+  "id_localidad": 2177,
+  "id_partido": 127,
+  "nombre": "SIERRA DE LA VENTANA"
+ },
+ {
+  "id_localidad": 2178,
+  "id_partido": 127,
+  "nombre": "SOMBRA DE TORO"
+ },
+ {
+  "id_localidad": 2179,
+  "id_partido": 127,
+  "nombre": "TORNQUIST"
+ },
+ {
+  "id_localidad": 2180,
+  "id_partido": 127,
+  "nombre": "TRES PICOS"
+ },
+ {
+  "id_localidad": 2181,
+  "id_partido": 127,
+  "nombre": "VILLA SERRANA LA GRUTA"
+ },
+ {
+  "id_localidad": 2182,
+  "id_partido": 127,
+  "nombre": "VILLA VENTANA"
+ },
+ {
+  "id_localidad": 2183,
+  "id_partido": 128,
+  "nombre": "30 DE AGOSTO"
+ },
+ {
+  "id_localidad": 2184,
+  "id_partido": 128,
+  "nombre": "BERUTTI"
+ },
+ {
+  "id_localidad": 2185,
+  "id_partido": 128,
+  "nombre": "COLONIA EL MATE"
+ },
+ {
+  "id_localidad": 2186,
+  "id_partido": 128,
+  "nombre": "COLONIA MANUEL 1°"
+ },
+ {
+  "id_localidad": 2187,
+  "id_partido": 128,
+  "nombre": "COLONIA MARTIN FIERRO"
+ },
+ {
+  "id_localidad": 2188,
+  "id_partido": 128,
+  "nombre": "COLONIA SANTA ANA"
+ },
+ {
+  "id_localidad": 2189,
+  "id_partido": 128,
+  "nombre": "CORAZZI"
+ },
+ {
+  "id_localidad": 2190,
+  "id_partido": 128,
+  "nombre": "DUHAU"
+ },
+ {
+  "id_localidad": 2191,
+  "id_partido": 128,
+  "nombre": "EL CORRENTINO"
+ },
+ {
+  "id_localidad": 2192,
+  "id_partido": 128,
+  "nombre": "ELVIRA"
+ },
+ {
+  "id_localidad": 2193,
+  "id_partido": 128,
+  "nombre": "FRANCISCO DE VITORIA"
+ },
+ {
+  "id_localidad": 2194,
+  "id_partido": 128,
+  "nombre": "FRANCISCO MAGNANO"
+ },
+ {
+  "id_localidad": 2195,
+  "id_partido": 128,
+  "nombre": "GIRODIAS"
+ },
+ {
+  "id_localidad": 2196,
+  "id_partido": 128,
+  "nombre": "LA ATALAYA"
+ },
+ {
+  "id_localidad": 2197,
+  "id_partido": 128,
+  "nombre": "LA CANDELARIA"
+ },
+ {
+  "id_localidad": 2198,
+  "id_partido": 128,
+  "nombre": "LA CARRETA"
+ },
+ {
+  "id_localidad": 2199,
+  "id_partido": 128,
+  "nombre": "LA MARIA"
+ },
+ {
+  "id_localidad": 2200,
+  "id_partido": 128,
+  "nombre": "LA ZANJA"
+ },
+ {
+  "id_localidad": 2201,
+  "id_partido": 128,
+  "nombre": "LAS GUASQUITAS"
+ },
+ {
+  "id_localidad": 2202,
+  "id_partido": 128,
+  "nombre": "LAS TUNAS"
+ },
+ {
+  "id_localidad": 2203,
+  "id_partido": 128,
+  "nombre": "LERTORA"
+ },
+ {
+  "id_localidad": 2204,
+  "id_partido": 128,
+  "nombre": "LOS CHAÑARES"
+ },
+ {
+  "id_localidad": 2205,
+  "id_partido": 128,
+  "nombre": "MARI LAUQUEN"
+ },
+ {
+  "id_localidad": 2206,
+  "id_partido": 128,
+  "nombre": "MAYA"
+ },
+ {
+  "id_localidad": 2207,
+  "id_partido": 128,
+  "nombre": "NUEVA CASTILLA"
+ },
+ {
+  "id_localidad": 2208,
+  "id_partido": 128,
+  "nombre": "PRIMERA JUNTA"
+ },
+ {
+  "id_localidad": 2209,
+  "id_partido": 128,
+  "nombre": "SAN EDUARDO"
+ },
+ {
+  "id_localidad": 2210,
+  "id_partido": 128,
+  "nombre": "SAN PEDRO"
+ },
+ {
+  "id_localidad": 2211,
+  "id_partido": 128,
+  "nombre": "SANTA CATALINA"
+ },
+ {
+  "id_localidad": 2212,
+  "id_partido": 128,
+  "nombre": "TRENQUE LAUQUEN"
+ },
+ {
+  "id_localidad": 2213,
+  "id_partido": 128,
+  "nombre": "TRONGE"
+ },
+ {
+  "id_localidad": 2214,
+  "id_partido": 129,
+  "nombre": "BALNEARIO ORENSE"
+ },
+ {
+  "id_localidad": 2215,
+  "id_partido": 129,
+  "nombre": "CLAROMECO"
+ },
+ {
+  "id_localidad": 2216,
+  "id_partido": 129,
+  "nombre": "COLONIA SAN JUAN DE BELLOCQ"
+ },
+ {
+  "id_localidad": 2217,
+  "id_partido": 129,
+  "nombre": "COPETONAS"
+ },
+ {
+  "id_localidad": 2218,
+  "id_partido": 129,
+  "nombre": "DUNAMAR"
+ },
+ {
+  "id_localidad": 2219,
+  "id_partido": 129,
+  "nombre": "EL CARRETERO"
+ },
+ {
+  "id_localidad": 2220,
+  "id_partido": 129,
+  "nombre": "EL TRIANGULO"
+ },
+ {
+  "id_localidad": 2221,
+  "id_partido": 129,
+  "nombre": "HUESO CLAVADO"
+ },
+ {
+  "id_localidad": 2222,
+  "id_partido": 129,
+  "nombre": "LA CONSTANCIA"
+ },
+ {
+  "id_localidad": 2223,
+  "id_partido": 129,
+  "nombre": "LA HORQUETA"
+ },
+ {
+  "id_localidad": 2224,
+  "id_partido": 129,
+  "nombre": "LA JOSEFINA"
+ },
+ {
+  "id_localidad": 2225,
+  "id_partido": 129,
+  "nombre": "LA MANGA"
+ },
+ {
+  "id_localidad": 2226,
+  "id_partido": 129,
+  "nombre": "LA POLONIA"
+ },
+ {
+  "id_localidad": 2227,
+  "id_partido": 129,
+  "nombre": "LA SORTIJA"
+ },
+ {
+  "id_localidad": 2228,
+  "id_partido": 129,
+  "nombre": "LA VICTORIA"
+ },
+ {
+  "id_localidad": 2229,
+  "id_partido": 129,
+  "nombre": "LAS VAQUERIAS"
+ },
+ {
+  "id_localidad": 2230,
+  "id_partido": 129,
+  "nombre": "LIN CALEL"
+ },
+ {
+  "id_localidad": 2231,
+  "id_partido": 129,
+  "nombre": "MICAELA CASCALLARES"
+ },
+ {
+  "id_localidad": 2232,
+  "id_partido": 129,
+  "nombre": "ORENSE"
+ },
+ {
+  "id_localidad": 2233,
+  "id_partido": 129,
+  "nombre": "PUENTE CARUCHO"
+ },
+ {
+  "id_localidad": 2234,
+  "id_partido": 129,
+  "nombre": "PUENTE SUBMARINO PERAL"
+ },
+ {
+  "id_localidad": 2235,
+  "id_partido": 129,
+  "nombre": "RETA"
+ },
+ {
+  "id_localidad": 2236,
+  "id_partido": 129,
+  "nombre": "RUTA 3 KM 489"
+ },
+ {
+  "id_localidad": 2237,
+  "id_partido": 129,
+  "nombre": "RUTA 3 KM 490"
+ },
+ {
+  "id_localidad": 2238,
+  "id_partido": 129,
+  "nombre": "SAN FRANCISCO DE BELLOCQ"
+ },
+ {
+  "id_localidad": 2239,
+  "id_partido": 129,
+  "nombre": "SAN MAYOL"
+ },
+ {
+  "id_localidad": 2240,
+  "id_partido": 129,
+  "nombre": "TRES ARROYOS"
+ },
+ {
+  "id_localidad": 2241,
+  "id_partido": 129,
+  "nombre": "VILLA RODRIGUEZ"
+ },
+ {
+  "id_localidad": 2242,
+  "id_partido": 130,
+  "nombre": "11 DE SEPTIEMBRE"
+ },
+ {
+  "id_localidad": 2243,
+  "id_partido": 130,
+  "nombre": "CASEROS"
+ },
+ {
+  "id_localidad": 2244,
+  "id_partido": 130,
+  "nombre": "CHURRUCA"
+ },
+ {
+  "id_localidad": 2245,
+  "id_partido": 130,
+  "nombre": "CIUDAD JARDIN LOMAS DEL PALOMAR"
+ },
+ {
+  "id_localidad": 2246,
+  "id_partido": 130,
+  "nombre": "CIUDADELA"
+ },
+ {
+  "id_localidad": 2247,
+  "id_partido": 130,
+  "nombre": "EL LIBERTADOR"
+ },
+ {
+  "id_localidad": 2248,
+  "id_partido": 130,
+  "nombre": "JOSE INGENIEROS"
+ },
+ {
+  "id_localidad": 2249,
+  "id_partido": 130,
+  "nombre": "LOMA HERMOSA"
+ },
+ {
+  "id_localidad": 2250,
+  "id_partido": 130,
+  "nombre": "MARTIN CORONADO"
+ },
+ {
+  "id_localidad": 2251,
+  "id_partido": 130,
+  "nombre": "PABLO PODESTA"
+ },
+ {
+  "id_localidad": 2252,
+  "id_partido": 130,
+  "nombre": "REMEDIOS DE ESCALADA"
+ },
+ {
+  "id_localidad": 2253,
+  "id_partido": 130,
+  "nombre": "SAENZ PEÑA"
+ },
+ {
+  "id_localidad": 2254,
+  "id_partido": 130,
+  "nombre": "SANTOS LUGARES"
+ },
+ {
+  "id_localidad": 2255,
+  "id_partido": 130,
+  "nombre": "VILLA BOSCH (EST. JUAN MARIA BOSCH)"
+ },
+ {
+  "id_localidad": 2256,
+  "id_partido": 130,
+  "nombre": "VILLA RAFFO"
+ },
+ {
+  "id_localidad": 2257,
+  "id_partido": 131,
+  "nombre": "COLONIA 17"
+ },
+ {
+  "id_localidad": 2258,
+  "id_partido": 131,
+  "nombre": "COLONIA MORENO"
+ },
+ {
+  "id_localidad": 2259,
+  "id_partido": 131,
+  "nombre": "INGENIERO THOMPSON"
+ },
+ {
+  "id_localidad": 2260,
+  "id_partido": 131,
+  "nombre": "LA ADELA"
+ },
+ {
+  "id_localidad": 2261,
+  "id_partido": 131,
+  "nombre": "LA GRANDE DEL SUD"
+ },
+ {
+  "id_localidad": 2262,
+  "id_partido": 131,
+  "nombre": "LOS AGRARIOS"
+ },
+ {
+  "id_localidad": 2263,
+  "id_partido": 131,
+  "nombre": "PEHUELCHES"
+ },
+ {
+  "id_localidad": 2264,
+  "id_partido": 131,
+  "nombre": "PUELCHES"
+ },
+ {
+  "id_localidad": 2265,
+  "id_partido": 131,
+  "nombre": "TRES LOMAS"
+ },
+ {
+  "id_localidad": 2266,
+  "id_partido": 132,
+  "nombre": "CARAPACHAY"
+ },
+ {
+  "id_localidad": 2267,
+  "id_partido": 132,
+  "nombre": "FLORIDA"
+ },
+ {
+  "id_localidad": 2268,
+  "id_partido": 132,
+  "nombre": "FLORIDA OESTE"
+ },
+ {
+  "id_localidad": 2269,
+  "id_partido": 132,
+  "nombre": "LA LUCILA"
+ },
+ {
+  "id_localidad": 2270,
+  "id_partido": 132,
+  "nombre": "MUNRO"
+ },
+ {
+  "id_localidad": 2271,
+  "id_partido": 132,
+  "nombre": "OLIVOS"
+ },
+ {
+  "id_localidad": 2272,
+  "id_partido": 132,
+  "nombre": "VICENTE LOPEZ"
+ },
+ {
+  "id_localidad": 2273,
+  "id_partido": 132,
+  "nombre": "VILLA ADELINA"
+ },
+ {
+  "id_localidad": 2274,
+  "id_partido": 132,
+  "nombre": "VILLA MARTELLI"
+ },
+ {
+  "id_localidad": 2275,
+  "id_partido": 133,
+  "nombre": "MAR AZUL"
+ },
+ {
+  "id_localidad": 2276,
+  "id_partido": 133,
+  "nombre": "MAR DE LAS PAMPAS"
+ },
+ {
+  "id_localidad": 2277,
+  "id_partido": 133,
+  "nombre": "VILLA GESELL"
+ },
+ {
+  "id_localidad": 2278,
+  "id_partido": 134,
+  "nombre": "ARGERICH"
+ },
+ {
+  "id_localidad": 2279,
+  "id_partido": 134,
+  "nombre": "BELLA VISTA"
+ },
+ {
+  "id_localidad": 2280,
+  "id_partido": 134,
+  "nombre": "CHOSOICO-ALGARRO"
+ },
+ {
+  "id_localidad": 2281,
+  "id_partido": 134,
+  "nombre": "COLONIA CRAICO"
+ },
+ {
+  "id_localidad": 2282,
+  "id_partido": 134,
+  "nombre": "COLONIA ESPIE"
+ },
+ {
+  "id_localidad": 2283,
+  "id_partido": 134,
+  "nombre": "COLONIA LA MERCED"
+ },
+ {
+  "id_localidad": 2284,
+  "id_partido": 134,
+  "nombre": "COLONIA LEJARRETA"
+ },
+ {
+  "id_localidad": 2285,
+  "id_partido": 134,
+  "nombre": "COLONIA MASTRANGELO"
+ },
+ {
+  "id_localidad": 2286,
+  "id_partido": 134,
+  "nombre": "COLONIA RINCON DE LA ESPUELA"
+ },
+ {
+  "id_localidad": 2287,
+  "id_partido": 134,
+  "nombre": "COLONIA SAN ADOLFO"
+ },
+ {
+  "id_localidad": 2288,
+  "id_partido": 134,
+  "nombre": "COLONIA SAN ENRIQUE"
+ },
+ {
+  "id_localidad": 2289,
+  "id_partido": 134,
+  "nombre": "COUNTRY LOS MEDANOS"
+ },
+ {
+  "id_localidad": 2290,
+  "id_partido": 134,
+  "nombre": "EL ALBA"
+ },
+ {
+  "id_localidad": 2291,
+  "id_partido": 134,
+  "nombre": "EL CHARA"
+ },
+ {
+  "id_localidad": 2292,
+  "id_partido": 134,
+  "nombre": "EL FORTIN"
+ },
+ {
+  "id_localidad": 2293,
+  "id_partido": 134,
+  "nombre": "EL REDUCTO"
+ },
+ {
+  "id_localidad": 2294,
+  "id_partido": 134,
+  "nombre": "EL ZORRO"
+ },
+ {
+  "id_localidad": 2295,
+  "id_partido": 134,
+  "nombre": "HILARIO ASCASUBI"
+ },
+ {
+  "id_localidad": 2296,
+  "id_partido": 134,
+  "nombre": "ISLA VERDE"
+ },
+ {
+  "id_localidad": 2297,
+  "id_partido": 134,
+  "nombre": "JUAN COUSTE"
+ },
+ {
+  "id_localidad": 2298,
+  "id_partido": 134,
+  "nombre": "LA CARLOTA"
+ },
+ {
+  "id_localidad": 2299,
+  "id_partido": 134,
+  "nombre": "LA JULITA"
+ },
+ {
+  "id_localidad": 2300,
+  "id_partido": 134,
+  "nombre": "LA MASCOTA"
+ },
+ {
+  "id_localidad": 2301,
+  "id_partido": 134,
+  "nombre": "LA SELVA"
+ },
+ {
+  "id_localidad": 2302,
+  "id_partido": 134,
+  "nombre": "LAS ISLETAS"
+ },
+ {
+  "id_localidad": 2303,
+  "id_partido": 134,
+  "nombre": "LAS MASCOTAS"
+ },
+ {
+  "id_localidad": 2304,
+  "id_partido": 134,
+  "nombre": "LEJARRAGA"
+ },
+ {
+  "id_localidad": 2305,
+  "id_partido": 134,
+  "nombre": "LOS ACEBOS"
+ },
+ {
+  "id_localidad": 2306,
+  "id_partido": 134,
+  "nombre": "LOS ALFALFARES"
+ },
+ {
+  "id_localidad": 2307,
+  "id_partido": 134,
+  "nombre": "LOS SURGENTES"
+ },
+ {
+  "id_localidad": 2308,
+  "id_partido": 134,
+  "nombre": "LOTE 39"
+ },
+ {
+  "id_localidad": 2309,
+  "id_partido": 134,
+  "nombre": "MAYOR BURATOVICH"
+ },
+ {
+  "id_localidad": 2310,
+  "id_partido": 134,
+  "nombre": "MEDANOS"
+ },
+ {
+  "id_localidad": 2311,
+  "id_partido": 134,
+  "nombre": "MONTE PAQUETE"
+ },
+ {
+  "id_localidad": 2312,
+  "id_partido": 134,
+  "nombre": "MONTES DE OCA"
+ },
+ {
+  "id_localidad": 2313,
+  "id_partido": 134,
+  "nombre": "NICOLAS LEVALLE"
+ },
+ {
+  "id_localidad": 2314,
+  "id_partido": 134,
+  "nombre": "PEDRO LURO"
+ },
+ {
+  "id_localidad": 2315,
+  "id_partido": 134,
+  "nombre": "SALINA LAS BARRANCAS"
+ },
+ {
+  "id_localidad": 2316,
+  "id_partido": 134,
+  "nombre": "SAN JOSE"
+ },
+ {
+  "id_localidad": 2317,
+  "id_partido": 134,
+  "nombre": "SANTA CATALINA"
+ },
+ {
+  "id_localidad": 2318,
+  "id_partido": 134,
+  "nombre": "TENIENTE ORIGONE"
+ },
+ {
+  "id_localidad": 2319,
+  "id_partido": 135,
+  "nombre": "ATUCHA"
+ },
+ {
+  "id_localidad": 2320,
+  "id_partido": 135,
+  "nombre": "BARRIO SAAVEDRA"
+ },
+ {
+  "id_localidad": 2321,
+  "id_partido": 135,
+  "nombre": "COUNTRY CLUB EL CASCO"
+ },
+ {
+  "id_localidad": 2322,
+  "id_partido": 135,
+  "nombre": "CUARTEL V"
+ },
+ {
+  "id_localidad": 2323,
+  "id_partido": 135,
+  "nombre": "EL TATU"
+ },
+ {
+  "id_localidad": 2324,
+  "id_partido": 135,
+  "nombre": "ESCALADA"
+ },
+ {
+  "id_localidad": 2325,
+  "id_partido": 135,
+  "nombre": "ISLA BOTIJA"
+ },
+ {
+  "id_localidad": 2326,
+  "id_partido": 135,
+  "nombre": "ISLAS"
+ },
+ {
+  "id_localidad": 2327,
+  "id_partido": 135,
+  "nombre": "LA PESQUERIA"
+ },
+ {
+  "id_localidad": 2328,
+  "id_partido": 135,
+  "nombre": "LAS CUATRO ESQUINAS"
+ },
+ {
+  "id_localidad": 2329,
+  "id_partido": 135,
+  "nombre": "LAS PALMAS"
+ },
+ {
+  "id_localidad": 2330,
+  "id_partido": 135,
+  "nombre": "LIMA"
+ },
+ {
+  "id_localidad": 2331,
+  "id_partido": 135,
+  "nombre": "RUTA 9 KM 103"
+ },
+ {
+  "id_localidad": 2332,
+  "id_partido": 135,
+  "nombre": "ZARATE"
+ },
+ {
+  "id_localidad": 2333,
+  "id_partido": 136,
+  "nombre": "CONSTITUCION"
+ },
+ {
+  "id_localidad": 2334,
+  "id_partido": 136,
+  "nombre": "MONSERRAT"
+ },
+ {
+  "id_localidad": 2335,
+  "id_partido": 136,
+  "nombre": "PUERTO MADERO"
+ },
+ {
+  "id_localidad": 2336,
+  "id_partido": 136,
+  "nombre": "RETIRO"
+ },
+ {
+  "id_localidad": 2337,
+  "id_partido": 136,
+  "nombre": "SAN NICOLAS"
+ },
+ {
+  "id_localidad": 2338,
+  "id_partido": 136,
+  "nombre": "SAN TELMO"
+ },
+ {
+  "id_localidad": 2339,
+  "id_partido": 137,
+  "nombre": "FLORESTA"
+ },
+ {
+  "id_localidad": 2340,
+  "id_partido": 137,
+  "nombre": "MONTE CASTRO"
+ },
+ {
+  "id_localidad": 2341,
+  "id_partido": 137,
+  "nombre": "VELEZ SARSFIELD"
+ },
+ {
+  "id_localidad": 2342,
+  "id_partido": 137,
+  "nombre": "VERSALLES"
+ },
+ {
+  "id_localidad": 2343,
+  "id_partido": 137,
+  "nombre": "VILLA LURO"
+ },
+ {
+  "id_localidad": 2344,
+  "id_partido": 137,
+  "nombre": "VILLA REAL"
+ },
+ {
+  "id_localidad": 2345,
+  "id_partido": 138,
+  "nombre": "VILLA DEL PARQUE"
+ },
+ {
+  "id_localidad": 2346,
+  "id_partido": 138,
+  "nombre": "VILLA DEVOTO"
+ },
+ {
+  "id_localidad": 2347,
+  "id_partido": 138,
+  "nombre": "VILLA GENERAL MITRE"
+ },
+ {
+  "id_localidad": 2348,
+  "id_partido": 138,
+  "nombre": "VILLA SANTA RITA"
+ },
+ {
+  "id_localidad": 2349,
+  "id_partido": 139,
+  "nombre": "COGHLAN"
+ },
+ {
+  "id_localidad": 2350,
+  "id_partido": 139,
+  "nombre": "SAAVEDRA"
+ },
+ {
+  "id_localidad": 2351,
+  "id_partido": 139,
+  "nombre": "VILLA PUEYRREDON"
+ },
+ {
+  "id_localidad": 2352,
+  "id_partido": 139,
+  "nombre": "VILLA URQUIZA"
+ },
+ {
+  "id_localidad": 2353,
+  "id_partido": 140,
+  "nombre": "BELGRANO"
+ },
+ {
+  "id_localidad": 2354,
+  "id_partido": 140,
+  "nombre": "COLEGIALES"
+ },
+ {
+  "id_localidad": 2355,
+  "id_partido": 140,
+  "nombre": "NUÑEZ"
+ },
+ {
+  "id_localidad": 2356,
+  "id_partido": 141,
+  "nombre": "PALERMO"
+ },
+ {
+  "id_localidad": 2357,
+  "id_partido": 142,
+  "nombre": "AGRONOMIA"
+ },
+ {
+  "id_localidad": 2358,
+  "id_partido": 142,
+  "nombre": "CHACARITA"
+ },
+ {
+  "id_localidad": 2359,
+  "id_partido": 142,
+  "nombre": "PARQUE CHAS"
+ },
+ {
+  "id_localidad": 2360,
+  "id_partido": 142,
+  "nombre": "PATERNAL"
+ },
+ {
+  "id_localidad": 2361,
+  "id_partido": 142,
+  "nombre": "VILLA CRESPO"
+ },
+ {
+  "id_localidad": 2362,
+  "id_partido": 142,
+  "nombre": "VILLA ORTUZAR"
+ },
+ {
+  "id_localidad": 2363,
+  "id_partido": 143,
+  "nombre": "RECOLETA"
+ },
+ {
+  "id_localidad": 2364,
+  "id_partido": 144,
+  "nombre": "BALVANERA"
+ },
+ {
+  "id_localidad": 2365,
+  "id_partido": 144,
+  "nombre": "SAN CRISTOBAL"
+ },
+ {
+  "id_localidad": 2366,
+  "id_partido": 145,
+  "nombre": "BARRACAS"
+ },
+ {
+  "id_localidad": 2367,
+  "id_partido": 145,
+  "nombre": "BOCA"
+ },
+ {
+  "id_localidad": 2368,
+  "id_partido": 145,
+  "nombre": "NUEVA POMPEYA"
+ },
+ {
+  "id_localidad": 2369,
+  "id_partido": 145,
+  "nombre": "PARQUE PATRICIOS"
+ },
+ {
+  "id_localidad": 2370,
+  "id_partido": 146,
+  "nombre": "ALMAGRO"
+ },
+ {
+  "id_localidad": 2371,
+  "id_partido": 146,
+  "nombre": "BOEDO"
+ },
+ {
+  "id_localidad": 2372,
+  "id_partido": 147,
+  "nombre": "CABALLITO"
+ },
+ {
+  "id_localidad": 2373,
+  "id_partido": 148,
+  "nombre": "FLORES"
+ },
+ {
+  "id_localidad": 2374,
+  "id_partido": 148,
+  "nombre": "PARQUE CHACABUCO"
+ },
+ {
+  "id_localidad": 2375,
+  "id_partido": 149,
+  "nombre": "VILLA LUGANO"
+ },
+ {
+  "id_localidad": 2376,
+  "id_partido": 149,
+  "nombre": "VILLA RIACHUELO"
+ },
+ {
+  "id_localidad": 2377,
+  "id_partido": 149,
+  "nombre": "VILLA SOLDATI"
+ },
+ {
+  "id_localidad": 2378,
+  "id_partido": 150,
+  "nombre": "LINIERS"
+ },
+ {
+  "id_localidad": 2379,
+  "id_partido": 150,
+  "nombre": "MATADEROS"
+ },
+ {
+  "id_localidad": 2380,
+  "id_partido": 150,
+  "nombre": "PARQUE AVELLANEDA"
+ }
+]
