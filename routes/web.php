@@ -17,26 +17,23 @@ Route::middleware(['auth', 'verified'])->group(function () {
     })->name('dashboard');
 });
 
-//Paises
 Route::controller(PaisesController::class)->group(function () {
-    Route::get('/paises', 'index');
+    Route::get('/paises', 'index')->name('paises.index');
+    Route::get('/paises/create', 'create')->name('paises.create');
+    Route::post('/paises', 'store')->name('paises.store');
+    Route::get('/paises/{pais}/edit', 'edit')->name('paises.edit');
+    Route::put('/paises/{pais}', 'update')->name('paises.update');
+    Route::delete('/paises/{pais}', 'destroy')->name('paises.destroy');
 });
 
-//Provincias
 Route::controller(ProvinciasController::class)->group(function () {
     Route::get('/provincias', 'index');
+    Route::get('/provincias', 'create');
+    Route::post('/provincias', 'store');
+    Route::get('/provincias/{provincias}/edit', 'edit');
+    Route::get('/provincias/{provincias}', 'update');
+    Route::post('/provincias/{provincias}', 'destroy');
 });
-
-//Partidos
-Route::controller(PartidosController::class)->group(function () {
-    Route::get('/partidos', 'index');
-});
-
-//Localidades
-Route::controller(LocalidadesController::class)->group(function () {
-    Route::get('/localidades', 'index');
-});
-
 
 require __DIR__.'/settings.php';
 require __DIR__.'/auth.php';

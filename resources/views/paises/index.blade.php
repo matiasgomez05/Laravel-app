@@ -2,8 +2,13 @@
 
 @section('content')
     <div class="container mt-4">
-        <h1>Paises</h1>
-        <a href="{{ url('/paises/create') }}" class="btn btn-primary mb-3">Nuevo Pais</a>
+
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1>Países</h1>
+            <a href="{{ route('paises.create') }}" class="btn btn-primary">
+                <i class="fas fa-plus"></i> Nuevo País
+            </a>
+        </div>
         <table class="table table-striped">
             <thead>
                 <tr>
@@ -26,11 +31,11 @@
                         <td>{{ $pais->moneda }}</td>
                         <td>{{ $pais->numero_de_telefono }}</td>
                         <td>
-                            <a href="{{ url('/paises/edit', $paises) }}" class="btn btn-sm btn-warning">Editar</a>
-                            <form action="{{ url('/paises/destroy', $paises) }}" method="POST" style="display:inline;">
+                            <a href="{{ route('paises.edit', $pais->id_pais) }}" class="btn btn-sm btn-warning">Editar</a>
+                            <form action="{{ route('paises.destroy', $pais->id_pais) }}" method="POST" style="display:inline;">
                                 @csrf
                                 @method('DELETE')
-                                <button type="submit" class="btn btn-sm btn-danger">Eliminar</button>
+                                <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('¿Estás seguro de eliminar este país?')">Eliminar</button>
                             </form>
                         </td>
                     </tr>

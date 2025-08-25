@@ -8,6 +8,7 @@ class Pais extends Model
 {
     protected $table = 'Paises';
     protected $primaryKey = 'id_pais';
+    public $timestamps = false; 
 
     protected $fillable = [
         'id_pais',

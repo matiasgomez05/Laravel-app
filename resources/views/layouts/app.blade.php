@@ -16,9 +16,10 @@
     </nav>
 
     <!-- Mensajes flash -->
-    @if (session('success'))
-        <div style="background: #d4edda; color: #155724; padding: 10px; margin: 10px 0; border-radius: 4px;">
+    @if(session('success'))
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
             {{ session('success') }}
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
         </div>
     @endif
     @if (session('error'))

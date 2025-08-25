@@ -9,6 +9,7 @@ class Partido extends Model
 {
     protected $table = 'Partidos';
     protected $primaryKey = 'id_partido';
+    public $timestamps = false; 
     
     protected $fillable = [
         'id_partido',
