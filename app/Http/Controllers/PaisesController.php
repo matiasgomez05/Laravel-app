@@ -12,18 +12,25 @@ class PaisesController extends Controller
      */
     public function index(Request $request)
     {
-        $paises = Pais::all();
-        
-        // Si es una petición API
-        if ($request->expectsJson()) {
-            return response()->json([
-                'success' => true,
-                'data' => $paises
-            ]);
+        try {
+            $paises = Pais::all();
+            
+            // Si es una petición API
+            if ($request->expectsJson()) {
+                return response()->json([
+                    'success' => true,
+                    'data' => $paises
+                ]);
+            }
+            
+            // Si es una petición web
+            return view('paises.index', compact('paises'));
+            
+        } catch (\Illuminate\Database\QueryException $e) {
+            return $this->handleDatabaseError($e, $request);
+        } catch (\Exception $e) {
+            return $this->handleGeneralError($e, $request);
         }
-        
-        // Si es una petición web
-        return view('paises.index', compact('paises'));
     }
 
     /**
@@ -47,25 +54,32 @@ class PaisesController extends Controller
      */
     public function store(Request $request)
     {
-        $request->validate([
-            'nombre' => 'required|string|max:255',
-            'codigo' => 'required|string|max:255',
-            'capital' => 'required|string|max:255',
-            'moneda' => 'required|string|max:255',
-            'numero_de_telefono' => 'required|integer',
-        ]);
+        try {
+            $request->validate([
+                'nombre' => 'required|string|max:255',
+                'codigo' => 'required|string|max:255',
+                'capital' => 'required|string|max:255',
+                'moneda' => 'required|string|max:255',
+                'numero_de_telefono' => 'required|integer',
+            ]);
 
-        $pais = Pais::create($request->all());
-        
-        if ($request->expectsJson()) {
-            return response()->json([
-                'success' => true,
-                'message' => 'País creado correctamente',
-                'data' => $pais
-            ], 201);
+            $pais = Pais::create($request->all());
+            
+            if ($request->expectsJson()) {
+                return response()->json([
+                    'success' => true,
+                    'message' => 'País creado correctamente',
+                    'data' => $pais
+                ], 201);
+            }
+            
+            return redirect()->route('paises.index')->with('success', 'País creado correctamente');
+            
+        } catch (\Illuminate\Database\QueryException $e) {
+            return $this->handleDatabaseError($e, $request);
+        } catch (\Exception $e) {
+            return $this->handleGeneralError($e, $request);
         }
-        
-        return redirect()->route('paises.index')->with('success', 'País creado correctamente');
     }
 
     /**
@@ -165,5 +179,51 @@ class PaisesController extends Controller
             'message' => $message,
             'errors' => $errors
         ], $code);
+    }
+
+    /**
+     * Handle database connection errors
+     */
+    private function handleDatabaseError(\Exception $e, Request $request)
+    {
+        $errorMessage = 'Error de conexión a la base de datos. Por favor, intente nuevamente más tarde.';
+        
+        // Log the actual error for debugging
+        \Log::error('Database connection error: ' . $e->getMessage());
+        
+        if ($request->expectsJson()) {
+            return $this->errorResponse(
+                ['database' => [$errorMessage]], 
+                'Error de conexión a la base de datos', 
+                503
+            );
+        }
+        
+        return redirect()->back()
+            ->with('error', $errorMessage)
+            ->with('error_type', 'database_connection');
+    }
+
+    /**
+     * Handle general errors
+     */
+    private function handleGeneralError(\Exception $e, Request $request)
+    {
+        $errorMessage = 'Ha ocurrido un error inesperado. Por favor, intente nuevamente.';
+        
+        // Log the actual error for debugging
+        \Log::error('General error: ' . $e->getMessage());
+        
+        if ($request->expectsJson()) {
+            return $this->errorResponse(
+                ['general' => [$errorMessage]], 
+                'Error interno del servidor', 
+                500
+            );
+        }
+        
+        return redirect()->back()
+            ->with('error', $errorMessage)
+            ->with('error_type', 'general');
     }
 }

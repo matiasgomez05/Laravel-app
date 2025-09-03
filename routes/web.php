@@ -17,7 +17,7 @@ Route::middleware(['auth', 'verified'])->group(function () {
     })->name('dashboard');
 });
 
-Route::controller(PaisesController::class)->group(function () {
+Route::middleware(['db.check'])->controller(PaisesController::class)->group(function () {
     Route::get('/paises', 'index')->name('paises.index');
     Route::get('/paises/create', 'create')->name('paises.create');
     Route::post('/paises', 'store')->name('paises.store');
