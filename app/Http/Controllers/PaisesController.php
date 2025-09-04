@@ -120,11 +120,24 @@ class PaisesController extends Controller
     public function update(Request $request, Pais $pais)
     {
         $request->validate([
+            // Validaciones
             'nombre' => 'required|string|max:255',
             'codigo' => 'required|string|max:255',
             'capital' => 'required|string|max:255',
             'moneda' => 'required|string|max:255',
             'numero_de_telefono' => 'required|integer',
+        ], [
+            // Mensajes personalizados
+            'nombre.required' => 'El nombre del país es obligatorio.',
+            'nombre.max' => 'El nombre no puede superar los 255 caracteres.',
+            'codigo.required' => 'El código del país es obligatorio.',
+            'codigo.max' => 'El código no puede superar los 255 caracteres.',
+            'capital.required' => 'La capital es obligatoria.',
+            'capital.max' => 'La capital no puede superar los 255 caracteres.',
+            'moneda.required' => 'La moneda es obligatoria.',
+            'moneda.max' => 'La moneda no puede superar los 255 caracteres.',
+            'numero_de_telefono.required' => 'El número de teléfono es obligatorio.',
+            'numero_de_telefono.integer' => 'El número de teléfono debe ser un número entero.',
         ]);
 
         $pais->update($request->all());

@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Matias Gomez">
     <title>@yield('title')</title>
+    <!-- Libreria Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    
 </head>
 <body>
     <header class="navbar navbar-dark bg-dark shadow sticky-top">
@@ -17,53 +17,28 @@
         <a class="navbar-brand me-auto ms-3" href="#">Sueños en Telas</a>
         <div class="navbar-nav">
             <div class="nav-item text-nowrap">
-                <a class="nav-link px-3" href="#">Sign out</a>
+                <a class="nav-link px-3" href="#">Desconectarse</a>
             </div>
         </div>
     </header>
     <div class="container-fluid">
         <div class="row">
             <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
-                <div class="position-sticky pt-3">
+                <div class="position-sticky">
                     <ul class="nav nav-pills flex-column">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">
+                        <a class="nav-link ps-0 ms-0" aria-current="page" href="#">
                         <span data-feather="home"></span>
-                        Dashboard
+                        Inicio
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link active" href="#">
                         <span data-feather="file"></span>
-                        Orders
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">
-                        <span data-feather="shopping-cart"></span>
-                        Products
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">
-                        <span data-feather="users"></span>
-                        Customers
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">
-                        <span data-feather="bar-chart-2"></span>
-                        Reports
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">
-                        <span data-feather="layers"></span>
-                        Integrations
+                        Países
                         </a>
                     </li>
                     </ul>
-
                 </div>
             </nav>
 
@@ -91,5 +66,9 @@
         <center><small>SET v0.1.0 &copy; Matias Gomez - Todos los derechos reservados.</small></center>
     </footer>
 </body>
+<!-- Libreria Feather para iconos -->
+<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+<script>feather.replace();</script>
+<!-- Libreria Bootstrap para diseño -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </html>

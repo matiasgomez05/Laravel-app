@@ -30,7 +30,7 @@
                         @method('PUT')
                         
                         <div class="mb-3">
-                            <label for="nombre" class="form-label">Nombre del País *</label>
+                            <label for="nombre" class="form-label">Nombre del País</label>
                             <input type="text" 
                                    class="form-control @error('nombre') is-invalid @enderror" 
                                    id="nombre" 
@@ -43,7 +43,7 @@
                         </div>
 
                         <div class="mb-3">
-                            <label for="codigo" class="form-label">Código *</label>
+                            <label for="codigo" class="form-label">Código</label>
                             <input type="text" 
                                    class="form-control @error('codigo') is-invalid @enderror" 
                                    id="codigo" 
@@ -56,7 +56,7 @@
                         </div>
 
                         <div class="mb-3">
-                            <label for="capital" class="form-label">Capital *</label>
+                            <label for="capital" class="form-label">Capital</label>
                             <input type="text" 
                                    class="form-control @error('capital') is-invalid @enderror" 
                                    id="capital" 
@@ -69,7 +69,7 @@
                         </div>
 
                         <div class="mb-3">
-                            <label for="moneda" class="form-label">Moneda *</label>
+                            <label for="moneda" class="form-label">Moneda</label>
                             <input type="text" 
                                    class="form-control @error('moneda') is-invalid @enderror" 
                                    id="moneda" 
@@ -82,7 +82,7 @@
                         </div>
 
                         <div class="mb-3">
-                            <label for="numero_de_telefono" class="form-label">Número de Teléfono *</label>
+                            <label for="numero_de_telefono" class="form-label">Número de Teléfono</label>
                             <input type="number" 
                                    class="form-control @error('numero_de_telefono') is-invalid @enderror" 
                                    id="numero_de_telefono" 

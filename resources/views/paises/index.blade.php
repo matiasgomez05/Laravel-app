@@ -3,8 +3,11 @@
 @section('title', 'Listado de Paises')
 @section('content')
 
-<h2>Listado de Paises</h2>
-<div class="table-responsive mt-4">
+<div class="justify-content-between">
+    <h2>Listado de Paises</h2>
+    <a href="{{ route('paises.create') }}" class="btn btn-success d-inline ">Nuevo País</a>
+</div>
+    <div class="table-responsive mt-4">
     <table class="table table-striped">
         <thead>
             <tr>
@@ -13,7 +16,7 @@
                 <th scope="col">Codigo</th>
                 <th scope="col">Capital</th>
                 <th scope="col">Moneda</th>
-                <th scope="col">Numero de telefono</th>
+                <th scope="col">Nro de telefono</th>
                 <th scope="col">Acciones</th>
             </tr>
         </thead>
