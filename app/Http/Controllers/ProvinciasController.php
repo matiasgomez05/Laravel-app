@@ -10,10 +10,25 @@ class ProvinciasController extends Controller
     /**
      * Display a listing of the resource.
      */
-    public function index()
+    public function index(Request $request)
     {
-        $provincias = Provincia::with('pais')->paginate(20);
-        return view('provincias.index', compact('provincias'));
+        try {
+            $provincias = Provincia::paginate(20);
+            
+            // Si es una petición API
+            if ($request->expectsJson()) {
+                return response()->json([
+                    'success' => true,
+                    'data' => $provincias
+                ]);
+            }
+            
+            // Si es una petición web
+            return view('provincias.index', compact('provincias'));
+            
+        } catch (\Exception $e) {
+            return $this->handleGeneralError($e, $request);
+        }
     }
     
 

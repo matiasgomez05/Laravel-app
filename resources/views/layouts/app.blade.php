@@ -27,15 +27,21 @@
                 <div class="position-sticky">
                     <ul class="nav nav-pills flex-column">
                     <li class="nav-item">
-                        <a class="nav-link ps-0 ms-0" aria-current="page" href="#">
+                        <a class="nav-link {{ request()->routeIs('home') ? 'active' : 'ps-0 ms-0' }}" aria-current="page" href="{{ route('home') }}">
                         <span data-feather="home"></span>
                         Inicio
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="#">
+                        <a class="nav-link {{ request()->routeIs('paises.*') ? 'active' : 'ps-0 ms-0' }}" href="{{ route('paises.index') }}">
                         <span data-feather="file"></span>
                         Países
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link {{ request()->routeIs('provincias.*') ? 'active' : 'ps-0 ms-0' }}" href="{{ route('provincias.index') }}">
+                        <span data-feather="book"></span>
+                        Provincias
                         </a>
                     </li>
                     </ul>

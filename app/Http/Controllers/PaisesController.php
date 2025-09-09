@@ -13,7 +13,7 @@ class PaisesController extends Controller
     public function index(Request $request)
     {
         try {
-            $paises = Pais::all();
+            $paises = Pais::paginate(20);
             
             // Si es una petición API
             if ($request->expectsJson()) {

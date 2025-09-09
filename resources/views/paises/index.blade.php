@@ -8,6 +8,7 @@
     <a href="{{ route('paises.create') }}" class="btn btn-success d-inline ">Nuevo País</a>
 </div>
     <div class="table-responsive mt-4">
+    {{ $paises->links() }}
     <table class="table table-striped">
         <thead>
             <tr>

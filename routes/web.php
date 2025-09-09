@@ -26,13 +26,13 @@ Route::middleware(['db.check'])->controller(PaisesController::class)->group(func
     Route::delete('/paises/{pais}', 'destroy')->name('paises.destroy');
 });
 
-Route::controller(ProvinciasController::class)->group(function () {
-    Route::get('/provincias', 'index');
-    Route::get('/provincias', 'create');
-    Route::post('/provincias', 'store');
-    Route::get('/provincias/{provincias}/edit', 'edit');
-    Route::get('/provincias/{provincias}', 'update');
-    Route::post('/provincias/{provincias}', 'destroy');
+Route::middleware(['db.check'])->controller(ProvinciasController::class)->group(function () {
+    Route::get('/provincias', 'index')->name('provincias.index');
+    Route::get('/provincias/create', 'create')->name('provincias.create');
+    Route::post('/provincias', 'store')->name('provincias.store');
+    Route::get('/provincias/{provincias}/edit', 'edit')->name('provincias.edit');
+    Route::put('/provincias/{provincias}', 'update')->name('provincias.update');
+    Route::delete('/provincias/{provincias}', 'destroy')->name('provincias.destroy');
 });
 
 require __DIR__.'/settings.php';
