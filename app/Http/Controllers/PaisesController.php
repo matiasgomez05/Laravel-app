@@ -1,7 +1,6 @@
 <?php
 
 namespace App\Http\Controllers;
-
 use App\Models\Pais;
 use Illuminate\Http\Request;
 
@@ -13,17 +12,18 @@ class PaisesController extends Controller
     public function index(Request $request)
     {
         try {
-            $paises = Pais::paginate(20);
             
             // Si es una petición API
             if ($request->expectsJson()) {
+                $paises = Pais::orderBy('nombre')->get(['id_pais as id', 'nombre']); // mapea a {id, nombre}
                 return response()->json([
                     'success' => true,
-                    'data' => $paises
+                    'data' => $paises,
                 ]);
             }
             
             // Si es una petición web
+            $paises = Pais::paginate(20);
             return view('paises.index', compact('paises'));
             
         } catch (\Illuminate\Database\QueryException $e) {
@@ -77,7 +77,7 @@ class PaisesController extends Controller
             
         } catch (\Illuminate\Database\QueryException $e) {
             return $this->handleDatabaseError($e, $request);
-        } catch (\Exception $e) {
+        } catch (Exception $e) {
             return $this->handleGeneralError($e, $request);
         }
     }
@@ -158,16 +158,22 @@ class PaisesController extends Controller
      */
     public function destroy(Request $request, Pais $pais)
     {
-        $pais->delete();
-        
-        if ($request->expectsJson()) {
-            return response()->json([
-                'success' => true,
-                'message' => 'País eliminado correctamente'
-            ]);
+        try {
+            $pais->delete();
+            
+            if ($request->expectsJson()) {
+                return response()->json([
+                    'success' => true,
+                    'message' => 'País eliminado correctamente'
+                ]);
+            }
+            
+            return redirect()->route('paises.index')->with('success', 'País eliminado correctamente');
+
+        } catch (\Exception $e) {
+            \Log::error($e->getMessage());
+            return redirect()->route('paises.index')->with('error', 'Ocurrió un error al eliminar el pais, intente nuevamente.');
         }
-        
-        return redirect()->route('paises.index')->with('success', 'País eliminado correctamente');
     }
 
     /**

@@ -3,6 +3,7 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Pais extends Model
 {
@@ -18,5 +19,10 @@ class Pais extends Model
         'moneda',
         'numero_de_telefono',
     ];
+
+    public function provincias(): HasMany
+    {
+        return $this->hasMany(Provincia::class);
+    }
 
 }

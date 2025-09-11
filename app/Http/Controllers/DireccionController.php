@@ -2,10 +2,10 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Provincia;
+use App\Models\Direccion;
 use Illuminate\Http\Request;
 
-class ProvinciasController extends Controller
+class DireccionController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -13,24 +13,23 @@ class ProvinciasController extends Controller
     public function index(Request $request)
     {
         try {
-            $provincias = Provincia::paginate(20);
+            $direcciones = Direccion::paginate(20);
             
             // Si es una petición API
             if ($request->expectsJson()) {
                 return response()->json([
                     'success' => true,
-                    'data' => $provincias
+                    'data' => $direcciones
                 ]);
             }
             
             // Si es una petición web
-            return view('provincias.index', compact('provincias'));
+            return view('direcciones.index', compact('direcciones'));
             
         } catch (\Exception $e) {
             return $this->handleGeneralError($e, $request);
         }
     }
-    
 
     /**
      * Show the form for creating a new resource.
@@ -45,7 +44,7 @@ class ProvinciasController extends Controller
         }
         
         // Para web, mostrar formulario
-        return view('provincias.create');
+        return view('direcciones.create');
     }
 
     /**
@@ -59,7 +58,7 @@ class ProvinciasController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(Provincia $provincia)
+    public function show(Direccion $direccion)
     {
         //
     }
@@ -67,7 +66,7 @@ class ProvinciasController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit(Provincia $provincia)
+    public function edit(Direccion $direccion)
     {
         //
     }
@@ -75,7 +74,7 @@ class ProvinciasController extends Controller
     /**
      * Update the specified resource in storage.
      */
-    public function update(Request $request, Provincia $provincia)
+    public function update(Request $request, Direccion $direccion)
     {
         //
     }
@@ -83,9 +82,8 @@ class ProvinciasController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Provincia $provincia)
+    public function destroy(Direccion $direccion)
     {
         //
     }
-    
 }

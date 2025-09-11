@@ -2,8 +2,10 @@
 
 namespace App\Models;
 use App\Models\Pais;
+use App\Models\Partido;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Provincia extends Model
 {
@@ -20,5 +22,10 @@ class Provincia extends Model
     public function pais(): BelongsTo
     {
         return $this->BelongsTo(Pais::class, "id_pais" ,"id_pais");
+    }
+
+    public function partidos(): HasMany
+    {
+        return $this->hasMany(Partido::class);
     }
 }

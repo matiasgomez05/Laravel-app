@@ -1,9 +1,12 @@
 <?php
 
 namespace App\Models;
+
 use App\Models\Partido;
+use App\Models\Direccion;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Localidad extends Model
 {
@@ -19,5 +22,10 @@ class Localidad extends Model
     public function partido(): BelongsTo
     {
         return $this->BelongsTo(Partido::class, "id_partido" ,"id_partido");
+    }
+
+    public function direcciones(): HasMany
+    {
+        return $this->hasMany(Direccion::class);
     }
 }
