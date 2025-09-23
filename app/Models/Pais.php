@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Pais extends Model
 {
-    protected $table = 'Paises';
+    protected $table = 'paises';
     protected $primaryKey = 'id_pais';
     public $timestamps = false; 
 

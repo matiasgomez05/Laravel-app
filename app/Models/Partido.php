@@ -9,7 +9,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Partido extends Model
 {
-    protected $table = 'Partidos';
+    protected $table = 'partidos';
     protected $primaryKey = 'id_partido';
     public $timestamps = false; 
     

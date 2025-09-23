@@ -13,17 +13,18 @@ class ProvinciasController extends Controller
     public function index(Request $request)
     {
         try {
-            $provincias = Provincia::paginate(20);
-            
-            // Si es una petición API
+            // Si es una petición API con filtro por país, devolver arreglo simple
             if ($request->expectsJson()) {
-                return response()->json([
-                    'success' => true,
-                    'data' => $provincias
-                ]);
+                if ($request->filled('id_pais')) {
+                    $query = Provincia::where('id_pais', $request->get('id_pais'));
+                }
+                $provincias = $query->orderBy('nombre')
+                    ->get(['id_provincia as id', 'nombre']);
+                return response()->json($provincias);
             }
-            
-            // Si es una petición web
+
+            // Petición web: paginar para la vista
+            $provincias = Provincia::paginate(20);
             return view('provincias.index', compact('provincias'));
             
         } catch (\Exception $e) {

@@ -9,7 +9,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Provincia extends Model
 {
-    protected $table = 'Provincias';
+    protected $table = 'provincias';
     protected $primaryKey = 'id_provincia';
     public $timestamps = false; 
     

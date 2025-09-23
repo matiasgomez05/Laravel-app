@@ -15,11 +15,9 @@ class PaisesController extends Controller
             
             // Si es una petición API
             if ($request->expectsJson()) {
-                $paises = Pais::orderBy('nombre')->get(['id_pais as id', 'nombre']); // mapea a {id, nombre}
-                return response()->json([
-                    'success' => true,
-                    'data' => $paises,
-                ]);
+                $paises = Pais::orderBy('nombre')
+                    ->get(['id_pais as id', 'nombre']);
+                return response()->json($paises);
             }
             
             // Si es una petición web

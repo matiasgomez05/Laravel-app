@@ -10,10 +10,22 @@ class PartidosController extends Controller
     /**
      * Display a listing of the resource.
      */
-    public function index()
+    public function index(Request $request)
     {
-        $partidos = Partido::with('provincia')->paginate(20);
-        return view('partidos.index', compact('partidos'));
+        try {
+            // Si es una petición API con filtro por provincia, devolver arreglo simple
+            if ($request->expectsJson()) {
+                if ($request->filled('id_provincia')) {
+                    $query = Partido::where('id_provincia', $request->get('id_provincia'));
+                }
+                $partidos = $query->orderBy('nombre')
+                    ->get(['id_partido as id', 'nombre']);
+                return response()->json($partidos);
+            }
+        } catch (\Exception $e) {
+            return $this->handleGeneralError($e, $request);
+        }
+        
     }
 
     /**

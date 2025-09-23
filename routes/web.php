@@ -41,8 +41,8 @@ Route::middleware(['db.check'])->controller(ProvinciasController::class)->group(
     Route::delete('/provincias/{provincias}', 'destroy')->name('provincias.destroy');
 });
 
-Route::middleware(['db.check'])->controller(PartidoController::class)->group(function () {
-    Route::get('/partidos', 'index')->name('provincias.index');
+Route::middleware(['db.check'])->controller(PartidosController::class)->group(function () {
+    Route::get('/partidos', 'index')->name('partidos.index');
 });
 
 Route::middleware(['db.check'])->controller(LocalidadesController::class)->group(function () {

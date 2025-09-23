@@ -10,10 +10,21 @@ class LocalidadesController extends Controller
     /**
      * Display a listing of the resource.
      */
-    public function index()
+    public function index(Request $request)
     {
-        $localidades = Localidad::with('partido')->paginate(20);
-        return view('localidades.index', compact('localidades'));
+        try {
+            // Si es una petición API con filtro por provincia, devolver arreglo simple
+            if ($request->expectsJson()) {
+                if ($request->filled('id_partido')) {
+                    $query = Localidad::where('id_partido', $request->get('id_partido'));
+                }
+                $localidades = $query->orderBy('nombre')
+                    ->get(['id_localidad as id', 'nombre']);
+                return response()->json($localidades);
+            }
+        } catch (\Exception $e) {
+            return $this->handleGeneralError($e, $request);
+        }
     }
 
     /**
