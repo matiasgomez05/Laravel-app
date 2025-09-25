@@ -19,8 +19,8 @@ return new class extends Migration
             $table->id('id_direccion');
             $table->foreignId('id_localidad')->constrained('localidades', 'id_localidad');
             $table->string('calle');
-            $table->string('numero');
-            $table->integer('piso');
+            $table->integer('numero');
+            $table->string('piso');
             $table->string('codigo_postal');
         });
     }

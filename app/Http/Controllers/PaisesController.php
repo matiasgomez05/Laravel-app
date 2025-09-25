@@ -20,12 +20,6 @@ class PaisesController extends Controller
                 return response()->json($paises);
             }
             
-            // Si es una petición web
-            $paises = Pais::paginate(20);
-            return view('paises.index', compact('paises'));
-            
-        } catch (\Illuminate\Database\QueryException $e) {
-            return $this->handleDatabaseError($e, $request);
         } catch (\Exception $e) {
             return $this->handleGeneralError($e, $request);
         }
@@ -73,8 +67,6 @@ class PaisesController extends Controller
             
             return redirect()->route('paises.index')->with('success', 'País creado correctamente');
             
-        } catch (\Illuminate\Database\QueryException $e) {
-            return $this->handleDatabaseError($e, $request);
         } catch (Exception $e) {
             return $this->handleGeneralError($e, $request);
         }

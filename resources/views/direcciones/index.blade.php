@@ -20,8 +20,9 @@
                 <th scope="col">Calle</th>
                 <th scope="col">Numero</th>
                 <th scope="col">Piso</th>
-                <th scope="col">Código Postal</th>
-                <th scope="col">Cliente asociado</th>
+                <th scope="col">Cód. Pos.</th>
+                <th scope="col">Cliente</th>
+                <th scope="col"></th>
             </tr>
         </thead>
         <tbody>
@@ -35,7 +36,7 @@
                     <td>{{ $direccion->calle ?? '' }}</td>
                     <td>{{ $direccion->numero ?? '' }}</td>
                     <td>{{ $direccion->piso ?? '' }}</td>
-                    <td>{{ $direccion->codigo_postal ?? '' }}</td>
+                    <td >{{ $direccion->codigo_postal ?? '' }}</td>
                     <td>{{ $direccion->cliente->nombre ?? '' }}</td>
                     <td>
                         <a href="{{ route('direcciones.edit', $direccion->id_direccion) }}" class="btn btn-sm btn-warning">Editar</a>

@@ -1,79 +1,110 @@
 @extends('layouts.app')
 
-@section('title', 'Nueva direccion')
 @section('content')
 <div class="container">
-	<h1>Nueva Dirección</h1>
+    <div class="row justify-content-center">
+        <div class="col-md-10">
+            <div class="card">
+                <div class="card-header">
+                    <h4>Crear nueva dirección</h4>
+                </div>
+                <div class="card-body">
 
-	<form method="POST" action="{{ route('direcciones.store') }}" id="direccionForm">
-		@csrf
+                    <form action="{{ route('direcciones.store') }}" method="POST">
+                        @csrf
+						
+                        <div class="mb-3">
+							<label for="pais" class="form-label">País</label>
+							<select id="pais" name="pais" class="form-select @error('pais') is-invalid @enderror" required>
+								<option value="">Seleccione...</option>
+							</select>
+                            @error('pais')
+                                <div class="invalid-feedback">{{ $message }}</div>
+                            @enderror
+                        </div>
 
-		<div class="row g-3">
-			<div class="col-md-3">
-				<label for="pais" class="form-label">País</label>
-				<select id="pais" class="form-select" required>
-					<option value="">Seleccione...</option>
-				</select>
-			</div>
+                        <div class="mb-3">
+							<label for="provincia" class="form-label">Provincia</label>
+							<select id="provincia" name="provincia" class="form-select @error('provincia') is-invalid @enderror" required>
+								<option value="">Seleccione...</option>
+							</select>
+                            @error('provincia')
+                                <div class="invalid-feedback">{{ $message }}</div>
+                            @enderror
+                        </div>
 
-			<div class="col-md-3">
-				<label for="provincia" class="form-label">Provincia</label>
-				<select id="provincia" class="form-select" disabled required>
-					<option value="">Seleccione...</option>
-				</select>
-			</div>
+                        <div class="mb-3">
+							<label for="partido" class="form-label">Partido</label>
+							<select id="partido" name="partido" class="form-select @error('partido') is-invalid @enderror" required>
+								<option value="">Seleccione...</option>
+							</select>
+                            @error('partido')
+                                <div class="invalid-feedback">{{ $message }}</div>
+                            @enderror
+                        </div>
 
-			<div class="col-md-3">
-				<label for="partido" class="form-label">Partido</label>
-				<select id="partido" class="form-select" disabled required>
-					<option value="">Seleccione...</option>
-				</select>
-			</div>
+                        <div class="mb-3">
+							<label for="localidad" class="form-label">Localidad</label>
+							<select id="localidad" name="id_localidad" class="form-select @error('localidad') is-invalid @enderror" required>
+								<option value="">Seleccione...</option>
+							</select>
+                            @error('localidad')
+                                <div class="invalid-feedback">{{ $message }}</div>
+                            @enderror
+                        </div>
 
-			<div class="col-md-3">
-				<label for="localidad" class="form-label">Localidad</label>
-				<select name="localidad" id="localidad" class="form-select" disabled required>
-					<option value="">Seleccione...</option>
-				</select>
-			</div>
+						<div class="mb-3">
+							<label for="calle" class="form-label">Calle</label>
+							<input type="text" name="calle" id="calle" class="form-control" required>
+							@error('calle')
+								<div class="invalid-feedback">{{ $message }}</div>
+							@enderror
+						</div>
 
-			<div class="col-md-6">
-				<label for="calle" class="form-label">Calle</label>
-				<input type="text" name="calle" id="calle" class="form-control" required>
-			</div>
+						<div class="mb-3">
+							<label for="numero" class="form-label">Número</label>
+							<input type="number" name="numero" id="numero" class="form-control" required>
+							@error('numero')
+								<div class="invalid-feedback">{{ $message }}</div>
+							@enderror
+						</div>
 
-			<div class="col-md-2">
-				<label for="numero" class="form-label">Número</label>
-				<input type="text" name="numero" id="numero" class="form-control" required>
-			</div>
+						<div class="mb-3">
+							<label for="piso" class="form-label">Piso</label>
+							<input type="text" name="piso" id="piso" class="form-control">
+							@error('piso')
+								<div class="invalid-feedback">{{ $message }}</div>
+							@enderror
+						</div>
 
-			<div class="col-md-2">
-				<label for="piso" class="form-label">Piso</label>
-				<input type="text" name="piso" id="piso" class="form-control">
-			</div>
+						<div class="mb-3">
+							<label for="codigo_postal" class="form-label">Código Postal</label>
+							<input type="text" name="codigo_postal" id="codigo_postal" class="form-control">
+							@error('codigo_postal')
+								<div class="invalid-feedback">{{ $message }}</div>
+							@enderror
+						</div>
 
-			<div class="col-md-2">
-				<label for="dpto" class="form-label">Dpto</label>
-				<input type="text" name="dpto" id="dpto" class="form-control">
-			</div>
-
-			<div class="col-md-3">
-				<label for="codigo_postal" class="form-label">Código Postal</label>
-				<input type="text" name="codigo_postal" id="codigo_postal" class="form-control">
-			</div>
-		</div>
-
-		<div class="mt-4">
-			<button type="submit" class="btn btn-primary">Guardar</button>
-			<a href="{{ route('direcciones.index') }}" class="btn btn-secondary">Cancelar</a>
-		</div>
-	</form>
+                        <div class="">
+                            <button type="submit" class="btn btn-success me-2">Crear dirección</button>
+                            <a href="{{ route('direcciones.index') }}" class="btn btn-secondary">Cancelar</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <script>
 async function fetchData(url) {
 	try {
-		const response = await fetch(url, { headers: { 'Accept': 'application/json' } });
+		const response = await fetch(url, { 
+			headers: { 
+				'Accept': 'application/json',
+				'Content-Type': 'application/json'
+			} 
+		});
 		if(!response.ok) throw new Error(`error HTTP: ${response.status}`);
 
 		const jsonData = await response.json();
@@ -144,7 +175,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 	// Cargar países
 	try {
 		fillSelect(selPais, null);
-		const paises = await fetchData('/paises');
+		const paises = await fetchData('/api/paises');
 		fillSelect(selPais, paises);
 	} catch (e) {
 		console.error(e);
@@ -161,7 +192,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 		}
 		try {
 			fillSelect(selProvincia, null);
-			const provincias = await fetchData('/provincias?id_pais=' + encodeURIComponent(selPais.value));
+			const provincias = await fetchData('/api/provincias?id_pais=' + encodeURIComponent(selPais.value));
 			fillSelect(selProvincia, provincias);
 		} catch (e) {
 			console.error(e);
@@ -178,7 +209,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 		}
 		try {
 			fillSelect(selPartido, null);
-			const partidos = await fetchData('/partidos?id_provincia=' + encodeURIComponent(selProvincia.value));
+			const partidos = await fetchData('/api/partidos?id_provincia=' + encodeURIComponent(selProvincia.value));
 			fillSelect(selPartido, partidos);
 		} catch (e) {
 			console.error(e);
@@ -194,7 +225,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 		}
 		try {
 			fillSelect(selLocalidad, null);
-			const localidades = await fetchData('/localidades?id_partido=' + encodeURIComponent(selPartido.value));
+			const localidades = await fetchData('/api/localidades?id_partido=' + encodeURIComponent(selPartido.value));
 			fillSelect(selLocalidad, localidades);
 		} catch (e) {
 			console.error(e);

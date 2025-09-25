@@ -13,7 +13,6 @@ class DireccionController extends Controller
     public function index(Request $request)
     {
         try {
-            $direcciones = Direccion::paginate(20);
             
             // Si es una petición API
             if ($request->expectsJson()) {
@@ -24,6 +23,7 @@ class DireccionController extends Controller
             }
             
             // Si es una petición web
+            $direcciones = Direccion::paginate(20);
             return view('direcciones.index', compact('direcciones'));
             
         } catch (\Exception $e) {
@@ -52,7 +52,52 @@ class DireccionController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        try {
+            $request->validate([
+                'id_localidad' => 'required|integer|exists:localidades,id_localidad',
+                'calle' => 'required|string|max:255',
+                'numero' => 'required|integer',
+                'piso' => 'nullable|string|max:255',
+                'codigo_postal' => 'nullable|string|max:255',
+            ]);
+
+            $direccion = Direccion::create([
+                'id_localidad' => $request->id_localidad,
+                'calle' => $request->calle,
+                'numero' => $request->numero,
+                'piso' => $request->piso,
+                'codigo_postal' => $request->codigo_postal,
+            ]);
+
+            if ($request->expectsJson()) {
+                return response()->json([
+                    'success' => true,
+                    'message' => 'Dirección creada correctamente',
+                    'data' => $direccion
+                ], 201);
+            }
+
+            return redirect()->route('direcciones.index')->with('success', 'Dirección creada correctamente');
+            
+        } catch (\Illuminate\Validation\ValidationException $e) {
+            if ($request->expectsJson()) {
+                return response()->json([
+                    'success' => false,
+                    'message' => 'Error de validación',
+                    'errors' => $e->errors()
+                ], 422);
+            }
+            return redirect()->back()->withErrors($e->errors())->withInput();
+            
+        } catch (\Exception $e) {
+            if ($request->expectsJson()) {
+                return response()->json([
+                    'success' => false,
+                    'message' => 'Error interno del servidor'
+                ], 500);
+            }
+            return redirect()->back()->with('error', 'Error al crear la dirección: ' . $e->getMessage())->withInput();
+        }
     }
 
     /**
