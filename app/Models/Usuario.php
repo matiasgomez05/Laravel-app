@@ -4,10 +4,11 @@ namespace App\Models;
 
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Relations\HasOne;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 
-class User extends Authenticatable
+class Usuario extends Authenticatable
 {
     /** @use HasFactory<\Database\Factories\UserFactory> */
     use HasFactory, Notifiable;
@@ -17,10 +18,22 @@ class User extends Authenticatable
      *
      * @var list<string>
      */
+    protected $table = 'usuarios';
+    const CREATED_AT = 'fecha_registro';
+    const UPDATED_AT = 'ultima_actualizacion';
+
     protected $fillable = [
-        'name',
+        'nombre',
+        'apellido',
+        'telefono',
         'email',
+        'id_direccion',
+        'fecha_registro',
+        'ultima_actualzacion',
+        'activo',
+        'username',
         'password',
+        'esAdmin',
     ];
 
     /**
@@ -43,6 +56,8 @@ class User extends Authenticatable
         return [
             'email_verified_at' => 'datetime',
             'password' => 'hashed',
+            'activo' => 'boolean',
+            'esAdmin' => 'boolean',
         ];
     }
 }

@@ -28,9 +28,17 @@ Route::middleware(['db.check'])->controller(DireccionController::class)->group(f
     Route::get('/direcciones', 'index')->name('direcciones.index');
     Route::get('/direcciones/create', 'create')->name('direcciones.create');
     Route::post('/direcciones', 'store')->name('direcciones.store');
-    Route::get('/direcciones/{direcciones}/edit', 'edit')->name('direcciones.edit');
-    Route::put('/direcciones/{direcciones}', 'update')->name('direcciones.update');
-    Route::delete('/direcciones/{direcciones}', 'destroy')->name('direcciones.destroy');
+    Route::get('/direcciones/{direccion}', 'show')->name('direcciones.show');
+    Route::get('/direcciones/{direccion}/edit', 'edit')->name('direcciones.edit');
+    Route::put('/direcciones/{direccion}', 'update')->name('direcciones.update');
+    Route::delete('/direcciones/{direccion}', 'destroy')->name('direcciones.destroy');
+});
+
+/* ABM Usuarios */ 
+Route::middleware(['db.check'])->controller(ClienteController::class)->group(function () {
+    Route::get('/clientes', 'index')->name('clientes.index');
+    Route::get('/clientes/{cliente}/edit', 'edit')->name('clientes.edit');
+    Route::put('/clientes/{cliente}', 'update')->name('clientes.update');
 });
 
 require __DIR__.'/settings.php';

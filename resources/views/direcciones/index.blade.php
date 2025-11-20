@@ -22,25 +22,29 @@
                 <th scope="col">Piso</th>
                 <th scope="col">Cód. Pos.</th>
                 <th scope="col">Cliente</th>
+                <th scope="col">Creado</th>
+                <th scope="col">Actualizado</th>
                 <th scope="col"></th>
             </tr>
         </thead>
         <tbody>
             @foreach($direcciones as $direccion)
                 <tr>
-                    <td>{{ $direccion->id_direccion }}</td>
+                    <td>{{ $direccion->id }}</td>
                     <td>{{ $direccion->localidad->partido->provincia->pais->nombre ?? '' }}</td>
                     <td>{{ $direccion->localidad->partido->provincia->nombre ?? '' }}</td>
                     <td>{{ $direccion->localidad->partido->nombre ?? '' }}</td>
                     <td>{{ $direccion->localidad->nombre ?? '' }}</td>
                     <td>{{ $direccion->calle ?? '' }}</td>
                     <td>{{ $direccion->numero ?? '' }}</td>
-                    <td>{{ $direccion->piso ?? '' }}</td>
-                    <td >{{ $direccion->codigo_postal ?? '' }}</td>
-                    <td>{{ $direccion->cliente->nombre ?? '' }}</td>
+                    <td>{{ $direccion->piso ?? '-' }}</td>
+                    <td>{{ $direccion->codigo_postal ?? '-' }}</td>
+                    <td>{{ $direccion->cliente->nombre ?? '-' }}</td>
+                    <td>{{ $direccion->fecha_registro->format('d/m/Y') ?? '-' }}</td>
+                    <td>{{ $direccion->ultima_actualizacion->diffForHumans() ?? '-' }}</td>
                     <td>
-                        <a href="{{ route('direcciones.edit', $direccion->id_direccion) }}" class="btn btn-sm btn-warning">Editar</a>
-                        <form action="{{ route('direcciones.destroy', $direccion->id_direccion) }}" method="POST" style="display:inline;">
+                        <a href="{{ route('direcciones.edit', $direccion) }}" class="btn btn-sm btn-warning">Editar</a>
+                        <form action="{{ route('direcciones.destroy', $direccion) }}" method="POST" style="display:inline;">
                             @csrf
                             @method('DELETE')
                             <button type="submit" class="btn btn-sm btn-danger">Eliminar</button>

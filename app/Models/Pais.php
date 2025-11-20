@@ -8,11 +8,8 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 class Pais extends Model
 {
     protected $table = 'paises';
-    protected $primaryKey = 'id_pais';
-    public $timestamps = false; 
 
     protected $fillable = [
-        'id_pais',
         'nombre',
         'codigo',
         'capital',
@@ -20,6 +17,8 @@ class Pais extends Model
         'numero_de_telefono',
     ];
 
+    public $timestamps = false; 
+    
     public function provincias(): HasMany
     {
         return $this->hasMany(Provincia::class);

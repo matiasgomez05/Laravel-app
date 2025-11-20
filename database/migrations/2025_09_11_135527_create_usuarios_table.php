@@ -6,19 +6,29 @@ use Illuminate\Support\Facades\Schema;
 
 return new class extends Migration
 {
+    protected $table = 'usuarios';
+    protected $primaryKey = 'id_usuario';
+
     /**
      * Run the migrations.
      */
     public function up(): void
     {
-        Schema::create('users', function (Blueprint $table) {
+        Schema::create('usuarios', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
+            $table->string('nombre');
+            $table->string('apellido');
+            $table->integer('telefono')->nullable();
             $table->string('email')->unique();
             $table->timestamp('email_verified_at')->nullable();
+            $table->foreignId('id_direccion')->nullable()->constrained('direcciones', 'id');
+            $table->timestamp('fecha_registro')->useCurrent();
+            $table->timestamp('ultima_actualizacion')->useCurrent()->useCurrentOnUpdate();
+            $table->string('username');
             $table->string('password');
+            $table->boolean('activo')->default(true);
+            $table->boolean('es_admin')->default(false);
             $table->rememberToken();
-            $table->timestamps();
         });
 
         Schema::create('password_reset_tokens', function (Blueprint $table) {

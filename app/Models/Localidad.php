@@ -11,17 +11,17 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 class Localidad extends Model
 {
     protected $table = 'localidades';
-    protected $primaryKey = 'id_localidad';
-    
+
     protected $fillable = [
-        'id_localidad',
         'id_partido',
         'nombre',
     ];
 
+    public $timestamps = false; 
+
     public function partido(): BelongsTo
     {
-        return $this->BelongsTo(Partido::class, "id_partido" ,"id_partido");
+        return $this->BelongsTo(Partido::class, "id_partido" ,"id");
     }
 
     public function direcciones(): HasMany

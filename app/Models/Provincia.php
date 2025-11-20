@@ -10,18 +10,17 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 class Provincia extends Model
 {
     protected $table = 'provincias';
-    protected $primaryKey = 'id_provincia';
-    public $timestamps = false; 
-    
+
     protected $fillable = [
-        'id_provincia',
         'id_pais',
         'nombre',
     ];
 
+    public $timestamps = false; 
+
     public function pais(): BelongsTo
     {
-        return $this->BelongsTo(Pais::class, "id_pais" ,"id_pais");
+        return $this->BelongsTo(Pais::class, "id_pais" ,"id");
     }
 
     public function partidos(): HasMany

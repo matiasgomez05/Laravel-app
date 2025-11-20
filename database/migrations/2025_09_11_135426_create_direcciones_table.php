@@ -8,7 +8,6 @@ return new class extends Migration
 {
     protected $table = 'direcciones';
     protected $primaryKey = 'id_direccion';
-    public $timestamps = false;
 
     /**
      * Run the migrations.
@@ -16,12 +15,15 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('direcciones', function (Blueprint $table) {
-            $table->id('id_direccion');
-            $table->foreignId('id_localidad')->constrained('localidades', 'id_localidad');
+            $table->id();
+            $table->foreignId('id_localidad')->constrained('localidades', 'id');
             $table->string('calle');
             $table->integer('numero');
-            $table->string('piso');
-            $table->string('codigo_postal');
+            $table->string('piso')->nullable();
+            $table->string('codigo_postal')->nullable();
+            $table->timestamp('fecha_registro')->useCurrent();
+            $table->timestamp('ultima_actualizacion')->useCurrent()->useCurrentOnUpdate();
+            $table->string('slug')->unique();
         });
     }
 

@@ -2,8 +2,7 @@
 
 namespace Database\Seeders;
 
-use App\Models\User;
-// use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use App\Models\Usuario;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Database\Seeder;
 
@@ -14,12 +13,15 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
-        // User::factory(10)->create();
-/*
-        User::factory()->create([
-            'name' => 'Test User',
-            'email' => 'test@example.com',
-        ]);*/
+        //Usuario Admin
+        $usuario = new Usuario();
+        $usuario->nombre = 'Admin';
+        $usuario->apellido = 'Admin';
+        $usuario->email = 'admin@admin.com';
+        $usuario->username = 'admin';
+        $usuario->password = bcrypt('admin');
+        $usuario->save();
+
         // Paises
         $paises = json_decode(file_get_contents(database_path('data/paises.json')), true);
         DB::table('paises')->insert($paises);

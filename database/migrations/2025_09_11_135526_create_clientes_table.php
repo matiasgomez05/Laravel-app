@@ -8,20 +8,19 @@ return new class extends Migration
 {
     protected $table = 'clientes';
     protected $primaryKey = 'id_cliente';
-    public $timestamps = false;
-
+    
     /**
      * Run the migrations.
      */
     public function up(): void
     {
         Schema::create('clientes', function (Blueprint $table) {
-            $table->id('id_cliente');
+            $table->id();
             $table->string('nombre');
             $table->string('apellido');
-            $table->integer('telefono');
-            $table->string('email');
-            $table->foreignId('id_direccion')->constrained('direcciones', 'id_direccion');
+            $table->integer('telefono')->nullable();
+            $table->string('email')->unique();
+            $table->foreignId('id_direccion')->nullable()->constrained('direcciones', 'id');
             $table->timestamp('fecha_registro')->useCurrent();
             $table->timestamp('ultima_actualizacion')->useCurrent()->useCurrentOnUpdate();
         });

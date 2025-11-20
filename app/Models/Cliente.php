@@ -2,29 +2,22 @@
 
 namespace App\Models;
 
-use App\Models\Direccion;
-use Illuminate\Database\Eloquent\Model;
+use App\Abstracts\Persona;
 use Illuminate\Database\Eloquent\Relations\HasOne;
 
-class Cliente extends Model
+class Cliente extends Persona
 {
-    protected $table = 'Clientes';
-    protected $primaryKey = 'id_cliente';
-    
-    protected $fillable = [
-        'id_cliente',
-        'nombre',
-        'apellido',
-        'telefono',
-        'email',
-        'id_direccion',
-        'fecha_registro',
-        'ultima_actualizacion',
-    ];
+    protected $table = 'clientes';
 
-    public function direccion(): HasOne
+    protected function direccion(): HasOne
     {
-        return $this->HasOne(Direccion::class, "id_direccion" ,"id_direccion");
+        return $this->HasOne(Direccion::class, 'id', 'id_direccion');
+    }
+
+    protected function casts(): array {
+        return [
+            'activo' => 'boolean'
+        ];
     }
 }
 

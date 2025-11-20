@@ -16,8 +16,8 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('provincias', function (Blueprint $table) {
-            $table->id('id_provincia');
-            $table->foreignId('id_pais')->constrained('paises', 'id_pais');
+            $table->id('id');
+            $table->foreignId('id_pais')->constrained('paises', 'id');
             $table->string('nombre');
         });
     }

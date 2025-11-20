@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Matias Gomez">
-    <title>@yield('title')</title>
+    <title>@yield('title', 'Sueños en telas')</title>
     <!-- Libreria Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
@@ -33,15 +33,13 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link {{ request()->routeIs('paises.*') ? 'active' : 'ps-0 ms-0' }}" href="{{ route('paises.index') }}">
-                        <span data-feather="file"></span>
-                        Países
+                        <a class="nav-link {{ request()->routeIs('direcciones.*') ? 'active' : 'ps-0 ms-0' }}" href="{{ route('direcciones.index') }}">
+                            <span data-feather="file"></span> Direcciones
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link {{ request()->routeIs('provincias.*') ? 'active' : 'ps-0 ms-0' }}" href="{{ route('provincias.index') }}">
-                        <span data-feather="book"></span>
-                        Provincias
+                        <a class="nav-link {{ request()->routeIs('clientes.*') ? 'active' : 'ps-0 ms-0' }}" href="{{ route('clientes.index') }}">
+                            <span data-feather="file"></span> Clientes
                         </a>
                     </li>
                     </ul>
@@ -50,25 +48,13 @@
 
             <main class="container col-md-9 col-lg-10">
                 <div class="mt-3">
-                <!-- Mensajes flash -->
-                @if(session('success'))
-                <div class="alert alert-success alert-dismissible fade show mt-2" role="alert">
-                    {{ session('success') }}
-                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
-                </div>
-                @endif
-                @if (session('error'))
-                <div class="alert alert-danger alert-dismissible fade show mt-2" role="alert">
-                    {{ session('error') }}
-                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
-                </div>
-                @endif
-                @yield('content')
+                    <x-alert />
+                    @yield('content')
                 </div>
             </main>
         </div>
     </div>
-    <footer class="container-fluid">
+    <footer class="container-fluid mt-auto">
         <hr>
         <center><small>SET v0.1.0 &copy; Matias Gomez - Todos los derechos reservados.</small></center>
     </footer>

@@ -1,30 +1,33 @@
 @extends('layouts.app')
-
+@section('title', 'Listado de Direcciones -- Editar')
 @section('content')
+
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-10">
             <div class="card">
                 <div class="card-header">
-                    <h4>Crear nueva dirección</h4>
+                    <h4>Editar dirección</h4>
                 </div>
                 <div class="card-body">
-                    <form action="{{ route('direcciones.store') }}" method="POST">
+
+                    <form action="{{ route('direcciones.update', $direccion) }}" method="POST">
                         @csrf
-						
+						@method('PUT')
+
                         <div class="mb-3">
 							<label for="pais" class="form-label">País</label>
-							<select id="pais" name="pais" class="form-select @error('pais') is-invalid @enderror">
-								<option value="">Seleccione...</option>
-							</select>
-                            @error('pais')
+						<select id="pais" name="pais" class="form-select @error('pais') is-invalid @enderror" required>
+							<option value="">Seleccione...</option>
+						</select>
+						@error('pais')
                                 <div class="invalid-feedback">{{ $message }}</div>
                             @enderror
                         </div>
 
                         <div class="mb-3">
 							<label for="provincia" class="form-label">Provincia</label>
-							<select id="provincia" name="provincia" class="form-select @error('provincia') is-invalid @enderror">
+							<select id="provincia" name="provincia" class="form-select @error('provincia') is-invalid @enderror" required>
 								<option value="">Seleccione...</option>
 							</select>
                             @error('provincia')
@@ -34,7 +37,7 @@
 
                         <div class="mb-3">
 							<label for="partido" class="form-label">Partido</label>
-							<select id="partido" name="partido" class="form-select @error('partido') is-invalid @enderror">
+							<select id="partido" name="partido" class="form-select @error('partido') is-invalid @enderror" required>
 								<option value="">Seleccione...</option>
 							</select>
                             @error('partido')
@@ -44,17 +47,17 @@
 
                         <div class="mb-3">
 							<label for="localidad" class="form-label">Localidad</label>
-							<select id="localidad" name="id_localidad" class="form-select @error('localidad') is-invalid @enderror" aria-describedby="localidadError">
+							<select id="localidad" name="id_localidad" class="form-select @error('localidad') is-invalid @enderror" required>
 								<option value="">Seleccione...</option>
 							</select>
                             @error('localidad')
-                                <div id="localidadError" class="invalid-feedback">{{ $message }}</div>
+                                <div class="invalid-feedback">{{ $message }}</div>
                             @enderror
                         </div>
 
 						<div class="mb-3">
 							<label for="calle" class="form-label">Calle</label>
-							<input type="text" name="calle" id="calle" class="form-control @error('calle') is-invalid @enderror" value="{{ old('calle') }}">
+						<input type="text" name="calle" id="calle" class="form-control" value="{{ old('calle', $direccion->calle) }}" required>
 							@error('calle')
 								<div class="invalid-feedback">{{ $message }}</div>
 							@enderror
@@ -62,7 +65,7 @@
 
 						<div class="mb-3">
 							<label for="numero" class="form-label">Número</label>
-							<input type="number" name="numero" id="numero" class="form-control @error('numero') is-invalid @enderror" value="{{ old('numero') }}">
+						<input type="number" name="numero" id="numero" class="form-control" value="{{ old('numero', $direccion->numero) }}" required>
 							@error('numero')
 								<div class="invalid-feedback">{{ $message }}</div>
 							@enderror
@@ -70,17 +73,23 @@
 
 						<div class="mb-3">
 							<label for="piso" class="form-label">Piso</label>
-							<input type="text" name="piso" id="piso" class="form-control" value="{{ old('piso') }}">
+						<input type="text" name="piso" id="piso" class="form-control" value="{{ old('piso', $direccion->piso) }}">
+							@error('piso')
+								<div class="invalid-feedback">{{ $message }}</div>
+							@enderror
 						</div>
 
 						<div class="mb-3">
 							<label for="codigo_postal" class="form-label">Código Postal</label>
-							<input type="text" name="codigo_postal" id="codigo_postal" class="form-control" value="{{ old('codigo_postal') }}">
+						<input type="text" name="codigo_postal" id="codigo_postal" class="form-control" value="{{  old('codigo_postal', $direccion->codigo_postal) }}">
+							@error('codigo_postal')
+								<div class="invalid-feedback">{{ $message }}</div>
+							@enderror
 						</div>
 
                         <div class="">
-                            <button type="submit" class="btn btn-success me-2">Crear dirección</button>
-                            <a href="{{ route('direcciones.index') }}" class="btn btn-secondary">Cancelar</a>
+                            <button type="submit" class="btn btn-success me-2">Actualizar dirección</button>
+                            <a href=" {{ route('direcciones.index') }}" class="btn btn-secondary">Cancelar</a>
                         </div>
                     </form>
                 </div>
@@ -90,6 +99,16 @@
 </div>
 
 <script>
+@php
+$__prefill = [
+    'localidadId' => old('id_localidad', data_get($direccion, 'localidad.id')),
+    'partidoId' => data_get($direccion, 'localidad.partido.id'),
+    'provinciaId' => data_get($direccion, 'localidad.partido.provincia.id'),
+    'paisId' => data_get($direccion, 'localidad.partido.provincia.pais.id'),
+];
+@endphp
+// Valores actuales para preseleccionar en edición
+const DIRECCION_PREFILL = @json($__prefill);
 async function fetchData(url) {
 	try {
 		const response = await fetch(url, { 
@@ -173,6 +192,44 @@ document.addEventListener('DOMContentLoaded', async () => {
 	} catch (e) {
 		console.error(e);
 	}
+
+	// Prefill en modo edición
+	(async () => {
+		const { paisId, provinciaId, partidoId, localidadId } = DIRECCION_PREFILL || {};
+		if (!paisId && !provinciaId && !partidoId && !localidadId) return;
+
+		// 1) País
+		if (paisId) {
+			selPais.value = String(paisId);
+		}
+		// 2) Provincias según país
+		if (selPais.value) {
+			try {
+				fillSelect(selProvincia, null);
+				const provincias = await fetchData('/api/provincias?id_pais=' + encodeURIComponent(selPais.value));
+				fillSelect(selProvincia, provincias);
+				if (provinciaId) selProvincia.value = String(provinciaId);
+			} catch (e) { console.error(e); }
+		}
+		// 3) Partidos según provincia
+		if (selProvincia.value) {
+			try {
+				fillSelect(selPartido, null);
+				const partidos = await fetchData('/api/partidos?id_provincia=' + encodeURIComponent(selProvincia.value));
+				fillSelect(selPartido, partidos);
+				if (partidoId) selPartido.value = String(partidoId);
+			} catch (e) { console.error(e); }
+		}
+		// 4) Localidades según partido
+		if (selPartido.value) {
+			try {
+				fillSelect(selLocalidad, null);
+				const localidades = await fetchData('/api/localidades?id_partido=' + encodeURIComponent(selPartido.value));
+				fillSelect(selLocalidad, localidades);
+				if (localidadId) selLocalidad.value = String(localidadId);
+			} catch (e) { console.error(e); }
+		}
+	})();
 
 	// Cambio de país -> cargar provincias
 	selPais.addEventListener('change', async () => {

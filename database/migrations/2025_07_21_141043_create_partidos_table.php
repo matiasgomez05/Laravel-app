@@ -16,8 +16,8 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('partidos', function (Blueprint $table) {
-            $table->id('id_partido');
-            $table->foreignId('id_provincia')->constrained('provincias', 'id_provincia');
+            $table->id('id');
+            $table->foreignId('id_provincia')->constrained('provincias', 'id');
             $table->string('nombre');
         });
     }
