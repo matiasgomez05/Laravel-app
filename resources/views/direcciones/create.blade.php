@@ -9,7 +9,7 @@
                     <h4>Crear nueva dirección</h4>
                 </div>
                 <div class="card-body">
-                    <form action="{{ route('direcciones.store') }}" method="POST">
+                    <form id="direccionForm" action="{{ route('direcciones.store') }}" method="POST">
                         @csrf
 						
                         <div class="mb-3">
@@ -79,7 +79,7 @@
 						</div>
 
                         <div class="">
-                            <button type="submit" class="btn btn-success me-2">Crear dirección</button>
+                            <button id="submitDireccion" type="submit" class="btn btn-success me-2">Crear dirección</button>
                             <a href="{{ route('direcciones.index') }}" class="btn btn-secondary">Cancelar</a>
                         </div>
                     </form>
@@ -224,6 +224,15 @@ document.addEventListener('DOMContentLoaded', async () => {
 			console.error(e);
 		}
 	});
+
+	const direccionForm = document.getElementById('direccionForm');
+	const submitButton = document.getElementById('submitDireccion');
+	if (direccionForm && submitButton) {
+		direccionForm.addEventListener('submit', () => {
+			submitButton.disabled = true;
+			submitButton.innerHTML = 'Guardando...';
+		});
+	}
 });
 </script>
 @endsection

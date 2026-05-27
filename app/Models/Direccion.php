@@ -6,6 +6,7 @@ use App\Models\Cliente;
 use Illuminate\Database\Eloquent\Casts\Attribute;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Support\Str;
 
 class Direccion extends Model
 {
@@ -21,14 +22,21 @@ class Direccion extends Model
         'numero',
         'piso',
         'codigo_postal',
-        'fecha_registro',
-        'ultima_actualzacion',
     ];
 
     /* Campos para formularios que deben ignorarse */
     protected $guarded = [
         
     ];
+
+    protected static function booted(): void
+    {
+        static::creating(function (Direccion $direccion) {
+            if (empty($direccion->slug)) {
+                $direccion->slug = Str::slug($direccion->calle . '-' . $direccion->numero . '-' . uniqid());
+            }
+        });
+    }
 
     protected function calle(): Attribute{
         return Attribute::make(

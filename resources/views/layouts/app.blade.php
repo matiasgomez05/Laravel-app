@@ -1,4 +1,5 @@
 
+@include('sweetalert2::index')
 <!doctype html>
 <html lang="es">
 <head>

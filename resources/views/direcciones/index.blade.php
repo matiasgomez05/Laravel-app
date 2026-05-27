@@ -47,7 +47,7 @@
                         <form action="{{ route('direcciones.destroy', $direccion) }}" method="POST" style="display:inline;">
                             @csrf
                             @method('DELETE')
-                            <button type="submit" class="btn btn-sm btn-danger">Eliminar</button>
+                            <button type="submit" class="btn btn-sm btn-danger delete-direccion-button">Eliminar</button>
                         </form>
                     </td>
                 </tr>

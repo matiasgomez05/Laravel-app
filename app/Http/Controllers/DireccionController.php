@@ -34,7 +34,7 @@ class DireccionController extends Controller
      */
     public function store(StoreDireccionRequest $request)
     {
-        Direccion::create($request->all());
+        Direccion::create($request->validated());
         //Notificacion por mail utilizando el support de Facades
         //Mail::to('nuevo@destino.com')->send(new DireccionCreateMail);
         return redirect()->route('direcciones.index')->with('success', 'Direccion creada correctamente');
